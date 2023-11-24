@@ -33,6 +33,10 @@ export const ModalWord = () => {
 					className="absolute bx bxs-x-circle text-3xl text-red-500 top-1 right-1 cursor-pointer"
 					onClick={() => setModalWord(null)}
 				></i>
+
+				<button className="bg-green-500 w-[60%] py-2 px-3 rounded-md font-bold m-auto">
+					¿No conocías esta palabra?, guárdala
+				</button>
 			</div>
 		</section>
 	);

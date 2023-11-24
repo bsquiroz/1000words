@@ -1,6 +1,13 @@
 import { useEffect } from "react";
 
-import { Container, ContentButton, ModalWord, Words } from "./components";
+import {
+	Container,
+	ContentButton,
+	Header,
+	ModalStudyWords,
+	ModalWord,
+	Words,
+} from "./components";
 import { useStore } from "./store";
 import { cn } from "./utils/cn.utility";
 
@@ -29,12 +36,11 @@ export const App = () => {
 
 	return (
 		<Container>
-			<h2 className={cn("font-bold text-end")}>
-				Cantidad de palabras: {words.length} palabras
-			</h2>
+			<Header />
 			<ContentButton />
 			<Words />
 			<ModalWord />
+			<ModalStudyWords />
 		</Container>
 	);
 };
