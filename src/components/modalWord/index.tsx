@@ -1,8 +1,25 @@
 import { useStore } from "../../store";
 import { cn } from "../../utils/cn.utility";
 
+import { toast } from "react-toastify";
+
 export const ModalWord = () => {
 	const { modalWord, setModalWord } = useStore((state) => state);
+
+	const handleSaveWordStudy = () => {
+		toast.success("Palabra agregada exitosamente", {
+			position: "bottom-right",
+			autoClose: 3000,
+			hideProgressBar: false,
+			closeOnClick: true,
+			pauseOnHover: true,
+			draggable: true,
+			progress: undefined,
+		});
+
+		setModalWord(null);
+	};
+
 	return (
 		<section
 			className={cn(
@@ -34,7 +51,10 @@ export const ModalWord = () => {
 					onClick={() => setModalWord(null)}
 				></i>
 
-				<button className="bg-green-500 w-[60%] py-2 px-3 rounded-md font-bold m-auto">
+				<button
+					className="bg-green-500 w-[60%] py-2 px-3 rounded-md font-bold m-auto"
+					onClick={handleSaveWordStudy}
+				>
 					¿No conocías esta palabra?, guárdala
 				</button>
 			</div>

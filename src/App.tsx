@@ -8,8 +8,8 @@ import {
 	ModalWord,
 	Words,
 } from "./components";
+
 import { useStore } from "./store";
-import { cn } from "./utils/cn.utility";
 
 export const App = () => {
 	const { words, valuesIndexWord, setWordsCurrent } = useStore(
