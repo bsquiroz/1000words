@@ -12,7 +12,7 @@ import {
 import { useStore } from "./store";
 
 export const App = () => {
-	const { words, valuesIndexWord, setWordsCurrent } = useStore(
+	const { words, valuesIndexWord, setWordsCurrent, wordStudy } = useStore(
 		(state) => state
 	);
 
@@ -33,6 +33,10 @@ export const App = () => {
 			setWordsCurrent(wordAux);
 		}
 	}, [valuesIndexWord]);
+
+	useEffect(() => {
+		localStorage.setItem("wordStudy", JSON.stringify(wordStudy));
+	}, [wordStudy]);
 
 	return (
 		<Container>

@@ -14,7 +14,9 @@ export const Words = () => {
 					onClick={() => setModalWord(word)}
 				>
 					<span className="font-bold">{word.id + 1}.</span>{" "}
-					<span className="tracking-wide">{word.word}</span>
+					<span className="tracking-widest capitalize ">
+						{word.word}
+					</span>
 				</li>
 			))}
 		</ul>

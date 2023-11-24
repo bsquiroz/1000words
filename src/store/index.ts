@@ -3,7 +3,10 @@ import { create } from "zustand";
 import { Word } from "../interfaces";
 import { words } from "../data/words";
 
-type Store = {
+import { devtools } from "zustand/middleware";
+import { persist } from "zustand/middleware";
+
+interface Store {
 	words: Word[];
 	wordsCurrent: Word[];
 	modalWord: Word | null;
@@ -12,11 +15,14 @@ type Store = {
 		endWord: number;
 	};
 	isShowModalStuding: boolean;
+	wordStudy: Word[];
 	setValueIndexWord: (value: { initWord: number; endWord: number }) => void;
 	setWordsCurrent: (value: Word[]) => void;
 	setModalWord: (value: Word | null) => void;
 	setIsModalStuding: (value: boolean) => void;
-};
+	setWordStudy: (value: Word) => void;
+	setModalStudyDelete: (value: Word) => void;
+}
 
 export const useStore = create<Store>()((set) => ({
 	words: words,
@@ -28,10 +34,15 @@ export const useStore = create<Store>()((set) => ({
 	wordsCurrent:
 		JSON.parse(localStorage.getItem("wordsCurrent")!) || words.slice(0, 10),
 	isShowModalStuding: false,
+	wordStudy: JSON.parse(localStorage.getItem("wordStudy")!) || [],
 	setValueIndexWord: (value) => set({ valuesIndexWord: value }),
 	setWordsCurrent: (value) => set({ wordsCurrent: value }),
 	setModalWord: (value) => set({ modalWord: value }),
 	setIsModalStuding: (value) => set({ isShowModalStuding: value }),
+	setWordStudy: (value) =>
+		set((state) => ({ wordStudy: [...state.wordStudy, value] })),
+	setModalStudyDelete: (value) =>
+		set((state) => ({
+			wordStudy: state.wordStudy.filter((word) => word.id !== value.id),
+		})),
 }));
-
-console.log(JSON.parse(localStorage.getItem("wordsCurrent")!));

@@ -1,10 +1,15 @@
+import { Word } from "../../interfaces";
 import { useStore } from "../../store";
 import { cn } from "../../utils/cn.utility";
 
 export const ModalStudyWords = () => {
-	const { isShowModalStuding, setIsModalStuding } = useStore(
-		(state) => state
-	);
+	const { isShowModalStuding, setIsModalStuding, wordStudy, setModalWord } =
+		useStore((state) => state);
+
+	const handleShowWordStudy = (word: Word) => {
+		setModalWord(word);
+	};
+
 	return (
 		<section
 			className={cn(
@@ -16,7 +21,12 @@ export const ModalStudyWords = () => {
 			)}
 		>
 			<div className="flex justify-end items-center gap-5">
-				<h2>Palabras ha estudiar: 98</h2>
+				<h2>
+					Palabras ha estudiar:{" "}
+					<span className="font-bold text-2xl">
+						{wordStudy.length}
+					</span>
+				</h2>
 				<button
 					className={cn("bg-red-500 py-2 px-5 rounded-md font-bold")}
 					onClick={() => setIsModalStuding(false)}
@@ -24,6 +34,21 @@ export const ModalStudyWords = () => {
 					Volver
 				</button>
 			</div>
+
+			<ul className="flex gap-5 flex-wrap max-w-2xl m-auto">
+				{wordStudy.map((word) => (
+					<li
+						className={cn(
+							"border-2 border-green-500 px-5 py-2 rounded-md cursor-pointer font-bold",
+							"hover:bg-green-500 transition-all flex-1 text-center"
+						)}
+						key={word.id}
+						onClick={() => handleShowWordStudy(word)}
+					>
+						{word.word}
+					</li>
+				))}
+			</ul>
 		</section>
 	);
 };

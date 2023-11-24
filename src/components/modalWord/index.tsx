@@ -4,11 +4,53 @@ import { cn } from "../../utils/cn.utility";
 import { toast } from "react-toastify";
 
 export const ModalWord = () => {
-	const { modalWord, setModalWord } = useStore((state) => state);
+	const {
+		modalWord,
+		setModalWord,
+		setWordStudy,
+		isShowModalStuding,
+		setModalStudyDelete,
+		wordStudy,
+	} = useStore((state) => state);
 
 	const handleSaveWordStudy = () => {
+		if (modalWord) {
+			const foundWordInStudy = wordStudy.find(
+				(word) => word.id === modalWord.id
+			);
+
+			if (foundWordInStudy)
+				return toast.error("Esta palabra ya la tienes agregada", {
+					position: "bottom-right",
+					autoClose: 3000,
+					hideProgressBar: false,
+					closeOnClick: true,
+					pauseOnHover: true,
+					draggable: true,
+					progress: undefined,
+				});
+
+			setWordStudy(modalWord);
+		}
 		toast.success("Palabra agregada exitosamente", {
 			position: "bottom-right",
+			autoClose: 3000,
+			hideProgressBar: false,
+			closeOnClick: true,
+			pauseOnHover: true,
+			draggable: true,
+			progress: undefined,
+		});
+
+		setModalWord(null);
+	};
+
+	const handleWordDelete = () => {
+		if (modalWord) {
+			setModalStudyDelete(modalWord);
+		}
+		toast.info("Palabra Eliminada exitosamente", {
+			position: "bottom-left",
 			autoClose: 3000,
 			hideProgressBar: false,
 			closeOnClick: true,
@@ -23,7 +65,7 @@ export const ModalWord = () => {
 	return (
 		<section
 			className={cn(
-				"fixed top-0 left-0 p-5 bg-slate-900/10 w-full h-full flex justify-center items-center backdrop-blur-sm",
+				"z-50 fixed top-0 left-0 p-5 bg-slate-900/10 w-full h-full flex justify-center items-center backdrop-blur-sm",
 				"opacity-0 invisible transition-all duration-200",
 				{
 					"visible opacity-100": modalWord,
@@ -51,12 +93,21 @@ export const ModalWord = () => {
 					onClick={() => setModalWord(null)}
 				></i>
 
-				<button
-					className="bg-green-500 w-[60%] py-2 px-3 rounded-md font-bold m-auto"
-					onClick={handleSaveWordStudy}
-				>
-					¿No conocías esta palabra?, guárdala
-				</button>
+				{isShowModalStuding ? (
+					<button
+						className="bg-red-500 w-[60%] py-2 px-3 rounded-md font-bold m-auto"
+						onClick={handleWordDelete}
+					>
+						¿Ya la dominas? Bórrala.
+					</button>
+				) : (
+					<button
+						className="bg-green-500 w-[60%] py-2 px-3 rounded-md font-bold m-auto"
+						onClick={handleSaveWordStudy}
+					>
+						¿No conocías esta palabra? guárdala.
+					</button>
+				)}
 			</div>
 		</section>
 	);
