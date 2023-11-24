@@ -24,25 +24,36 @@ interface Store {
 	setModalStudyDelete: (value: Word) => void;
 }
 
-export const useStore = create<Store>()((set) => ({
-	words: words,
-	modalWord: null,
-	valuesIndexWord: JSON.parse(localStorage.getItem("valuesIndexWord")!) || {
-		initWord: 0,
-		endWord: 10,
-	},
-	wordsCurrent:
-		JSON.parse(localStorage.getItem("wordsCurrent")!) || words.slice(0, 10),
-	isShowModalStuding: false,
-	wordStudy: JSON.parse(localStorage.getItem("wordStudy")!) || [],
-	setValueIndexWord: (value) => set({ valuesIndexWord: value }),
-	setWordsCurrent: (value) => set({ wordsCurrent: value }),
-	setModalWord: (value) => set({ modalWord: value }),
-	setIsModalStuding: (value) => set({ isShowModalStuding: value }),
-	setWordStudy: (value) =>
-		set((state) => ({ wordStudy: [...state.wordStudy, value] })),
-	setModalStudyDelete: (value) =>
-		set((state) => ({
-			wordStudy: state.wordStudy.filter((word) => word.id !== value.id),
-		})),
-}));
+export const useStore = create<Store>()(
+	devtools(
+		persist(
+			(set) => ({
+				words: words,
+				modalWord: null,
+				valuesIndexWord: {
+					initWord: 0,
+					endWord: 10,
+				},
+				wordsCurrent: words.slice(0, 10),
+				isShowModalStuding: false,
+				wordStudy: [],
+				setValueIndexWord: (value) => set({ valuesIndexWord: value }),
+				setWordsCurrent: (value) => set({ wordsCurrent: value }),
+				setModalWord: (value) => set({ modalWord: value }),
+				setIsModalStuding: (value) =>
+					set({ isShowModalStuding: value }),
+				setWordStudy: (value) =>
+					set((state) => ({
+						wordStudy: [...state.wordStudy, value],
+					})),
+				setModalStudyDelete: (value) =>
+					set((state) => ({
+						wordStudy: state.wordStudy.filter(
+							(word) => word.id !== value.id
+						),
+					})),
+			}),
+			{ name: "1000words" }
+		)
+	)
+);

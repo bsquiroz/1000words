@@ -20,7 +20,7 @@ export const ModalStudyWords = () => {
 				}
 			)}
 		>
-			<div className="flex justify-end items-center gap-5">
+			<div className="flex justify-end items-center gap-5 pb-5">
 				<h2>
 					Palabras ha estudiar:{" "}
 					<span className="font-bold text-2xl">
@@ -35,7 +35,7 @@ export const ModalStudyWords = () => {
 				</button>
 			</div>
 
-			<ul className="flex gap-5 flex-wrap max-w-2xl m-auto">
+			<ul className="flex gap-5 flex-wrap max-w-2xl m-auto ">
 				{wordStudy.map((word) => (
 					<li
 						className={cn(
