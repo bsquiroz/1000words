@@ -22,6 +22,7 @@ interface Store {
 	setIsModalStuding: (value: boolean) => void;
 	setWordStudy: (value: Word) => void;
 	setModalStudyDelete: (value: Word) => void;
+	setWords: (value: Word[]) => void;
 }
 
 export const useStore = create<Store>()(
@@ -52,6 +53,7 @@ export const useStore = create<Store>()(
 							(word) => word.id !== value.id
 						),
 					})),
+				setWords: (value) => set({ words: value }),
 			}),
 			{ name: "1000words" }
 		)

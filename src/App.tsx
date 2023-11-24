@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import { words as wordsData } from "./data/words";
 
 import {
 	Container,
@@ -12,7 +13,7 @@ import {
 import { useStore } from "./store";
 
 export const App = () => {
-	const { words, valuesIndexWord, setWordsCurrent } = useStore(
+	const { words, valuesIndexWord, setWordsCurrent, setWords } = useStore(
 		(state) => state
 	);
 
@@ -27,6 +28,15 @@ export const App = () => {
 			setWordsCurrent(wordAux);
 		}
 	}, [valuesIndexWord]);
+
+	useEffect(() => {
+		if (
+			wordsData.length !==
+			JSON.parse(localStorage.getItem("1000words")!).state.words.length
+		) {
+			setWords(wordsData);
+		}
+	}, []);
 
 	return (
 		<Container>
