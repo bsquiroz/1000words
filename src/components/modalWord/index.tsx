@@ -19,7 +19,9 @@ export const ModalWord = () => {
 				(word) => word.id === modalWord.id
 			);
 
-			if (foundWordInStudy)
+			if (foundWordInStudy) {
+				setModalWord(null);
+
 				return toast.error("Esta palabra ya la tienes agregada", {
 					position: "bottom-right",
 					autoClose: 3000,
@@ -29,6 +31,7 @@ export const ModalWord = () => {
 					draggable: true,
 					progress: undefined,
 				});
+			}
 
 			setWordStudy(modalWord);
 		}

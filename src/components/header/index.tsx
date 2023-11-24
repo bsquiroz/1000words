@@ -11,12 +11,18 @@ export const Header = () => {
 			</h2>
 			<button
 				className={cn(
-					"bg-green-500 py-2 px-5 rounded-md font-bold flex gap-2"
+					"bg-green-500 border-transparent border-2 py-2 px-5 rounded-md font-bold flex gap-2",
+					"hover:bg-transparent hover:border-green-500 hover:text-green-500 transition-all group"
 				)}
 				onClick={() => setIsModalStuding(true)}
 			>
 				Palabras guardadas
-				<span className="inline-block w-6 h-6 bg-white text-green-500 rounded-full">
+				<span
+					className={cn(
+						"inline-block w-6 h-6 bg-white text-green-500 rounded-full",
+						"group-hover:bg-green-500 group-hover:text-white"
+					)}
+				>
 					{" "}
 					{wordStudy.length}
 				</span>
