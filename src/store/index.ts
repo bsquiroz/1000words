@@ -29,3 +29,5 @@ export const useStore = create<Store>()((set) => ({
 	setWordsCurrent: (value) => set({ wordsCurrent: value }),
 	setModalWord: (value) => set({ modalWord: value }),
 }));
+
+console.log(JSON.parse(localStorage.getItem("wordsCurrent")!));
