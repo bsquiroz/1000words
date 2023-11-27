@@ -2,6 +2,8 @@ import { Word } from "../../interfaces";
 import { useStore } from "../../store";
 import { cn } from "../../utils/cn.utility";
 
+import StudyingDry from "../../assets/iconAnimate/animationStudying.json";
+
 export const ModalStudyWords = () => {
 	const { isShowModalStuding, setIsModalStuding, wordStudy, setModalWord } =
 		useStore((state) => state);
@@ -36,6 +38,15 @@ export const ModalStudyWords = () => {
 			</div>
 
 			<ul className="flex gap-5 flex-wrap max-w-2xl m-auto ">
+				{wordStudy.length === 0 && (
+					<p className="text-2xl text-center p-5 font-bold">
+						¿Te sabes todas o aún no has comenzado? ¡Qué esperas,
+						tienes 1000 palabras por aprender!
+					</p>
+					<div>
+						<StudyingDry />
+					</div>
+				)}
 				{wordStudy.map((word) => (
 					<li
 						className={cn(
