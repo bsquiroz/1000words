@@ -7630,4 +7630,5850 @@ export const words: Word[] = [
 			"The chef carefully arranged the ingredients in a specific order.",
 		],
 	},
+	{
+		id: 567,
+		word: "sand",
+		equal: "Arena",
+		defination:
+			"Partículas finas de roca, concha o mineral que forman la superficie de las playas, desiertos, etc.",
+		phrases: [
+			"Children enjoy building sandcastles at the beach.",
+			"The sand felt warm beneath their feet as they walked along the shore.",
+			"Beach volleyball is a popular sport played on the sand.",
+			"The wind carried the fine grains of sand across the dunes.",
+			"A relaxing day at the seaside involves sun, surf, and soft sand.",
+		],
+	},
+	{
+		id: 568,
+		word: "spot",
+		equal: "Lugar o Mancha",
+		defination: "Un lugar específico; también, una mancha visible o marca.",
+		phrases: [
+			"They found a nice picnic spot in the shade of a tree.",
+			"The tour guide pointed out various historical spots in the city.",
+			"The dog has a distinctive spot on its back.",
+			"She noticed a spot on her shirt and tried to wipe it off.",
+			"This quiet spot by the lake is perfect for reading a book.",
+		],
+	},
+	{
+		id: 569,
+		word: "strange",
+		equal: "Extraño",
+		defination:
+			"No familiar, inusual o misterioso; también, sentir sorpresa o desconcierto.",
+		phrases: [
+			"The old house had a strange, eerie atmosphere.",
+			"It felt strange to be in a new city with unfamiliar surroundings.",
+			"The strange noise in the night turned out to be an owl hooting.",
+			"He had a strange habit of collecting unusual objects.",
+			"Meeting someone who looks exactly like you is a truly strange experience.",
+		],
+	},
+	{
+		id: 570,
+		word: "bill",
+		equal: "Cuenta o Billete",
+		defination:
+			"Un documento que detalla el costo de bienes o servicios; también, un billete de papel que representa una cantidad específica de dinero.",
+		phrases: [
+			"The waiter brought the bill after they finished their meal.",
+			"Reviewing the bill, she noticed an error in the total amount.",
+			"He paid the restaurant bill with his credit card.",
+			"A one-dollar bill features the image of a prominent figure.",
+			"She carefully folded the twenty-dollar bill and placed it in her wallet.",
+		],
+	},
+	{
+		id: 571,
+		word: "blow",
+		equal: "Golpear o Soplar",
+		defination:
+			"Impactar con fuerza; también, expulsar aire con fuerza desde la boca o un dispositivo.",
+		phrases: [
+			"The strong wind caused the trees to sway and branches to blow.",
+			"He delivered a powerful blow to the punching bag during training.",
+			"Blowing out the candles is a tradition on birthday cakes.",
+			"The storm was so strong that it could blow away lightweight objects.",
+			"She carefully blew on the hot soup to cool it down.",
+		],
+	},
+	{
+		id: 572,
+		word: "century",
+		equal: "Siglo",
+		defination: "Un período de cien años.",
+		phrases: [
+			"The 20th century saw significant technological advancements.",
+			"Many historical events shaped the course of the 19th century.",
+			"The novel is set in the 18th century, portraying life during that time.",
+			"We are now living in the 21st century.",
+			"The Renaissance was a cultural movement that spanned the 14th to the 17th centuries.",
+		],
+	},
+	{
+		id: 573,
+		word: "custom",
+		equal: "Costumbre",
+		defination:
+			"Una práctica habitual o tradición transmitida de generación en generación; también, la acción de diseñar o adaptar algo según las especificaciones del cliente.",
+		phrases: [
+			"It's a custom in their family to gather for a special meal on Sundays.",
+			"Wedding customs vary widely across different cultures.",
+			"The craftsman created a custom piece of furniture for the client.",
+			"Observing local customs is important when traveling to a new country.",
+			"The tailor offered custom-made suits tailored to each individual's preferences.",
+		],
+	},
+	{
+		id: 574,
+		word: "experience",
+		equal: "Experiencia",
+		defination:
+			"La vivencia de eventos, situaciones o sensaciones; también, habilidades y conocimientos adquiridos a lo largo del tiempo.",
+		phrases: [
+			"Traveling to new places provides a rich and diverse experience.",
+			"She gained valuable experience working in various roles within the company.",
+			"The roller coaster ride offered an exhilarating experience.",
+			"Learning a new language is an enriching and challenging experience.",
+			"The job requires candidates to have relevant experience in the field.",
+		],
+	},
+	{
+		id: 575,
+		word: "international",
+		equal: "Internacional",
+		defination:
+			"Relacionado con o que involucra a múltiples países; también, que trasciende las fronteras nacionales.",
+		phrases: [
+			"The conference attracted international participants from around the world.",
+			"International cooperation is essential to address global challenges.",
+			"She works for an international organization that focuses on humanitarian aid.",
+			"The airport serves as a hub for international flights.",
+			"The festival showcases a diverse range of international films.",
+		],
+	},
+	{
+		id: 576,
+		word: "island",
+		equal: "Isla",
+		defination:
+			"Una masa de tierra rodeada de agua; también, una zona o estructura aislada.",
+		phrases: [
+			"They spent their vacation on a beautiful tropical island.",
+			"The island is known for its pristine beaches and clear blue waters.",
+			"The city is like an island of culture in the midst of a busy metropolis.",
+			"An island of trees stood in the middle of the open field.",
+			"The bookstore became a quiet island where she could escape into different worlds.",
+		],
+	},
+	{
+		id: 577,
+		word: "journey",
+		equal: "Viaje",
+		defination:
+			"Un viaje, generalmente largo o significativo; también, el acto de viajar.",
+		phrases: [
+			"The family embarked on a cross-country journey by car.",
+			"Life is a journey with both smooth and challenging paths.",
+			"The novel follows the protagonist's emotional journey of self-discovery.",
+			"The journey to the summit was arduous but rewarding.",
+			"She documented her spiritual journey in a series of poems.",
+		],
+	},
+	{
+		id: 578,
+		word: "meal",
+		equal: "Comida",
+		defination:
+			"Una porción de alimentos consumida en un momento específico; también, el alimento servido o consumido en una comida.",
+		phrases: [
+			"They enjoyed a delicious meal at their favorite restaurant.",
+			"Cooking a homemade meal can be a rewarding and comforting experience.",
+			"The holiday season is often marked by festive meals and gatherings.",
+			"She prepared a simple yet satisfying meal for dinner.",
+			"The cafeteria offers a variety of meals to suit different tastes.",
+		],
+	},
+	{
+		id: 579,
+		word: "return",
+		equal: "Regreso o Retorno",
+		defination:
+			"El acto de volver a un lugar o condición anterior; también, la devolución de algo.",
+		phrases: [
+			"After a year abroad, she looked forward to her return home.",
+			"The traveler felt a sense of nostalgia upon his return to the familiar town.",
+			"The return of the prodigal son brought joy to the family.",
+			"He arranged for the return of the borrowed books to the library.",
+			"Investing in education can yield a positive return in the form of knowledge and skills.",
+		],
+	},
+	{
+		id: 580,
+		word: "actually",
+		equal: "En Realidad o De Hecho",
+		defination:
+			"En realidad; utilizado para corregir o enfatizar una afirmación previa.",
+		phrases: [
+			"She thought she knew the answer, but actually, she was mistaken.",
+			"It may seem difficult, but it's actually quite simple once you understand the process.",
+			"The book is more interesting than it actually appears on the cover.",
+			"He believed the task would take hours, but it actually only took a few minutes.",
+			"The actual cost of the project exceeded the initial estimate.",
+		],
+	},
+	{
+		id: 581,
+		word: "camp",
+		equal: "Campamento",
+		defination:
+			"Un lugar donde las personas, especialmente los niños, participan en actividades al aire libre; también, acampar en la naturaleza.",
+		phrases: [
+			"The kids had a great time at summer camp, participating in various outdoor activities.",
+			"Setting up a campfire is a classic tradition during camping trips.",
+			"The camp offers a range of activities, from hiking to arts and crafts.",
+			"Camping in the mountains allows for a closer connection with nature.",
+			"The scout troop organized a weekend camp to build teamwork and outdoor skills.",
+		],
+	},
+	{
+		id: 582,
+		word: "collect",
+		equal: "Coleccionar",
+		defination:
+			"Reunir y acumular objetos similares como hobby o por interés; también, recoger información o datos.",
+		phrases: [
+			"He likes to collect rare stamps from different countries.",
+			"Collecting vintage coins has become a popular hobby for many enthusiasts.",
+			"The museum curates and collects artifacts that tell the story of the region's history.",
+			"They decided to collect donations for the local charity.",
+			"The researcher had to collect data from various sources for the study.",
+		],
+	},
+	{
+		id: 583,
+		word: "form",
+		equal: "Formar",
+		defination:
+			"Dar forma, crear o constituir; también, un formato específico o estructura.",
+		phrases: [
+			"The artist used clay to form a beautiful sculpture.",
+			"The committee was formed to address the community's concerns.",
+			"The students worked together to form a human chain during the emergency drill.",
+			"The policy was designed to form a framework for sustainable development.",
+			"The essay should follow a clear form with an introduction, body, and conclusion.",
+		],
+	},
+	{
+		id: 584,
+		word: "kick",
+		equal: "Patada",
+		defination:
+			"Golpear con el pie; también, un movimiento brusco o energético.",
+		phrases: [
+			"He practiced his soccer skills by learning how to kick the ball accurately.",
+			"She delivered a powerful kick to the punching bag during the workout.",
+			"The horse gave a playful kick with its hind legs.",
+			"The child gave a kick to the pile of leaves, sending them scattering.",
+			"The engine gave a final kick before finally starting.",
+		],
+	},
+	{
+		id: 585,
+		word: "reach",
+		equal: "Alcanzar",
+		defination:
+			"Estirar el brazo o extenderse para tocar o agarrar algo; también, llegar a un lugar o nivel.",
+		phrases: [
+			"She had to reach up to grab the book from the top shelf.",
+			"The mountaineers worked together to reach the summit of the mountain.",
+			"The company aims to reach a wider audience through online marketing.",
+			"The goal is to reach a consensus on the key issues.",
+			"With determination and hard work, they were able to reach their ambitious goals.",
+		],
+	},
+	{
+		id: 586,
+		word: "review",
+		equal: "Revisar o Reseña",
+		defination:
+			"Examinar o evaluar algo; también, una evaluación crítica de una obra, producto o evento.",
+		phrases: [
+			"Before submitting the report, it's essential to review it for errors.",
+			"The supervisor will review the employee's performance during the annual appraisal.",
+			"She wrote a thoughtful review of the novel for the literary magazine.",
+			"The committee will review the proposed changes to the policy.",
+			"Customers often read online reviews before making a purchase decision.",
+		],
+	},
+	{
+		id: 587,
+		word: "simple",
+		equal: "Simple",
+		defination: "No complicado; fácil de entender o realizar.",
+		phrases: [
+			"The instructions are simple and easy to follow.",
+			"She prefers a simple and minimalist style in her home decor.",
+			"The solution to the problem turned out to be surprisingly simple.",
+			"Keeping a simple and healthy diet contributes to overall well-being.",
+			"Sometimes the most effective solutions are the simplest ones.",
+		],
+	},
+	{
+		id: 588,
+		word: "soccer",
+		equal: "Fútbol",
+		defination:
+			"Un deporte de equipo jugado entre dos equipos con el objetivo de marcar goles al chutar una pelota en la portería del oponente.",
+		phrases: [
+			"Soccer is the most popular sport in many countries around the world.",
+			"The soccer match drew a large crowd of enthusiastic fans.",
+			"Playing soccer helps improve coordination and teamwork skills.",
+			"He dreams of becoming a professional soccer player in the future.",
+			"The World Cup is one of the most-watched soccer tournaments globally.",
+		],
+	},
+	{
+		id: 589,
+		word: "symbol",
+		equal: "Símbolo",
+		defination:
+			"Un objeto, imagen o palabra que representa algo más abstracto; también, un signo que tiene un significado específico.",
+		phrases: [
+			"The dove is often used as a symbol of peace.",
+			"The national flag is a powerful symbol of unity and identity.",
+			"In literature, the rose is sometimes used as a symbol of love.",
+			"Symbols play a crucial role in conveying complex ideas in a simple form.",
+			"The handshake is a common symbol of agreement and goodwill.",
+		],
+	},
+	{
+		id: 590,
+		word: "allow",
+		equal: "Permitir",
+		defination:
+			"Dar permiso o capacidad para hacer algo; también, admitir o aceptar.",
+		phrases: [
+			"The teacher will allow extra time for the students to complete the exam.",
+			"The new software will allow users to customize their experience.",
+			"Respecting different opinions will allow for a more inclusive discussion.",
+			"The policy does not allow smoking in designated areas.",
+			"Parents should allow their children to explore and learn from their experiences.",
+		],
+	},
+	{
+		id: 591,
+		word: "bat",
+		equal: "Murciélago",
+		defination:
+			"Un mamífero volador nocturno con alas membranosas; también, un objeto utilizado para golpear en deportes como el béisbol.",
+		phrases: [
+			"Bats are important for controlling insect populations and pollinating flowers.",
+			"The baseball player swung the bat with precision, hitting a home run.",
+			"The cave is home to a large colony of bats that roost there during the day.",
+			"Some species of bats use echolocation to navigate and find prey in the dark.",
+			"The coach gave the young player tips on improving his bat swing.",
+		],
+	},
+	{
+		id: 592,
+		word: "exercise",
+		equal: "Ejercicio",
+		defination:
+			"Actividad física realizada para mejorar la salud y la forma física; también, poner en práctica o realizar una actividad.",
+		phrases: [
+			"Regular exercise is essential for maintaining a healthy lifestyle.",
+			"She enjoys a variety of exercises, including running and yoga.",
+			"The doctor recommended gentle exercises to aid in the patient's recovery.",
+			"Completing the math exercises helped reinforce the concepts learned in class.",
+			"The company conducted an emergency preparedness exercise to ensure readiness.",
+		],
+	},
+	{
+		id: 593,
+		word: "force",
+		equal: "Fuerza",
+		defination:
+			"La capacidad de realizar trabajo o causar un cambio en la velocidad o dirección de un objeto; también, la influencia o poder.",
+		phrases: [
+			"To move the heavy box, they had to apply more force.",
+			"The strong winds exerted a force on the trees, causing some to sway.",
+			"Using force to resolve conflicts is not always the best approach.",
+			"The police officer used necessary force to apprehend the suspect.",
+			"Magnetic force is responsible for the attraction or repulsion of magnets.",
+		],
+	},
+	{
+		id: 594,
+		word: "leaf",
+		equal: "Hoja",
+		defination:
+			"La estructura verde y plana en la planta, generalmente utilizada para la fotosíntesis; también, una hoja de papel o un objeto delgado y plano.",
+		phrases: [
+			"In autumn, the trees shed their leaves, creating a colorful carpet on the ground.",
+			"She pressed a beautiful leaf between the pages of her favorite book.",
+			"The notebook has a leaf of instructions on how to use the new features.",
+			"The chef garnished the dish with a delicate parsley leaf.",
+			"The gentle breeze rustled the leaves in the treetops.",
+		],
+	},
+	{
+		id: 595,
+		word: "member",
+		equal: "Miembro",
+		defination:
+			"Una persona o entidad que forma parte de un grupo, organización o equipo; también, una parte del cuerpo.",
+		phrases: [
+			"He has been a loyal member of the club for many years.",
+			"Every member of the team plays a crucial role in its success.",
+			"Being a member of the family comes with both responsibilities and privileges.",
+			"The fitness club welcomes new members with a range of classes and amenities.",
+			"The legislative body voted on a proposal presented by one of its members.",
+		],
+	},
+	{
+		id: 596,
+		word: "real",
+		equal: "Real",
+		defination:
+			"Auténtico o verdadero; también, relacionado con la realidad en lugar de la ficción.",
+		phrases: [
+			"Is it a fake or a real diamond?",
+			"The documentary provides a glimpse into the real lives of the subjects.",
+			"She prefers real flowers to artificial ones because of their natural beauty.",
+			"The movie is based on real events that occurred during a historical period.",
+			"Real friendships are built on trust, honesty, and mutual respect.",
+		],
+	},
+	{
+		id: 597,
+		word: "sign",
+		equal: "Señal",
+		defination:
+			"Un objeto, gesto o marca que representa o indica algo; también, firmar un documento como prueba de acuerdo o aceptación.",
+		phrases: [
+			"The traffic sign indicated that the speed limit was 55 miles per hour.",
+			"A smile can be a positive sign of friendliness and approachability.",
+			"The athlete showed signs of improvement after weeks of training.",
+			"They decided to sign the contract after careful consideration of the terms.",
+			"Following the doctor's advice is a good sign of commitment to one's health.",
+		],
+	},
+	{
+		id: 598,
+		word: "step",
+		equal: "Paso",
+		defination:
+			"Un movimiento de una pierna al caminar o bailar; también, un componente en un proceso o plan.",
+		phrases: [
+			"He took a careful step forward to avoid tripping on the uneven ground.",
+			"Learning to dance involves mastering the basic steps before moving on to more complex routines.",
+			"The first step in solving a problem is identifying its root cause.",
+			"She outlined the step-by-step procedure for assembling the furniture.",
+			"They celebrated each successful step in the project with a small achievement.",
+		],
+	},
+	{
+		id: 599,
+		word: "treat",
+		equal: "Tratar",
+		defination:
+			"Actuar o comportarse hacia alguien de una manera particular; también, un regalo o algo especial que proporciona placer.",
+		phrases: [
+			"It's important to treat others with kindness and respect.",
+			"She decided to treat herself to a relaxing spa day after a busy week.",
+			"The teacher promised to treat the students to ice cream if they excelled in the competition.",
+			"The medicine is designed to treat the symptoms of the illness.",
+			"The concert was a special treat for fans of the talented musician.",
+		],
+	},
+	{
+		id: 600,
+		word: "afraid",
+		equal: "Asustado",
+		defination: "Sentir miedo o temor hacia algo o alguien.",
+		phrases: [
+			"He was afraid of the dark when he was a child.",
+			"Don't be afraid to speak up and share your opinions.",
+			"The loud noise made the dog afraid and anxious.",
+			"Facing our fears is the first step to overcoming them.",
+			"She was afraid that she wouldn't meet the deadline for the project.",
+		],
+	},
+	{
+		id: 601,
+		word: "fair",
+		equal: "Justo",
+		defination:
+			"Tratar a todas las personas de manera justa y equitativa; también, algo que es aceptable y razonable.",
+		phrases: [
+			"A fair society ensures equal opportunities for everyone.",
+			"The judge is known for being fair and impartial in her decisions.",
+			"It's important to have a fair distribution of resources in a community.",
+			"The teacher gave each student a fair chance to present their ideas.",
+			"Paying a fair price for goods and services supports ethical business practices.",
+		],
+	},
+	{
+		id: 602,
+		word: "focus",
+		equal: "Enfocar",
+		defination:
+			"Concentrarse en un objetivo o tarea específica; también, la parte nítida de una imagen.",
+		phrases: [
+			"To succeed, it's crucial to focus on your priorities.",
+			"The photographer adjusted the lens to achieve a sharp focus on the subject.",
+			"During meditation, the goal is to focus the mind and find inner peace.",
+			"It's challenging to maintain focus in a noisy and distracting environment.",
+			"The team needs to maintain focus during the final minutes of the game.",
+		],
+	},
+	{
+		id: 603,
+		word: "foreign",
+		equal: "Extranjero",
+		defination:
+			"Relacionado con otro país o lugar; también, algo que es desconocido o ajeno.",
+		phrases: [
+			"She speaks several foreign languages fluently.",
+			"Traveling provides an opportunity to experience different cultures and foreign traditions.",
+			"The company expanded its operations into foreign markets.",
+			"Learning about foreign customs helps promote cultural understanding.",
+			"For many, the concept of space exploration is still somewhat foreign.",
+		],
+	},
+	{
+		id: 604,
+		word: "habit",
+		equal: "Hábito",
+		defination:
+			"Una acción o comportamiento regularmente repetido; también, algo difícil de dejar o cambiar.",
+		phrases: [
+			"Exercising daily is a healthy habit that contributes to overall well-being.",
+			"Breaking a bad habit often requires conscious effort and determination.",
+			"The morning routine became a comforting habit for her.",
+			"Successful people often credit positive habits for their achievements.",
+			"Cultivating good study habits is essential for academic success.",
+		],
+	},
+	{
+		id: 605,
+		word: "invent",
+		equal: "Inventar",
+		defination:
+			"Crear o diseñar algo nuevo que no existía previamente; también, imaginar o idear.",
+		phrases: [
+			"Thomas Edison is known for inventing the light bulb.",
+			"Children often invent imaginary friends to play with.",
+			"Innovators are constantly working to invent solutions to challenges.",
+			"The author had to invent a fictional world for the fantasy novel.",
+			"The company's goal is to invent groundbreaking technologies.",
+		],
+	},
+	{
+		id: 606,
+		word: "language",
+		equal: "Lenguaje",
+		defination:
+			"El método de comunicación mediante palabras habladas, escritas o signos; también, el sistema específico de comunicación de un grupo o comunidad.",
+		phrases: [
+			"Learning a new language opens doors to understanding different cultures.",
+			"Body language is an important aspect of nonverbal communication.",
+			"Programming languages are used to develop software and applications.",
+			"Language acquisition is a natural process in early childhood.",
+			"Poetry often uses figurative language to convey emotions and ideas.",
+		],
+	},
+	{
+		id: 607,
+		word: "nation",
+		equal: "Nación",
+		defination:
+			"Una comunidad política y social con su propio gobierno y territorio; también, los ciudadanos de un país considerados como un grupo.",
+		phrases: [
+			"The United Nations works to promote peace and cooperation among nations.",
+			"Each nation has its own unique history and cultural heritage.",
+			"The citizens of a nation play a crucial role in its development.",
+			"National holidays celebrate important events in a nation's history.",
+			"Trade agreements can impact the economic relationships between nations.",
+		],
+	},
+	{
+		id: 608,
+		word: "still",
+		equal: "Aún",
+		defination:
+			"En un estado de tranquilidad o sin movimiento; también, a pesar de eso o a pesar de algo.",
+		phrases: [
+			"The pond was so still that it reflected the surrounding trees perfectly.",
+			"Even in difficult times, she remained still and composed.",
+			"He managed to stay still and focused during the intense negotiations.",
+			"The movie was sad, but still, it left a lasting impression.",
+			"The artist captured a moment of stillness in the bustling city.",
+		],
+	},
+	{
+		id: 609,
+		word: "wise",
+		equal: "Sabio",
+		defination:
+			"Tener conocimiento y buen juicio; también, resultado de la experiencia y la reflexión.",
+		phrases: [
+			"An owl is often considered a symbol of wisdom in many cultures.",
+			"Listening to the advice of elders is a wise decision.",
+			"The wise choice is not always the easiest one.",
+			"Wisdom comes from learning from both successes and failures.",
+			"In literature, wise characters are often mentors or guides to the protagonist.",
+		],
+	},
+	{
+		id: 610,
+		word: "audience",
+		equal: "Audiencia",
+		defination:
+			"Las personas que están presentes en un evento o que consumen un contenido; también, el grupo de personas a quienes se dirige un mensaje o actuación.",
+		phrases: [
+			"The comedian entertained the audience with clever jokes and stories.",
+			"An effective speaker considers the needs and interests of the audience.",
+			"The concert attracted a diverse audience of music enthusiasts.",
+			"The TV show has a broad audience ranging from children to adults.",
+			"Understanding the preferences of the target audience is crucial in marketing.",
+		],
+	},
+	{
+		id: 611,
+		word: "college",
+		equal: "Universidad",
+		defination:
+			"Una institución de educación superior que otorga títulos académicos; también, el período de estudios superiores.",
+		phrases: [
+			"She decided to attend a small liberal arts college.",
+			"College provides an opportunity for academic and personal growth.",
+			"Many students choose a college based on its programs and campus culture.",
+			"The college experience involves both academic and extracurricular activities.",
+			"Graduating from college opens doors to various career opportunities.",
+		],
+	},
+	{
+		id: 612,
+		word: "comfortable",
+		equal: "Cómodo",
+		defination:
+			"Sentir comodidad física o tranquilidad emocional; también, algo que es agradable y fácil de usar.",
+		phrases: [
+			"The chair was so comfortable that he fell asleep while reading.",
+			"Wearing comfortable shoes is important for a long day of walking.",
+			"Feeling comfortable in one's own skin is a sign of self-acceptance.",
+			"The hotel room was spacious and comfortable, providing a pleasant stay.",
+			"She chose a comfortable and casual outfit for the relaxed gathering.",
+		],
+	},
+	{
+		id: 613,
+		word: "honest",
+		equal: "Honesto",
+		defination:
+			"Decir la verdad y actuar con integridad; también, algo que es sincero y no engañoso.",
+		phrases: [
+			"Being honest in communication builds trust in relationships.",
+			"An honest person admits mistakes and takes responsibility for them.",
+			"The company has an honest approach to business practices.",
+			"Choosing an honest path may be challenging, but it leads to personal growth.",
+			"Honest feedback is valuable for continuous improvement.",
+		],
+	},
+	{
+		id: 614,
+		word: "imagine",
+		equal: "Imaginar",
+		defination:
+			"Visualizar mentalmente algo que no está presente o que no ha ocurrido; también, considerar posibilidades creativas.",
+		phrases: [
+			"Close your eyes and imagine a peaceful beach with soft waves.",
+			"Children often have vivid imaginations that lead to creative play.",
+			"Imagine a world where kindness and compassion are the norm.",
+			"The artist could imagine the finished painting before even starting.",
+			"Imagination is a powerful tool for problem-solving and innovation.",
+		],
+	},
+	{
+		id: 615,
+		word: "level",
+		equal: "Nivel",
+		defination:
+			"Una posición relativa o altura en una escala; también, plano o horizontal.",
+		phrases: [
+			"The water in the lake rose to a dangerous level after heavy rainfall.",
+			"The teacher adjusted the difficulty level of the assignment to challenge the students.",
+			"He reached a high level of proficiency in playing the piano.",
+			"The construction crew ensured that the foundation was level before building the walls.",
+			"The platform provides a level surface for the performers.",
+		],
+	},
+	{
+		id: 616,
+		word: "sentence",
+		equal: "Oración",
+		defination:
+			"Una unidad gramatical que consiste en una o más palabras y expresan una idea completa; también, la pena impuesta por un tribunal.",
+		phrases: [
+			"In English, a sentence typically includes a subject and a predicate.",
+			"The judge pronounced the sentence after the defendant was found guilty.",
+			"The author crafted a beautiful sentence to open the novel.",
+			"A well-constructed sentence enhances the clarity of writing.",
+			"The teacher asked the students to write a sentence using the new vocabulary words.",
+		],
+	},
+	{
+		id: 617,
+		word: "stress",
+		equal: "Estrés",
+		defination:
+			"La presión mental o emocional que resulta de situaciones difíciles o demandas excesivas; también, enfatizar o destacar.",
+		phrases: [
+			"Long-term stress can have negative effects on both physical and mental health.",
+			"She experienced stress before the important exam.",
+			"The manager advised the team to manage stress through relaxation techniques.",
+			"The speaker used vocal stress to emphasize key points in the presentation.",
+			"It's important to find healthy ways to cope with stress in daily life.",
+		],
+	},
+	{
+		id: 618,
+		word: "suddenly",
+		equal: "De repente",
+		defination:
+			"En un momento inesperado o sin previo aviso; de manera abrupta.",
+		phrases: [
+			"The car came to a sudden stop to avoid an accident.",
+			"She was surprised when he suddenly appeared at the door.",
+			"Suddenly, the lights went out, leaving the room in darkness.",
+			"The weather can change suddenly in the mountains.",
+			"His health deteriorated suddenly, catching everyone off guard.",
+		],
+	},
+	{
+		id: 619,
+		word: "topic",
+		equal: "Tema",
+		defination:
+			"Un asunto o problema que se discute o se estudia, generalmente en un discurso o un texto.",
+		phrases: [
+			"The professor introduced a new topic for discussion in the class.",
+			"The conference will cover a wide range of topics related to technology and innovation.",
+			"Choosing a suitable topic is crucial when writing a research paper.",
+		],
+	},
+	{
+		id: 620,
+		word: "add",
+		equal: "Agregar",
+		defination: "Incorporar algo a otra cosa.",
+		phrases: [
+			"You can add sugar to your coffee if you like it sweet.",
+			"Please add your comments to the document before submitting it.",
+			"The chef decided to add a unique twist to the traditional recipe.",
+		],
+	},
+	{
+		id: 621,
+		word: "blind",
+		equal: "Ciego",
+		defination:
+			"Que carece de la facultad de ver; también, no informado o consciente de algo.",
+		phrases: [
+			"The blind musician amazed the audience with his exceptional piano skills.",
+			"She walked through the dark room as if she were blind.",
+			"Ignoring the evidence would be turning a blind eye to the truth.",
+		],
+	},
+	{
+		id: 622,
+		word: "button",
+		equal: "Botón",
+		defination:
+			"Un dispositivo pequeño que se presiona para activar una función o comando.",
+		phrases: [
+			"Press the button to start the machine.",
+			"He sewed a stylish button onto his jacket.",
+			"Click the button to save your changes.",
+		],
+	},
+	{
+		id: 623,
+		word: "create",
+		equal: "Crear",
+		defination:
+			"Producir algo nuevo mediante la combinación de elementos existentes; también, dar origen a algo.",
+		phrases: [
+			"Artists often use their imagination to create unique and captivating pieces.",
+			"The chef can create a delicious dish with just a few simple ingredients.",
+			"Innovation is key to create solutions for complex problems.",
+		],
+	},
+	{
+		id: 624,
+		word: "memory",
+		equal: "Memoria",
+		defination:
+			"La facultad de retener y recordar información; también, algo que se recuerda del pasado.",
+		phrases: [
+			"The photograph brought back fond memories of childhood.",
+			"A good night's sleep is essential for a sharp memory.",
+			"The computer has a large memory capacity for storing data.",
+		],
+	},
+	{
+		id: 625,
+		word: "prince",
+		equal: "Príncipe",
+		defination:
+			"Un hombre que tiene el rango de hijo del rey o la reina; también, un líder prominente.",
+		phrases: [
+			"The prince was next in line for the throne.",
+			"She dreamed of marrying a charming prince.",
+			"The conference hosted a gathering of political princes from various nations.",
+		],
+	},
+	{
+		id: 626,
+		word: "string",
+		equal: "Cuerda",
+		defination:
+			"Una serie de hilos o fibras entrelazados; también, una secuencia de caracteres en programación.",
+		phrases: [
+			"He played a beautiful melody on the guitar strings.",
+			"The package was tied with a colorful string.",
+			"In programming, a string is a data type used to represent text.",
+		],
+	},
+	{
+		id: 627,
+		word: "thick",
+		equal: "Grueso",
+		defination:
+			"Que tiene una gran distancia entre superficies opuestas; también, denso o compacto.",
+		phrases: [
+			"The fog was so thick that visibility was reduced to almost zero.",
+			"She applied a thick layer of paint to the canvas.",
+			"The book had a thick cover that felt sturdy in hand.",
+		],
+	},
+	{
+		id: 628,
+		word: "tight",
+		equal: "Ajustado",
+		defination:
+			"Que está fuertemente sujeto o cerrado; también, que tiene poco espacio sobrante.",
+		phrases: [
+			"The lid was tight, ensuring that the contents stayed fresh.",
+			"The climbers secured their ropes tight to the rock.",
+			"The team formed a tight circle to discuss their strategy.",
+		],
+	},
+	{
+		id: 629,
+		word: "tradition",
+		equal: "Tradición",
+		defination:
+			"Una práctica, creencia o costumbre transmitida de generación en generación.",
+		phrases: [
+			"The family has a tradition of gathering for a festive meal on holidays.",
+			"Cultural traditions play a significant role in shaping communities.",
+			"It's important to respect and preserve traditions for future generations.",
+		],
+	},
+	{
+		id: 630,
+		word: "board",
+		equal: "Tabla",
+		defination:
+			"Una superficie plana y rígida; también, un grupo de personas que supervisan una organización.",
+		phrases: [
+			"She cut vegetables on a wooden board.",
+			"The board of directors meets quarterly to discuss company strategies.",
+			"Surfers use a board to ride the waves.",
+		],
+	},
+	{
+		id: 631,
+		word: "brain",
+		equal: "Cerebro",
+		defination:
+			"El órgano principal del sistema nervioso central; también, la mente y la capacidad de pensar.",
+		phrases: [
+			"The brain controls various functions of the body.",
+			"Creative ideas originate in the human brain.",
+			"Learning stimulates the brain and enhances cognitive abilities.",
+		],
+	},
+	{
+		id: 632,
+		word: "celebrate",
+		equal: "Celebrar",
+		defination: "Conmemorar un evento especial o una ocasión alegre.",
+		phrases: [
+			"Families gather to celebrate birthdays with cake and festivities.",
+			"The nation came together to celebrate its independence.",
+			"It's important to celebrate achievements and milestones in life.",
+		],
+	},
+	{
+		id: 633,
+		word: "especially",
+		equal: "Especialmente",
+		defination: "En particular; de manera notable o destacada.",
+		phrases: [
+			"I enjoy all fruits, especially berries.",
+			"She is talented in many areas, especially in music.",
+			"The team performed exceptionally well, especially considering the challenges.",
+		],
+	},
+	{
+		id: 634,
+		word: "hole",
+		equal: "Agujero",
+		defination:
+			"Una abertura redonda o alargada en una superficie; también, un lugar vacío o ausente.",
+		phrases: [
+			"He dug a deep hole in the garden to plant the tree.",
+			"The key was missing, leaving a hole in the plan.",
+			"The golf course has a challenging hole with water hazards.",
+		],
+	},
+	{
+		id: 635,
+		word: "item",
+		equal: "Artículo",
+		defination:
+			"Un objeto o cosa; también, un elemento individual en una lista o conjunto.",
+		phrases: [
+			"The store sells a variety of household items.",
+			"Please make a list of the items you need for the trip.",
+			"Each item on the agenda was discussed thoroughly in the meeting.",
+		],
+	},
+	{
+		id: 636,
+		word: "match",
+		equal: "Partido",
+		defination:
+			"Una competición entre dos personas, equipos o cosas; también, coincidir o ser compatible.",
+		phrases: [
+			"The soccer match ended in a thrilling tie with both teams scoring goals.",
+			"She lit a match to start the campfire.",
+			"The colors of the curtains and furniture should match in the living room.",
+		],
+	},
+	{
+		id: 637,
+		word: "princess",
+		equal: "Princesa",
+		defination:
+			"La hija del rey o la reina; también, una mujer con cualidades reales o nobles.",
+		phrases: [
+			"The princess wore a beautiful gown to the royal ball.",
+			"She portrayed the role of a brave princess in the school play.",
+			"The fairy tale featured a kind and gentle princess.",
+		],
+	},
+	{
+		id: 638,
+		word: "social",
+		equal: "Social",
+		defination:
+			"Relacionado con la sociedad o la interacción entre individuos; también, actividades compartidas en grupo.",
+		phrases: [
+			"Social media platforms connect people from around the world.",
+			"Maintaining strong social bonds is important for mental well-being.",
+			"The community organized a social event to foster unity.",
+		],
+	},
+	{
+		id: 639,
+		word: "tear",
+		equal: "Lágrima",
+		defination:
+			"Una gota de líquido salado que se produce en los ojos, generalmente debido a la emoción o la irritación.",
+		phrases: [
+			"Tears of joy streamed down her face as she received the award.",
+			"He wiped away a tear with the back of his hand.",
+			"The sad movie brought tears to the eyes of many viewers.",
+		],
+	},
+	{
+		id: 640,
+		word: "cross",
+		equal: "Cruzar",
+		defination:
+			"Ir de un lado a otro; también, un símbolo en forma de 'X'.",
+		phrases: [
+			"Pedestrians waited for the right moment to cross the busy street.",
+			"She drew a cross to mark the spot on the map.",
+			"The hiker needed to cross a river to reach the other side of the trail.",
+		],
+	},
+	{
+		id: 641,
+		word: "finally",
+		equal: "Finalmente",
+		defination:
+			"Después de un período prolongado de tiempo o esfuerzo; también, para expresar alivio o satisfacción.",
+		phrases: [
+			"After hours of hard work, they finally completed the project.",
+			"Finally, the long-awaited day arrived.",
+			"He found the answer to the puzzle and finally solved it.",
+		],
+	},
+	{
+		id: 642,
+		word: "follow",
+		equal: "Seguir",
+		defination:
+			"Ir o venir detrás de alguien o algo; también, comprender o aceptar una idea.",
+		phrases: [
+			"The dog eagerly followed its owner wherever she went.",
+			"It's important to follow safety guidelines in the laboratory.",
+			"Can you follow the instructions and assemble the furniture?",
+		],
+	},
+	{
+		id: 643,
+		word: "heat",
+		equal: "Calor",
+		defination:
+			"La forma de energía asociada con la alta temperatura; también, la sensación térmica.",
+		phrases: [
+			"She turned on the heat to warm up the room.",
+			"The intense heat of the desert can be challenging to endure.",
+			"In cooking, apply medium heat to sauté the vegetables.",
+		],
+	},
+	{
+		id: 644,
+		word: "rainbow",
+		equal: "Arco iris",
+		defination:
+			"Un espectro de luz coloreada visible en el cielo después de la lluvia.",
+		phrases: [
+			"After the rain, a beautiful rainbow appeared in the sky.",
+			"Children often delight in the vibrant colors of a rainbow.",
+			"The double rainbow was a rare and mesmerizing sight.",
+		],
+	},
+	{
+		id: 645,
+		word: "spread",
+		equal: "Extender",
+		defination:
+			"Abrir, desplegar o distribuir algo sobre una superficie; también, la propagación de información o enfermedades.",
+		phrases: [
+			"She spread a blanket on the grass for a picnic.",
+			"The news of the event quickly spread throughout the community.",
+			"The chef used a spatula to spread the frosting evenly on the cake.",
+		],
+	},
+	{
+		id: 646,
+		word: "tired",
+		equal: "Cansado",
+		defination:
+			"Fatigado o agotado, generalmente debido a la falta de descanso o esfuerzo físico.",
+		phrases: [
+			"After a long day of work, she felt tired and ready to rest.",
+			"Driving for hours made him tired and in need of a break.",
+			"A good night's sleep can help alleviate feelings of tiredness.",
+		],
+	},
+	{
+		id: 647,
+		word: "tower",
+		equal: "Torre",
+		defination:
+			"Una estructura alta que se eleva sobre su entorno; también, controlar o ser superior en altura.",
+		phrases: [
+			"The medieval castle had a tall tower with a panoramic view.",
+			"The skyscraper is a towering structure in the city skyline.",
+			"He used a telescope to see the birds perched on the tower.",
+		],
+	},
+	{
+		id: 648,
+		word: "unit",
+		equal: "Unidad",
+		defination:
+			"Una entidad individual o componente de un todo; también, un grupo militar organizado.",
+		phrases: [
+			"Each apartment is a separate unit in the building.",
+			"The kitchen appliances form a cohesive unit in the design.",
+			"The army deployed a unit to handle the emergency situation.",
+		],
+	},
+	{
+		id: 649,
+		word: "vote",
+		equal: "Votar",
+		defination:
+			"Expresar una preferencia o elección, especialmente en una elección o decisión grupal.",
+		phrases: [
+			"Citizens have the right to vote for their representatives in a democratic system.",
+			"The committee will vote on the proposed changes to the policy.",
+			"It's essential to encourage people to exercise their right to vote in elections.",
+		],
+	},
+	{
+		id: 650,
+		word: "climb",
+		equal: "Escalar",
+		defination:
+			"Subir o ascender, especialmente en una superficie vertical; también, enfrentar desafíos o superar obstáculos.",
+		phrases: [
+			"The climbers prepared to climb the steep mountain.",
+			"She decided to climb the career ladder by taking on new responsibilities.",
+			"Climbing requires both physical strength and mental resilience.",
+		],
+	},
+	{
+		id: 651,
+		word: "describe",
+		equal: "Describir",
+		defination:
+			"Explicar o representar con palabras; también, indicar las características de algo.",
+		phrases: [
+			"He asked her to describe the mysterious sound she heard.",
+			"The author used vivid language to describe the enchanted forest.",
+			"Can you describe the appearance of the suspect to the police?",
+		],
+	},
+	{
+		id: 652,
+		word: "energy",
+		equal: "Energía",
+		defination:
+			"La capacidad de realizar trabajo o la fuerza vital que impulsa la actividad; también, recursos naturales utilizados para obtener poder.",
+		phrases: [
+			"Solar panels convert sunlight into energy for electricity.",
+			"After a good night's sleep, she woke up with renewed energy.",
+			"Regular exercise helps boost physical and mental energy.",
+		],
+	},
+	{
+		id: 653,
+		word: "engine",
+		equal: "Motor",
+		defination:
+			"Una máquina que convierte energía en movimiento; también, una fuente principal de impulso o poder.",
+		phrases: [
+			"The car's engine roared to life as she turned the key.",
+			"Jet engines propel airplanes through the sky.",
+			"Innovation is the engine that drives progress in technology.",
+		],
+	},
+	{
+		id: 654,
+		word: "field",
+		equal: "Campo",
+		defination:
+			"Un área abierta de tierra, generalmente sin árboles; también, un área de estudio o actividad.",
+		phrases: [
+			"Children played in the field, running and laughing.",
+			"She has a degree in the field of environmental science.",
+			"Athletes competed fiercely on the soccer field.",
+		],
+	},
+	{
+		id: 655,
+		word: "include",
+		equal: "Incluir",
+		defination:
+			"Contener como parte de un todo; también, considerar a alguien o algo en una categoría.",
+		phrases: [
+			"The package deal may include a hotel stay and meals.",
+			"Make sure to include all the necessary documents in the application.",
+			"The team decided to include him in their future plans.",
+		],
+	},
+	{
+		id: 656,
+		word: "perfect",
+		equal: "Perfecto",
+		defination:
+			"Libre de defectos o imperfecciones; también, alcanzar la excelencia en habilidades o logros.",
+		phrases: [
+			"Her dance performance was flawless, a perfect display of skill.",
+			"Practice is essential to perfecting any craft or skill.",
+			"In nature, the symmetry of a snowflake is often considered perfect.",
+		],
+	},
+	{
+		id: 657,
+		word: "rise",
+		equal: "Subir",
+		defination:
+			"Moverse hacia arriba o ascender; también, un aumento en cantidad o nivel.",
+		phrases: [
+			"The sun will rise in the east and set in the west.",
+			"There was a sudden rise in temperature during the heatwave.",
+			"She felt a sense of pride as she watched her achievements rise.",
+		],
+	},
+	{
+		id: 658,
+		word: "shape",
+		equal: "Forma",
+		defination:
+			"La apariencia externa de algo; también, dar forma o moldear.",
+		phrases: [
+			"The artist used clay to create a sculpture of abstract shape.",
+			"Regular exercise can help you maintain a healthy body shape.",
+			"Parents play a crucial role in shaping their children's values.",
+		],
+	},
+	{
+		id: 659,
+		word: "stone",
+		equal: "Piedra",
+		defination:
+			"Una sustancia dura y compacta extraída de la tierra; también, una unidad de peso.",
+		phrases: [
+			"The ancient building was constructed with large stone blocks.",
+			"She skipped a stone across the calm surface of the lake.",
+			"The jeweler carefully selected a beautiful stone for the ring.",
+		],
+	},
+	{
+		id: 660,
+		word: "bake",
+		equal: "Hornear",
+		defination:
+			"Cocinar alimentos en un horno, generalmente pan o pasteles; también, endurecer mediante calor.",
+		phrases: [
+			"She decided to bake a delicious cake for the special occasion.",
+			"The aroma of freshly baked bread filled the kitchen.",
+			"Baking clay in the kiln transforms it into a durable material.",
+		],
+	},
+	{
+		id: 661,
+		word: "communicate",
+		equal: "Comunicar",
+		defination:
+			"Transmitir información, pensamientos o sentimientos a través de palabras, gestos o medios diversos.",
+		phrases: [
+			"Effective leaders know how to communicate their vision to the team.",
+			"Couples often attend therapy to improve how they communicate with each other.",
+			"Body language can be a powerful way to communicate non-verbally.",
+		],
+	},
+	{
+		id: 662,
+		word: "deliver",
+		equal: "Entregar",
+		defination:
+			"Transportar y dejar algo en un lugar específico; también, cumplir con una promesa o tarea.",
+		phrases: [
+			"The courier will deliver the package to your doorstep tomorrow.",
+			"The speaker worked hard to deliver a compelling and engaging presentation.",
+			"It's crucial to deliver results within the specified deadline.",
+		],
+	},
+	{
+		id: 663,
+		word: "direct",
+		equal: "Dirigir",
+		defination:
+			"Guiar o supervisar; también, sin intermediarios o desviaciones.",
+		phrases: [
+			"He was chosen to direct the school play due to his experience in theater.",
+			"The manager will direct the team in implementing the new strategy.",
+			"Please provide direct answers to the questions during the interview.",
+		],
+	},
+	{
+		id: 664,
+		word: "goal",
+		equal: "Meta",
+		defination:
+			"Un objetivo o resultado deseado que se trabaja para lograr; también, las áreas de anotación en deportes.",
+		phrases: [
+			"Setting a clear goal helps focus efforts and motivation.",
+			"The soccer player kicked the ball into the goal, scoring a point for the team.",
+			"Achieving a personal or professional goal is a rewarding experience.",
+		],
+	},
+	{
+		id: 665,
+		word: "history",
+		equal: "Historia",
+		defination:
+			"El estudio del pasado, especialmente a través de eventos, personas y sociedades antiguas.",
+		phrases: [
+			"Historians analyze documents and artifacts to understand the course of history.",
+			"Learning from history can prevent repeating past mistakes.",
+			"Each country has a unique history that shapes its identity.",
+		],
+	},
+	{
+		id: 666,
+		word: "inform",
+		equal: "Informar",
+		defination:
+			"Proporcionar conocimiento o noticias a alguien; también, dar forma a la opinión.",
+		phrases: [
+			"The news anchor will inform the public about the latest developments.",
+			"Parents should inform their children about the importance of safety.",
+			"Accurate information is essential to inform decision-making.",
+		],
+	},
+	{
+		id: 667,
+		word: "mail",
+		equal: "Correo",
+		defination:
+			"El sistema de envío y recepción de cartas y paquetes; también, las propias cartas y paquetes.",
+		phrases: [
+			"She went to the post office to mail a birthday card to her friend.",
+			"Email has become a popular alternative to traditional mail.",
+			"The package arrived safely after being sent by express mail.",
+		],
+	},
+	{
+		id: 668,
+		word: "march",
+		equal: "Marchar",
+		defination:
+			"Avanzar en fila organizada, especialmente como parte de una protesta o desfile; también, el tercer mes del año.",
+		phrases: [
+			"The soldiers marched in precise formation during the parade.",
+			"Citizens gathered to march in support of equal rights.",
+			"We are currently in the month of March.",
+		],
+	},
+	{
+		id: 669,
+		word: "whole",
+		equal: "Todo",
+		defination:
+			"Todo, completo, sin partes faltantes; también, considerar algo en su totalidad.",
+		phrases: [
+			"She ate the whole pizza by herself.",
+			"It's essential to see the whole picture before making a decision.",
+			"The team worked together as a whole to achieve success.",
+		],
+	},
+	{
+		id: 670,
+		word: "appear",
+		equal: "Aparecer",
+		defination:
+			"Hacerse visible; también, dar la impresión de ser de una manera particular.",
+		phrases: [
+			"The magician made a rabbit appear out of an empty hat.",
+			"She tried to appear confident during the job interview.",
+			"The sun began to appear on the horizon, signaling a new day.",
+		],
+	},
+	{
+		id: 671,
+		word: "community",
+		equal: "Comunidad",
+		defination:
+			"Un grupo de personas que comparten intereses, valores o ubicación geográfica; también, el sentido de pertenencia a dicho grupo.",
+		phrases: [
+			"The community came together to support local businesses.",
+			"A strong sense of community is essential for a thriving neighborhood.",
+			"Online platforms provide a virtual space for building communities.",
+		],
+	},
+	{
+		id: 672,
+		word: "festival",
+		equal: "Festival",
+		defination:
+			"Un evento celebratorio con actividades, entretenimiento y a menudo comida; también, una ocasión especial.",
+		phrases: [
+			"The town hosts an annual music festival that attracts artists from around the world.",
+			"People gather to celebrate cultural diversity during the multicultural festival.",
+			"The festival atmosphere was filled with music, laughter, and joy.",
+		],
+	},
+	{
+		id: 673,
+		word: "interview",
+		equal: "Entrevista",
+		defination:
+			"Una conversación formal, generalmente para evaluar la idoneidad de una persona para un trabajo o posición; también, obtener información a través de preguntas y respuestas.",
+		phrases: [
+			"He prepared thoroughly for the job interview by researching the company.",
+			"The journalist conducted an interview with the famous actor.",
+			"During the interview, she showcased her skills and experiences.",
+		],
+	},
+	{
+		id: 674,
+		word: "million",
+		equal: "Millón",
+		defination:
+			"El número 1,000,000; también, una gran cantidad o cantidad indeterminada.",
+		phrases: [
+			"The lottery winner received a million-dollar prize.",
+			"The city had a million inhabitants, making it a bustling metropolis.",
+			"She faced a million thoughts racing through her mind.",
+		],
+	},
+	{
+		id: 675,
+		word: "newspaper",
+		equal: "Periódico",
+		defination:
+			"Una publicación impresa que contiene noticias, artículos y anuncios; también, el material en sí.",
+		phrases: [
+			"Many people start their day by reading the newspaper over breakfast.",
+			"The newspaper reported on local events and global news.",
+			"Journalists play a crucial role in delivering accurate information through newspapers.",
+		],
+	},
+	{
+		id: 676,
+		word: "report",
+		equal: "Informe",
+		defination:
+			"Un documento que presenta información detallada sobre un tema; también, dar cuenta de hechos o situaciones.",
+		phrases: [
+			"The scientist published a detailed report on the experiment's findings.",
+			"Students are often required to submit a written report on their research.",
+			"The news anchor will report on the latest developments in the evening broadcast.",
+		],
+	},
+	{
+		id: 677,
+		word: "sport",
+		equal: "Deporte",
+		defination:
+			"Actividad física que involucra competición o ejercicio; también, mostrar un rasgo particular de manera llamativa.",
+		phrases: [
+			"Football is a popular sport played and watched by millions around the world.",
+			"She decided to take up a new sport to stay active and healthy.",
+			"The car sported a sleek and modern design.",
+		],
+	},
+	{
+		id: 678,
+		word: "support",
+		equal: "Apoyo",
+		defination:
+			"Ayuda o respaldo proporcionado a alguien o algo; también, sostener o mantener en posición.",
+		phrases: [
+			"Friends and family often offer emotional support during challenging times.",
+			"The community came together to support the local charity.",
+			"Pillows and cushions provide support for a comfortable sitting experience.",
+			"Team members should always support each other to achieve common goals.",
+			"Educational programs need financial support to make a lasting impact.",
+		],
+	},
+	{
+		id: 679,
+		word: "uniform",
+		equal: "Uniforme",
+		defination:
+			"Una prenda de vestir estándar usada por miembros de un grupo o profesión; también, consistente o constante.",
+		phrases: [
+			"Soldiers wear a uniform to identify themselves as part of a specific military branch.",
+			"School uniforms promote a sense of equality among students.",
+			"The company adopted a uniform policy for a professional appearance.",
+			"In some professions, a uniform is a symbol of authority and responsibility.",
+			"The team dressed in matching uniforms for the championship game.",
+		],
+	},
+	{
+		id: 680,
+		word: "brave",
+		equal: "Valiente",
+		defination:
+			"Mostrar valentía o coraje frente a situaciones difíciles o peligrosas; también, resistir o enfrentar sin temor.",
+		phrases: [
+			"Firefighters are known for their brave actions in saving lives.",
+			"She decided to take a brave step toward pursuing her passion.",
+			"Facing the unknown requires a brave heart and a strong spirit.",
+			"It takes a brave person to stand up for what they believe in.",
+			"The soldier received a medal for his brave conduct on the battlefield.",
+		],
+	},
+	{
+		id: 681,
+		word: "goat",
+		equal: "Cabra",
+		defination:
+			"Un mamífero domesticado comúnmente criado por su carne, leche o lana; también, alguien fácilmente engañado.",
+		phrases: [
+			"The goat grazed in the meadow, munching on fresh grass.",
+			"Goat cheese is a popular choice for its distinctive flavor.",
+			"Don't be a scapegoat in the situation—stand up for yourself.",
+			"In some cultures, goats are considered a symbol of agility and curiosity.",
+			"The shepherd led the goats to a new grazing area.",
+		],
+	},
+	{
+		id: 682,
+		word: "hang",
+		equal: "Colgar",
+		defination:
+			"Sostener o suspender algo en el aire; también, pasar el tiempo de manera informal o relajada.",
+		phrases: [
+			"She decided to hang a painting on the living room wall.",
+			"Friends often hang out at the local coffee shop for casual conversations.",
+			"The wet clothes were left to hang on the clothesline to dry.",
+			"It's essential to hang curtains properly for an elegant look.",
+			"They decided to hang decorative lights for the outdoor party.",
+		],
+	},
+	{
+		id: 683,
+		word: "ice",
+		equal: "Hielo",
+		defination:
+			"Agua en estado sólido debido a temperaturas bajas; también, aplicar hielo para enfriar o aliviar una lesión.",
+		phrases: [
+			"The lake was frozen, covered in a layer of thick ice.",
+			"Injuries are often treated with an ice pack to reduce swelling.",
+			"She ordered a refreshing drink with plenty of ice on a hot day.",
+			"Ice sculptures are a captivating feature at winter festivals.",
+			"Children love to skate on the frozen pond when it's covered in ice.",
+		],
+	},
+	{
+		id: 684,
+		word: "insect",
+		equal: "Insecto",
+		defination:
+			"Un pequeño animal de la clase Insecta, generalmente con seis patas y a menudo alas; también, algo molesto o intrusivo.",
+		phrases: [
+			"Butterflies and bees are examples of insects.",
+			"An insect bite can cause itching and redness on the skin.",
+			"She brushed away the annoying insect that buzzed around her.",
+			"Insect pollination is essential for the reproduction of many plants.",
+			"The children observed an ant hill to learn about insect behavior.",
+		],
+	},
+	{
+		id: 685,
+		word: "raise",
+		equal: "Levantar",
+		defination:
+			"Elevar o levantar algo; también, aumentar el nivel o la cantidad de algo.",
+		phrases: [
+			"He used a crane to raise the heavy load to the top floor.",
+			"Parents strive to raise their children with love and guidance.",
+			"The company decided to raise the prices of its products.",
+			"It's important to raise awareness about environmental issues.",
+			"The community worked together to raise funds for the local school.",
+		],
+	},
+	{
+		id: 686,
+		word: "roll",
+		equal: "Rodar",
+		defination:
+			"Moverse o girar sobre un eje; también, una pieza de pan o pastelería.",
+		phrases: [
+			"The ball started to roll down the hill.",
+			"She decided to roll up the sleeves of her shirt.",
+			"He grabbed a roll from the bakery to enjoy with dinner.",
+			"The thunder made the sound of a distant roll in the sky.",
+			"Rolling hills provide a scenic view of the countryside.",
+		],
+	},
+	{
+		id: 687,
+		word: "sore",
+		equal: "Adolorido",
+		defination:
+			"Dolorido o sensible, generalmente debido a esfuerzo físico; también, resentido o molesto.",
+		phrases: [
+			"After the intense workout, her muscles were sore the next day.",
+			"He felt sore about not being included in the project.",
+			"Applying a warm compress can help soothe a sore muscle.",
+			"Walking for hours left her feet feeling sore and tired.",
+			"Overexertion during exercise can lead to soreness and fatigue.",
+		],
+	},
+	{
+		id: 688,
+		word: "tent",
+		equal: "Tienda de campaña",
+		defination:
+			"Una estructura portátil para acampar, generalmente hecha de tela; también, algo que cubre o protege.",
+		phrases: [
+			"They pitched a tent in the forest for an overnight camping trip.",
+			"The tent provided shelter from the rain during the outdoor event.",
+			"Camping enthusiasts enjoy the experience of sleeping in a tent.",
+			"The family gathered around the tent for a cozy evening.",
+			"During the camping trip, they set up a tent near the lake.",
+		],
+	},
+	{
+		id: 689,
+		word: "village",
+		equal: "Pueblo",
+		defination:
+			"Un asentamiento humano más pequeño que una ciudad; también, una comunidad con características rurales.",
+		phrases: [
+			"The village was known for its picturesque landscape and friendly residents.",
+			"In the village, everyone knew each other by name.",
+			"They decided to spend a quiet weekend in a charming village.",
+			"The village celebrated its annual harvest festival with enthusiasm.",
+			"Life in a village offers a close-knit sense of community.",
+		],
+	},
+	{
+		id: 690,
+		word: "accident",
+		equal: "Accidente",
+		defination:
+			"Un evento inesperado que causa daño o lesiones; también, algo hecho sin intención.",
+		phrases: [
+			"The car crash was a tragic accident that resulted in injuries.",
+			"She spilled the coffee by accident while reaching for a book.",
+			"Taking precautions can help prevent accidents in the workplace.",
+			"It's essential to report any accident or injury promptly.",
+			"Road safety measures aim to reduce the number of accidents on highways.",
+		],
+	},
+	{
+		id: 691,
+		word: "adventure",
+		equal: "Aventura",
+		defination:
+			"Una experiencia emocionante o arriesgada; también, la disposición a enfrentar lo desconocido.",
+		phrases: [
+			"They embarked on an adventure to explore the uncharted territory.",
+			"The book narrated the thrilling adventures of a daring explorer.",
+			"Life is an adventure filled with unexpected twists and turns.",
+			"Choosing a career in filmmaking is an exciting adventure for her.",
+			"Adventures often lead to personal growth and self-discovery.",
+		],
+	},
+	{
+		id: 692,
+		word: "corn",
+		equal: "Maíz",
+		defination:
+			"Un cereal cultivado por sus granos; también, un área pequeña y confinada.",
+		phrases: [
+			"Corn is a staple food in many cultures, used in various dishes.",
+			"They planted rows of corn in the spacious field.",
+			"The squirrel stored its food in a small corn er of the garden.",
+			"Cornfields swayed in the breeze under the golden afternoon sun.",
+			"The farmer harvested ripe corn ears for the autumn festival.",
+		],
+	},
+	{
+		id: 693,
+		word: "develop",
+		equal: "Desarrollar",
+		defination: "Crecer o progresar; también, crear o mejorar algo.",
+		phrases: [
+			"Children continue to develop both physically and intellectually.",
+			"Scientists work to develop new technologies to benefit society.",
+			"The city decided to develop the waterfront into a recreational area.",
+			"Continuous learning is crucial to personal and professional development.",
+			"Efforts to develop sustainable practices are essential for environmental conservation.",
+		],
+	},
+	{
+		id: 694,
+		word: "medicine",
+		equal: "Medicina",
+		defination:
+			"Sustancias utilizadas para tratar, prevenir o aliviar enfermedades; también, la práctica o estudio de la curación.",
+		phrases: [
+			"He took medicine to relieve the symptoms of the cold.",
+			"Modern medicine has made significant advances in treating various conditions.",
+			"The field of medicine encompasses a wide range of specialties.",
+			"Herbal medicine has been used for centuries to address health issues.",
+			"Medical research aims to discover innovative medicines for challenging diseases.",
+		],
+	},
+	{
+		id: 695,
+		word: "own",
+		equal: "Poseer",
+		defination:
+			"Tener algo como propiedad; también, admitir la responsabilidad o reconocer algo.",
+		phrases: [
+			"She decided to own a small business in her hometown.",
+			"It's important to own up to one's mistakes and learn from them.",
+			"Each person has the right to own their individual beliefs and opinions.",
+			"The artist was proud to own a collection of unique paintings.",
+			"Taking pride in your work is a key aspect of owning a successful business.",
+		],
+	},
+	{
+		id: 696,
+		word: "product",
+		equal: "Producto",
+		defination:
+			"Un artículo creado para su venta o uso; también, el resultado de un proceso o actividad.",
+		phrases: [
+			"The company introduced a new product to the market.",
+			"Quality control ensures that the final product meets standards.",
+			"Hard work and dedication are key elements in the production of a successful product.",
+			"Consumer feedback is valuable for improving product design and functionality.",
+			"The bakery is known for its delicious and innovative pastry products.",
+		],
+	},
+	{
+		id: 697,
+		word: "quite",
+		equal: "Bastante",
+		defination:
+			"En gran medida o considerablemente; también, un término utilizado para expresar acuerdo o comprensión.",
+		phrases: [
+			"The hike was quite challenging but rewarding with stunning views.",
+			"She found the book to be quite interesting and informative.",
+			"When asked if he was ready, he simply replied, 'Quite.'",
+			"The project turned out to be quite successful beyond expectations.",
+			"The new restaurant is quite popular for its unique menu and ambiance.",
+		],
+	},
+	{
+		id: 698,
+		word: "roof",
+		equal: "Tejado",
+		defination:
+			"La cubierta superior de una estructura que proporciona protección contra el clima; también, el punto más alto.",
+		phrases: [
+			"During the storm, they heard the rain hitting the roof.",
+			"The house had a traditional thatched roof.",
+			"The climbers reached the roof of the mountain after a challenging ascent.",
+			"A well-maintained roof is crucial for protecting a home from the elements.",
+			"The rooftop terrace offers a panoramic view of the city skyline.",
+		],
+	},
+	{
+		id: 699,
+		word: "rope",
+		equal: "Cuerda",
+		defination:
+			"Un cordón fuerte y flexible, generalmente hecho de fibras trenzadas; también, un acto de lanzar o tirar con una cuerda.",
+		phrases: [
+			"They used a sturdy rope to climb the steep cliff.",
+			"The cowboy expertly twirled his lasso before throwing it to catch the runaway calf.",
+			"Securing the boat with a rope is essential to prevent drifting.",
+			"She learned how to tie different knots for various rope activities.",
+			"The rock climber carefully checked her safety harness and rope before ascending.",
+		],
+	},
+	{
+		id: 700,
+		word: "carrot",
+		equal: "Zanahoria",
+		defination:
+			"Una hortaliza de raíz de color naranja; también, un incentivo o recompensa.",
+		phrases: [
+			"Carrots are rich in beta-carotene, which is beneficial for eye health.",
+			"She chopped fresh carrots to add to the nutritious salad.",
+			"As a child, he was motivated by the promise of a carrot after completing his chores.",
+			"The recipe calls for grated carrot to enhance the flavor of the dish.",
+			"Carrots can be enjoyed raw as a crunchy snack or cooked in various recipes.",
+		],
+	},
+	{
+		id: 701,
+		word: "cause",
+		equal: "Causa",
+		defination:
+			"El motivo o razón detrás de un evento o acción; también, llevar a cabo un efecto.",
+		phrases: [
+			"Understanding the cause of a problem is essential for finding a solution.",
+			"The organization works tirelessly to support charitable causes.",
+			"The investigation aimed to determine the cause of the mysterious illness.",
+			"Human activities can cause environmental changes with long-term effects.",
+			"Every effect has a cause, and scientists seek to unravel these connections.",
+		],
+	},
+	{
+		id: 702,
+		word: "experiment",
+		equal: "Experimento",
+		defination:
+			"Una prueba o investigación realizada para obtener nuevos conocimientos; también, probar algo nuevo o inusual.",
+		phrases: [
+			"Scientists conducted an experiment to test the hypothesis.",
+			"In the kitchen, she decided to experiment with different spices in the recipe.",
+			"The results of the experiment provided valuable insights for future research.",
+			"Teachers encourage students to design and conduct their own experiments.",
+			"Embarking on a new adventure is like conducting a personal experiment.",
+		],
+	},
+	{
+		id: 703,
+		word: "fry",
+		equal: "Freír",
+		defination:
+			"Cocinar alimentos sumergiéndolos en aceite caliente; también, afectar negativamente algo debido al calor.",
+		phrases: [
+			"He decided to fry the potatoes until they were golden and crispy.",
+			"Frying chicken requires careful monitoring of the oil temperature.",
+			"The intense heat can fry the delicate electronic components of a device.",
+			"In some cultures, it's common to fry vegetables as a quick and tasty side dish.",
+			"Excessive sun exposure can fry the skin and cause sunburn.",
+		],
+	},
+	{
+		id: 704,
+		word: "ground",
+		equal: "Suelo",
+		defination:
+			"La superficie de la Tierra; también, la razón o base de una creencia.",
+		phrases: [
+			"Children love to play on the soft ground of the playground.",
+			"The seeds were planted in the fertile ground for optimal growth.",
+			"The idea of equality is the common ground for building a just society.",
+			"After the rain, the ground was muddy and slippery.",
+			"The earthquake caused the ground to shake and buildings to sway.",
+		],
+	},
+	{
+		id: 705,
+		word: "kill",
+		equal: "Matar",
+		defination:
+			"Causar la muerte de alguien o algo; también, detener o poner fin a algo.",
+		phrases: [
+			"Hunting predators kill to secure their food source.",
+			"The use of pesticides can inadvertently kill beneficial insects.",
+			"War and conflict often result in the loss of innocent lives.",
+			"To kill a dangerous virus, scientists develop vaccines.",
+			"Careless actions can kill enthusiasm and creativity.",
+		],
+	},
+	{
+		id: 706,
+		word: "mix",
+		equal: "Mezclar",
+		defination:
+			"Combinar diferentes elementos para obtener una sustancia homogénea; también, interactuar con diferentes personas.",
+		phrases: [
+			"She used a whisk to mix the ingredients for the cake batter.",
+			"The DJ skillfully mixed different tracks to create a seamless dance mix.",
+			"In social gatherings, it's an opportunity to mix with diverse personalities.",
+			"A gentle stir is needed to mix the flavors in the soup.",
+			"To create a unique artwork, artists often mix various mediums and techniques.",
+		],
+	},
+	{
+		id: 707,
+		word: "possible",
+		equal: "Posible",
+		defination:
+			"Que puede suceder o realizarse; también, una opción o alternativa.",
+		phrases: [
+			"With dedication and hard work, anything is possible.",
+			"Scientists explore all possible scenarios in their research.",
+			"It's important to consider all possible solutions before making a decision.",
+			"In the world of technology, innovation opens up new realms of possible achievements.",
+			"Dream big, and you may achieve the seemingly impossible.",
+		],
+	},
+	{
+		id: 708,
+		word: "pot",
+		equal: "Olla",
+		defination:
+			"Un recipiente profundo utilizado para cocinar alimentos; también, la cantidad máxima que se puede ganar en una competencia.",
+		phrases: [
+			"She placed the vegetables in the pot and let them simmer.",
+			"Cooking a hearty soup requires a large and sturdy pot.",
+			"In poker, players contribute to the pot in hopes of winning it all.",
+			"The chef carefully stirred the contents of the boiling pot.",
+			"A watched pot never boils—a saying emphasizing patience.",
+		],
+	},
+	{
+		id: 709,
+		word: "proud",
+		equal: "Orgulloso",
+		defination:
+			"Sentir satisfacción o honor por uno mismo o por los logros de otros; también, tener una apariencia imponente.",
+		phrases: [
+			"Parents feel proud when their children achieve success.",
+			"She was proud of her team's hard work and dedication.",
+			"Expressing pride in cultural heritage is important for many individuals.",
+			"The soldier's family was proud of his service to the country.",
+			"Standing tall and confident, he walked with a proud demeanor.",
+		],
+	},
+	{
+		id: 710,
+		word: "lay",
+		equal: "Colocar",
+		defination:
+			"Poner algo en posición horizontal; también, presentar información de manera clara y detallada.",
+		phrases: [
+			"She decided to lay the book on the table before leaving.",
+			"Workers carefully lay the bricks to create a sturdy foundation.",
+			"The journalist sought to lay out the facts of the investigation.",
+			"It's essential to lay the groundwork for a successful project.",
+			"Before painting, it's advisable to lay down protective sheets to prevent splatters.",
+		],
+	},
+	{
+		id: 711,
+		word: "list",
+		equal: "Lista",
+		defination:
+			"Una serie de elementos organizados o enumerados; también, registrar o incluir en una lista.",
+		phrases: [
+			"She made a list of items needed for the grocery shopping.",
+			"The to-do list helped her stay organized and focused.",
+			"The teacher asked students to list their favorite books for a class project.",
+			"To avoid forgetting tasks, he created a checklist with deadlines.",
+			"The list of accomplishments highlighted their team's success.",
+		],
+	},
+	{
+		id: 712,
+		word: "main",
+		equal: "Principal",
+		defination:
+			"Lo más importante o destacado; también, la parte central de algo.",
+		phrases: [
+			"The main focus of the presentation was environmental sustainability.",
+			"In a story, the main character often undergoes significant growth or change.",
+			"The main course of the meal featured a delicious roast.",
+			"The main objective is to provide quality education to all students.",
+			"The main entrance to the building is through the grand lobby.",
+		],
+	},
+	{
+		id: 713,
+		word: "mark",
+		equal: "Marca",
+		defination:
+			"Una señal o impresión dejada en una superficie; también, un puntaje o calificación.",
+		phrases: [
+			"The artist signed their name as a mark of authenticity.",
+			"A high mark on the exam reflected diligent study habits.",
+			"Scars can serve as a visible mark of past experiences.",
+			"The historic event left a lasting mark on the community.",
+			"The teacher used a red pen to provide feedback and mark errors.",
+		],
+	},
+	{
+		id: 714,
+		word: "mistake",
+		equal: "Error",
+		defination:
+			"Una acción incorrecta o malentendido; también, aprender de las experiencias pasadas.",
+		phrases: [
+			"It's okay to make a mistake; what matters is the ability to learn from it.",
+			"The leader admitted the mistake and took steps to correct it.",
+			"In the process of innovation, mistakes can lead to unexpected discoveries.",
+			"A common mistake is overlooking the importance of clear communication.",
+			"The book highlighted common language mistakes to avoid in writing.",
+		],
+	},
+	{
+		id: 715,
+		word: "price",
+		equal: "Precio",
+		defination:
+			"La cantidad de dinero requerida para adquirir algo; también, el costo o consecuencias de una acción.",
+		phrases: [
+			"Before making a purchase, it's important to check the price.",
+			"The price of the antique vase was determined by its rarity and condition.",
+			"Sometimes, success comes at the price of hard work and dedication.",
+			"Environmental conservation requires society to consider the price of unchecked industrialization.",
+			"The negotiators discussed the price of compromise in reaching an agreement.",
+		],
+	},
+	{
+		id: 716,
+		word: "several",
+		equal: "Varios",
+		defination:
+			"Más de dos, pero no muchos; también, diferentes o diversos.",
+		phrases: [
+			"He spent several hours working on the project to ensure its quality.",
+			"Several options were presented to address the issue at hand.",
+			"The team consulted several experts to gather diverse perspectives.",
+			"She collected several unique souvenirs during her travels.",
+			"The garden boasted several varieties of colorful flowers.",
+		],
+	},
+	{
+		id: 717,
+		word: "share",
+		equal: "Compartir",
+		defination:
+			"Dividir o distribuir algo con otros; también, expresar pensamientos o emociones con alguien.",
+		phrases: [
+			"Friends often share their belongings to strengthen their bond.",
+			"The company decided to share the profits among its employees.",
+			"It's important to share ideas for collaborative problem-solving.",
+			"He chose to share his experiences to inspire others facing similar challenges.",
+			"Sharing laughter with friends is a wonderful way to create positive memories.",
+		],
+	},
+	{
+		id: 718,
+		word: "soil",
+		equal: "Suelo",
+		defination:
+			"La capa superior de la Tierra en la que crecen las plantas; también, ensuciar o manchar.",
+		phrases: [
+			"Healthy soil is essential for the successful growth of crops.",
+			"Gardening enthusiasts enrich the soil with organic matter for optimal plant health.",
+			"It's advisable to avoid soil erosion through proper land management.",
+			"The children returned home with soil-stained clothes after playing in the garden.",
+			"The construction project aimed to preserve the quality of the local soil.",
+		],
+	},
+	{
+		id: 719,
+		word: "taste",
+		equal: "Gusto",
+		defination:
+			"La percepción de sabores a través de la lengua; también, preferencias personales o estilo.",
+		phrases: [
+			"The chef carefully balanced the flavors to create a delicious taste.",
+			"Everyone has a unique taste when it comes to choosing music.",
+			"She took a small bite to savor the taste of the homemade chocolate cake.",
+			"The restaurant is known for its diverse menu to cater to different tastes.",
+			"Personal taste plays a crucial role in selecting the right artwork for a home.",
+		],
+	},
+	{
+		id: 720,
+		word: "awful",
+		equal: "Horrible",
+		defination:
+			"Extremadamente malo o desagradable; también, que causa temor o reverencia.",
+		phrases: [
+			"The smell from the garbage was truly awful and required immediate attention.",
+			"They had an awful experience with customer service at the store.",
+			"The storm created awful conditions for outdoor activities.",
+			"Despite the awful weather, they decided to proceed with the outdoor event.",
+			"He felt an awful sense of guilt after realizing his mistake.",
+		],
+	},
+	{
+		id: 721,
+		word: "crazy",
+		equal: "Loco",
+		defination:
+			"Mentalmente desequilibrado o irracional; también, extremadamente entusiasta o apasionado.",
+		phrases: [
+			"The character in the movie was portrayed as crazy and unpredictable.",
+			"Some people considered his idea crazy, but it turned out to be innovative.",
+			"She did something crazy and spontaneous during her vacation.",
+			"The artist had a crazy burst of creativity and produced amazing artwork.",
+			"Their crazy adventure led to unforgettable memories and laughter.",
+		],
+	},
+	{
+		id: 722,
+		word: "huge",
+		equal: "Enorme",
+		defination:
+			"Muy grande en tamaño o cantidad; también, causando asombro o admiración.",
+		phrases: [
+			"The elephant had a huge presence in the zoo due to its size and majesty.",
+			"The company made a huge investment in technology to enhance productivity.",
+			"The news of the discovery had a huge impact on the scientific community.",
+			"They built a huge sandcastle on the beach during the summer vacation.",
+			"The stadium was filled with a huge crowd eager to watch the championship game.",
+		],
+	},
+	{
+		id: 723,
+		word: "moment",
+		equal: "Momento",
+		defination:
+			"Un período breve de tiempo; también, un punto crucial en el tiempo.",
+		phrases: [
+			"Capture the beautiful sunset; it's a fleeting moment of natural beauty.",
+			"He hesitated for a moment before making a decision.",
+			"In moments of crisis, people often show their true character.",
+			"The celebration was a moment of joy shared by the entire community.",
+			"Life is made up of small moments that define our experiences.",
+		],
+	},
+	{
+		id: 724,
+		word: "odd",
+		equal: "Extraño",
+		defination: "Fuera de lo común o inusual; también, un número impar.",
+		phrases: [
+			"She noticed an odd sound coming from the old house next door.",
+			"Wearing mismatched socks is considered a bit odd, but some find it charming.",
+			"The clock struck an odd number of times, causing confusion.",
+			"It's odd to encounter wildlife in the heart of the city.",
+			"His odd behavior raised eyebrows among his colleagues.",
+		],
+	},
+	{
+		id: 725,
+		word: "pour",
+		equal: "Verter",
+		defination:
+			"Hacer fluir un líquido en un flujo continuo; también, llover intensamente.",
+		phrases: [
+			"She carefully poured the hot tea into delicate china cups.",
+			"The rain began to pour, creating puddles on the sidewalk.",
+			"He decided to pour himself a glass of cold water to quench his thirst.",
+			"Pour the sauce evenly over the pasta for a delicious dish.",
+			"During the storm, the heavens seemed to pour with relentless force.",
+		],
+	},
+	{
+		id: 726,
+		word: "regret",
+		equal: "Arrepentirse",
+		defination:
+			"Sentir pesar o remordimiento por algo hecho o no hecho; también, una expresión de disgusto.",
+		phrases: [
+			"She couldn't help but regret not taking the opportunity when it was presented.",
+			"Regret filled his heart as he realized the impact of his words.",
+			"It's better to take a chance than to live with the regret of never trying.",
+			"He expressed his regret for the inconvenience caused by the mistake.",
+			"Regrettable decisions can serve as valuable lessons for personal growth.",
+		],
+	},
+	{
+		id: 727,
+		word: "steal",
+		equal: "Robar",
+		defination:
+			"Tomar algo sin permiso o de manera ilegal; también, ganar ventaja de manera astuta.",
+		phrases: [
+			"Thieves attempted to steal valuable artwork from the museum.",
+			"He vowed never to steal again after facing the consequences.",
+			"Time seemed to stand still as he witnessed someone try to steal his wallet.",
+			"She managed to steal a glance at the surprise gift before the celebration.",
+			"Some athletes try to steal a competitive edge through unethical means.",
+		],
+	},
+	{
+		id: 728,
+		word: "thief",
+		equal: "Ladrón",
+		defination:
+			"Una persona que roba o comete actos ilegales para obtener ganancias personales.",
+		phrases: [
+			"The security cameras caught the image of the thief breaking into the store.",
+			"The neighborhood was on high alert after reports of a thief in the area.",
+			"The clever thief managed to evade capture for months.",
+			"Law enforcement worked tirelessly to apprehend the notorious art thief.",
+			"A vigilant community can help deter thieves and protect against theft.",
+		],
+	},
+	{
+		id: 729,
+		word: "tough",
+		equal: "Difícil",
+		defination:
+			"Fuerte o resistente; también, difícil de realizar o enfrentar.",
+		phrases: [
+			"The leather is tough and durable, making it suitable for heavy-duty use.",
+			"Facing tough challenges builds resilience and character.",
+			"The decision to cut funding was a tough call for the organization.",
+			"In tough times, true friends stand by your side for support.",
+			"Surviving in the wilderness requires knowledge and a tough mindset.",
+		],
+	},
+	{
+		id: 730,
+		word: "chance",
+		equal: "Oportunidad",
+		defination:
+			"La probabilidad de que algo suceda; también, una ocasión o posibilidad.",
+		phrases: [
+			"Take a chance and pursue your dreams with determination.",
+			"There's always a chance of finding beauty in unexpected places.",
+			"She seized the chance to showcase her artistic talents at the exhibition.",
+			"The game was decided by a last-minute chance that turned the tide.",
+			"Don't miss the chance to create lasting memories with loved ones.",
+		],
+	},
+	{
+		id: 731,
+		word: "extra",
+		equal: "Extra",
+		defination:
+			"Más de lo necesario o esperado; también, un actor de fondo en una producción.",
+		phrases: [
+			"He ordered extra toppings on his pizza for added flavor.",
+			"The teacher provided extra resources for students seeking additional challenges.",
+			"Being an extra in a movie allows you to experience the film industry behind the scenes.",
+			"She decided to work extra hours to meet the project deadline.",
+			"The store offered an extra discount for loyal customers.",
+		],
+	},
+	{
+		id: 732,
+		word: "hall",
+		equal: "Pasillo",
+		defination:
+			"Un espacio largo y estrecho en un edificio que conecta habitaciones o áreas; también, un lugar para eventos.",
+		phrases: [
+			"The hotel had a grand hall leading to the elegant ballroom.",
+			"Students gathered in the hall between classes to socialize.",
+			"The wedding reception took place in a beautifully decorated hall.",
+			"The museum's hall displayed artifacts from different historical periods.",
+			"The long hall echoed with footsteps during the busy conference.",
+		],
+	},
+	{
+		id: 733,
+		word: "immediately",
+		equal: "Inmediatamente",
+		defination: "De manera inmediata o sin demora.",
+		phrases: [
+			"Upon hearing the alarm, everyone evacuated the building immediately.",
+			"He responded to the urgent request immediately, showing dedication to his work.",
+			"The teacher addressed the issue with the student immediately.",
+			"In case of an emergency, call for help immediately.",
+			"The impact of the decision became apparent immediately.",
+		],
+	},
+	{
+		id: 734,
+		word: "intend",
+		equal: "Tener la intención",
+		defination:
+			"Tener la intención de hacer algo; también, significar o tener un propósito.",
+		phrases: [
+			"She didn't intend to cause any harm with her words; it was a misunderstanding.",
+			"The architect carefully designed the building with a specific purpose in mind.",
+			"His actions may not have intended harm, but they had a significant impact.",
+			"I intend to complete the project ahead of schedule to exceed expectations.",
+			"The law is intended to protect the rights and well-being of citizens.",
+		],
+	},
+	{
+		id: 735,
+		word: "mention",
+		equal: "Mencionar",
+		defination:
+			"Hablar o referirse a algo de manera breve; también, ser parte de una conversación o discurso.",
+		phrases: [
+			"She forgot to mention the important detail during the meeting.",
+			"The article failed to mention the contributions of the dedicated volunteers.",
+			"It's important to mention the key points in a summary.",
+			"His name was frequently mentioned in discussions about potential leaders.",
+			"The mention of the upcoming event sparked excitement among the attendees.",
+		],
+	},
+	{
+		id: 736,
+		word: "reaction",
+		equal: "Reacción",
+		defination:
+			"La respuesta o comportamiento en respuesta a un estímulo o situación.",
+		phrases: [
+			"His reaction to the surprise party was a mix of shock and joy.",
+			"The chemical reaction produced a vibrant color change in the solution.",
+			"Understanding the audience's reaction is crucial for a successful performance.",
+			"She observed his facial expression for any sign of a reaction.",
+			"The news elicited a range of reactions from the community.",
+		],
+	},
+	{
+		id: 737,
+		word: "score",
+		equal: "Puntuación",
+		defination:
+			"La cantidad de puntos obtenidos en un juego o competición; también, obtener un logro o éxito.",
+		phrases: [
+			"The final score of the game determined the winner and loser.",
+			"Scoring high on the exam required diligent preparation and focus.",
+			"He worked hard to score a promotion within the company.",
+			"The musician received a high score for the composition at the competition.",
+			"Scoring a goal in the championship match was the highlight of his career.",
+		],
+	},
+	{
+		id: 738,
+		word: "search",
+		equal: "Buscar",
+		defination:
+			"Examinar o investigar en busca de algo; también, una acción de búsqueda en internet.",
+		phrases: [
+			"They embarked on a search for the missing hiker in the dense forest.",
+			"The detective continued the search for clues to solve the mystery.",
+			"Online users often use search engines to find information quickly.",
+			"The search for new opportunities led her to explore different career paths.",
+			"Parents joined the search for their lost child in the crowded mall.",
+		],
+	},
+	{
+		id: 739,
+		word: "worse",
+		equal: "Peor",
+		defination:
+			"De menor calidad o en peores condiciones; también, una situación más desfavorable.",
+		phrases: [
+			"The weather took a turn for the worse, forcing the event indoors.",
+			"He feared that things could get worse if immediate action was not taken.",
+			"The patient's condition became worse despite medical intervention.",
+			"Choosing the wrong path could lead to a worse outcome in the long run.",
+			"Sometimes, acknowledging mistakes early prevents things from getting worse.",
+		],
+	},
+	{
+		id: 740,
+		word: "bit",
+		equal: "Poco",
+		defination:
+			"Una pequeña cantidad; también, una unidad de información en tecnología.",
+		phrases: [
+			"Add a bit of salt to enhance the flavor of the dish.",
+			"She felt a bit nervous before the important presentation.",
+			"In computing, a bit is the basic unit of information, representing 0 or 1.",
+			"He spoke softly, giving only a bit of the information to maintain suspense.",
+			"Every little bit of effort contributes to the overall success of the project.",
+		],
+	},
+	{
+		id: 741,
+		word: "common",
+		equal: "Común",
+		defination:
+			"Frecuente o compartido por muchos; también, ordinario o habitual.",
+		phrases: [
+			"The common goal of the team was to achieve success in the upcoming competition.",
+			"Common interests often bring people together in communities.",
+			"It's common for siblings to have differences but also share a strong bond.",
+			"In the scientific community, it's common to collaborate on research projects.",
+			"The common thread in their stories was the pursuit of happiness and fulfillment.",
+		],
+	},
+	{
+		id: 742,
+		word: "diet",
+		equal: "Dieta",
+		defination:
+			"La selección habitual de alimentos consumidos por una persona; también, un plan alimenticio para objetivos específicos.",
+		phrases: [
+			"A balanced diet is essential for maintaining good health and well-being.",
+			"She decided to adopt a plant-based diet for ethical and health reasons.",
+			"Athletes often follow a strict diet to optimize their performance.",
+			"The doctor recommended a diet rich in fruits and vegetables for better nutrition.",
+			"The Mediterranean diet is known for its emphasis on olive oil, vegetables, and lean proteins.",
+		],
+	},
+	{
+		id: 743,
+		word: "evidence",
+		equal: "Evidencia",
+		defination:
+			"Información o hechos que respaldan una afirmación o teoría; también, un indicio de algo.",
+		phrases: [
+			"The detective gathered evidence to solve the mystery of the missing painting.",
+			"Scientific experiments provide evidence to support or refute hypotheses.",
+			"Eyewitness accounts can serve as valuable evidence in legal cases.",
+			"There is no clear evidence to support the paranormal claims.",
+			"The sudden change in weather was evidence of an approaching storm.",
+		],
+	},
+	{
+		id: 744,
+		word: "fit",
+		equal: "Ajustar",
+		defination:
+			"Encajar adecuadamente en un espacio o situación; también, estar en buena forma física.",
+		phrases: [
+			"The puzzle pieces were designed to fit together seamlessly.",
+			"She struggled to find shoes that would fit comfortably.",
+			"Regular exercise helps maintain a fit and healthy body.",
+			"The tailor worked diligently to ensure the suit would fit perfectly.",
+			"Finding a job that fits your skills and interests is crucial for career satisfaction.",
+		],
+	},
+	{
+		id: 745,
+		word: "limit",
+		equal: "Límite",
+		defination:
+			"El punto más alto o extremo de algo; también, una restricción o restricción.",
+		phrases: [
+			"She reached the limit of her patience after dealing with the challenging situation.",
+			"The speed limit on the highway is designed for safety.",
+			"Know your limits, but never stop trying to exceed them.",
+			"The budget constraints imposed a limit on the project's scope.",
+			"There's no limit to the potential of human creativity.",
+		],
+	},
+	{
+		id: 746,
+		word: "physical",
+		equal: "Físico",
+		defination:
+			"Relacionado con el cuerpo o la materia; también, un examen médico.",
+		phrases: [
+			"Regular exercise is important for maintaining good physical health.",
+			"The job involves both mental and physical challenges.",
+			"A healthy diet contributes to overall physical well-being.",
+			"He underwent a physical examination before joining the sports team.",
+			"The athlete demonstrated remarkable physical strength during the competition.",
+		],
+	},
+	{
+		id: 747,
+		word: "poison",
+		equal: "Veneno",
+		defination:
+			"Una sustancia que puede causar daño, enfermedad o muerte al ingerirla, inhalarla o entrar en contacto con ella.",
+		phrases: [
+			"Certain plants in the garden contain poison and should be handled with care.",
+			"The detective suspected foul play when poison was found in the victim's drink.",
+			"Educate children about the dangers of ingesting household poisons.",
+			"Snake venom is a potent poison that requires immediate medical attention.",
+			"The warning label indicated that the product contained a lethal poison.",
+		],
+	},
+	{
+		id: 748,
+		word: "sale",
+		equal: "Venta",
+		defination:
+			"El acto de vender productos o servicios a cambio de dinero; también, una oferta especial de productos a precios reducidos.",
+		phrases: [
+			"The store announced a clearance sale to make room for new inventory.",
+			"Black Friday is known for its massive sales and discounts.",
+			"Online platforms offer a convenient way to browse and make purchases during a sale.",
+			"The artist's paintings were in high demand, leading to a successful art sale.",
+			"Customers eagerly lined up outside the store for the annual holiday sale.",
+		],
+	},
+	{
+		id: 749,
+		word: "type",
+		equal: "Tipo",
+		defination:
+			"Una categoría o clasificación particular; también, el diseño o la impresión de letras en una fuente.",
+		phrases: [
+			"There are different types of flowers that bloom in the spring.",
+			"Each blood type has unique characteristics and compatibility.",
+			"The architect discussed the preferred type of flooring for the new building.",
+			"The font style determines the appearance of the letters in a specific typeface.",
+			"The museum featured exhibits showcasing various types of artistic expression.",
+		],
+	},
+	{
+		id: 750,
+		word: "amount",
+		equal: "Cantidad",
+		defination:
+			"La medida total de algo; también, la suma o total de algo.",
+		phrases: [
+			"The amount of rainfall determined the fertility of the soil.",
+			"He invested a significant amount of time and effort in the project.",
+			"The bank statement displayed the total amount in the account.",
+			"The recipe called for a specific amount of ingredients for the perfect dish.",
+			"There's an overwhelming amount of information available on the internet.",
+		],
+	},
+	{
+		id: 751,
+		word: "cure",
+		equal: "Cura",
+		defination:
+			"Un medio de restaurar la salud; también, poner fin a una enfermedad o problema.",
+		phrases: [
+			"Medical researchers strive to discover a cure for the rare disease.",
+			"A positive mindset is often considered a powerful cure for overcoming challenges.",
+			"The development of antibiotics revolutionized the cure of bacterial infections.",
+			"Finding a cure for certain medical conditions requires extensive research.",
+			"Nature has provided many plants with healing properties that act as a natural cure.",
+		],
+	},
+	{
+		id: 752,
+		word: "disease",
+		equal: "Enfermedad",
+		defination:
+			"Una alteración en la salud que causa síntomas específicos; también, una condición que afecta a individuos o a una comunidad.",
+		phrases: [
+			"Preventive measures such as vaccination can help control the spread of disease.",
+			"Researchers are dedicated to understanding the origins of genetic diseases.",
+			"The outbreak of a new infectious disease raised concerns globally.",
+			"Public health campaigns aim to raise awareness about preventing chronic diseases.",
+			"Early detection is crucial for effective treatment of many diseases.",
+		],
+	},
+	{
+		id: 753,
+		word: "medical",
+		equal: "Médico",
+		defination:
+			"Relacionado con la práctica de la medicina o el cuidado de la salud.",
+		phrases: [
+			"Medical professionals work tirelessly to provide quality healthcare to patients.",
+			"A medical examination is necessary for accurate diagnosis and treatment.",
+			"Advancements in medical technology have transformed the field of healthcare.",
+			"Medical ethics guide practitioners in making decisions that prioritize patient well-being.",
+			"Access to affordable medical care is essential for maintaining a healthy population.",
+		],
+	},
+	{
+		id: 754,
+		word: "necessary",
+		equal: "Necesario",
+		defination: "Requerido o indispensable; algo que no se puede evitar.",
+		phrases: [
+			"Proper nutrition is necessary for the body to function optimally.",
+			"The safety measures in place are necessary to prevent accidents.",
+			"In emergency situations, immediate action is necessary to save lives.",
+			"Effective communication is necessary for building strong relationships.",
+			"Education is considered necessary for personal and societal development.",
+		],
+	},
+	{
+		id: 755,
+		word: "produce",
+		equal: "Producir",
+		defination:
+			"Crear o generar algo; también, productos agrícolas o manufacturados.",
+		phrases: [
+			"The factory can produce a large quantity of goods in a short time.",
+			"Healthy soil is essential to produce high-quality crops.",
+			"The film industry works together to produce captivating movies.",
+			"Artists collaborate to produce a unique blend of creativity and innovation.",
+			"Consumers increasingly prefer locally produced and sustainable products.",
+		],
+	},
+	{
+		id: 756,
+		word: "reduce",
+		equal: "Reducir",
+		defination:
+			"Disminuir la cantidad, tamaño o intensidad de algo; también, simplificar o condensar.",
+		phrases: [
+			"Efforts to reduce pollution are crucial for environmental conservation.",
+			"A balanced diet can help reduce the risk of certain health issues.",
+			"The company implemented strategies to reduce energy consumption.",
+			"To save resources, many organizations aim to reduce paper usage.",
+			"Learning to prioritize tasks can reduce stress and increase efficiency.",
+		],
+	},
+	{
+		id: 757,
+		word: "serious",
+		equal: "Serio",
+		defination:
+			"Grave o de importancia significativa; también, una actitud o comportamiento sin humor.",
+		phrases: [
+			"The doctor delivered the news with a serious expression, emphasizing the gravity of the situation.",
+			"Addressing climate change is a serious challenge that requires global cooperation.",
+			"A serious approach to studies is essential for academic success.",
+			"In times of crisis, it's important to maintain a serious and focused mindset.",
+			"While at work, he maintains a serious demeanor to convey professionalism.",
+		],
+	},
+	{
+		id: 758,
+		word: "source",
+		equal: "Fuente",
+		defination:
+			"El lugar o la cosa de donde proviene algo; también, una fuente de información.",
+		phrases: [
+			"Freshwater lakes are a crucial source of drinking water for many communities.",
+			"Historians carefully evaluate the reliability of each source when researching the past.",
+			"The sun is a primary source of energy for life on Earth.",
+			"A reliable source confirmed the accuracy of the news report.",
+			"Local farmers are a direct source of organic produce for the community.",
+		],
+	},
+	{
+		id: 759,
+		word: "supply",
+		equal: "Suministro",
+		defination:
+			"La cantidad de algo disponible; también, proporcionar o abastecer algo.",
+		phrases: [
+			"A steady supply of electricity is essential for modern living.",
+			"The demand for certain products may exceed the available supply.",
+			"Efforts are underway to ensure a stable supply of clean water for all.",
+			"The company works to efficiently manage its supply chain for timely deliveries.",
+			"During emergencies, it's crucial to have a sufficient supply of essential items.",
+		],
+	},
+	{
+		id: 760,
+		word: "castle",
+		equal: "Castillo",
+		defination:
+			"Una estructura fortificada, a menudo con torres y murallas, construida en la Edad Media para la defensa.",
+		phrases: [
+			"The medieval castle stood proudly on the hill, overlooking the village.",
+			"Tourists marveled at the architectural beauty of the ancient castle.",
+			"The castle's walls were adorned with intricate carvings and artwork.",
+			"In fairy tales, a castle is often the setting for magical adventures.",
+			"The castle served as a strategic stronghold during times of conflict.",
+		],
+	},
+	{
+		id: 761,
+		word: "decision",
+		equal: "Decisión",
+		defination:
+			"Una elección o resolución tomada después de considerar opciones; también, la capacidad de tomar decisiones.",
+		phrases: [
+			"Making a difficult decision requires careful consideration of the consequences.",
+			"The committee reached a unanimous decision after thorough deliberation.",
+			"The ability to make quick decisions is crucial in high-pressure situations.",
+			"He faced criticism for his controversial decision, but stood by it.",
+			"The decision to pursue further education opened new opportunities for her.",
+		],
+	},
+	{
+		id: 762,
+		word: "empire",
+		equal: "Imperio",
+		defination:
+			"Un extenso territorio gobernado por un emperador o emperatriz; también, un grupo de naciones o estados bajo un solo gobierno o autoridad.",
+		phrases: [
+			"The ancient Roman Empire was a dominant force in classical civilization.",
+			"During its peak, the Ottoman Empire spanned three continents.",
+			"The historical records chronicle the rise and fall of empires throughout the centuries.",
+			"In the business world, certain companies are referred to as corporate empires.",
+			"Explorers sought new territories to expand the influence of their respective empires.",
+		],
+	},
+	{
+		id: 763,
+		word: "explore",
+		equal: "Explorar",
+		defination:
+			"Investigar o viajar en busca de nuevas experiencias; también, examinar detenidamente algo desconocido.",
+		phrases: [
+			"Space agencies strive to explore distant planets and galaxies.",
+			"The adventurer decided to explore uncharted territories in the Amazon rainforest.",
+			"Scientists explore the mysteries of the ocean depths to discover new species.",
+			"Children naturally have a curiosity to explore and learn about their surroundings.",
+			"Writers often explore complex themes and emotions in their literary works.",
+		],
+	},
+	{
+		id: 764,
+		word: "flight",
+		equal: "Vuelo",
+		defination:
+			"El acto de viajar por el aire utilizando aviones; también, una serie de escalones de una escalera.",
+		phrases: [
+			"Airline companies prioritize safety in every flight they operate.",
+			"Passengers eagerly awaited their turn to board the international flight.",
+			"Birds of prey are known for their graceful flight through the sky.",
+			"The astronaut experienced weightlessness during the spaceflight.",
+			"She carefully climbed each flight of stairs to reach the top of the ancient tower.",
+		],
+	},
+	{
+		id: 765,
+		word: "guard",
+		equal: "Guardia",
+		defination:
+			"Una persona o grupo de personas responsable de proteger a otros; también, un dispositivo que evita el acceso no autorizado.",
+		phrases: [
+			"The security guard monitored the premises to ensure safety.",
+			"Prison guards play a crucial role in maintaining order and security.",
+			"She hired a bodyguard to guard her during public events.",
+			"The castle had guards stationed at its entrance day and night.",
+			"It's important to guard sensitive information to prevent unauthorized access.",
+		],
+	},
+	{
+		id: 766,
+		word: "incredible",
+		equal: "Increíble",
+		defination:
+			"Asombroso o difícil de creer; también, algo extraordinario o impresionante.",
+		phrases: [
+			"The magician's performance was truly incredible, leaving the audience in awe.",
+			"He achieved an incredible feat by climbing the highest peak in record time.",
+			"The technological advancements in recent years are nothing short of incredible.",
+			"The athlete's recovery after a severe injury was an incredible comeback.",
+			"The breathtaking landscapes of the national park offered incredible views.",
+		],
+	},
+	{
+		id: 767,
+		word: "serve",
+		equal: "Servir",
+		defination:
+			"Realizar un servicio o proporcionar asistencia; también, ser útil o cumplir una función.",
+		phrases: [
+			"Waiters serve customers in the restaurant, ensuring a pleasant dining experience.",
+			"Volunteers serve the community by contributing their time and skills.",
+			"Public servants work to serve the interests and needs of the citizens.",
+			"The versatile tool can serve multiple purposes in various situations.",
+			"She chose a career in medicine to serve those in need of healthcare.",
+		],
+	},
+	{
+		id: 768,
+		word: "skin",
+		equal: "Piel",
+		defination:
+			"La capa externa que cubre el cuerpo de los humanos y otros animales; también, la cáscara de frutas o verduras.",
+		phrases: [
+			"Protecting your skin from the sun is essential for preventing damage.",
+			"Snakes shed their skin periodically as part of the growth process.",
+			"The fruit's skin is rich in nutrients and fiber.",
+			"Skin care routines help maintain healthy and radiant skin.",
+			"Animals use their fur or skin as a protective layer against the elements.",
+		],
+	},
+	{
+		id: 769,
+		word: "southern",
+		equal: "Sureño",
+		defination:
+			"Relativo o ubicado en el sur; también, características asociadas con la región sur.",
+		phrases: [
+			"The southern hemisphere experiences summer when the northern hemisphere has winter.",
+			"Southern cuisine is known for its flavorful and hearty dishes.",
+			"Many people migrate to southern regions for warmer weather during the winter.",
+			"The southern part of the country is rich in cultural diversity.",
+			"Southern states often have unique traditions and historical landmarks.",
+		],
+	},
+	{
+		id: 770,
+		word: "admire",
+		equal: "Admirar",
+		defination:
+			"Sentir respeto o estima por alguien; también, apreciar la belleza o habilidades de algo.",
+		phrases: [
+			"She admires her grandmother for her wisdom and strength.",
+			"Art enthusiasts admire the creativity and skill of the painter.",
+			"It's important to admire and appreciate the achievements of others.",
+			"Nature lovers admire the beauty of the landscape during all seasons.",
+			"Teachers often inspire students to admire the value of lifelong learning.",
+		],
+	},
+	{
+		id: 771,
+		word: "ancient",
+		equal: "Antiguo",
+		defination:
+			"Muy antiguo o perteneciente a un período de la historia anterior a la Edad Media; también, algo que ha existido durante mucho tiempo.",
+		phrases: [
+			"The archaeologist discovered ancient artifacts buried beneath the ruins.",
+			"Ancient civilizations left behind traces of their culture and achievements.",
+			"The ancient oak tree stood as a symbol of endurance and time.",
+			"The study of ancient languages provides insights into linguistic evolution.",
+			"Historians delve into ancient texts to understand the customs of bygone eras.",
+		],
+	},
+	{
+		id: 772,
+		word: "attractive",
+		equal: "Atractivo",
+		defination:
+			"Que tiene cualidades que atraen o cautivan; también, agradable a la vista.",
+		phrases: [
+			"Her confidence and kindness make her an attractive person to be around.",
+			"The vibrant colors of the painting made it especially attractive to art collectors.",
+			"Investing in personal development can make individuals more attractive to employers.",
+			"The scenic beauty of the coastal town makes it an attractive vacation destination.",
+			"A good sense of humor is often considered an attractive quality in a person.",
+		],
+	},
+	{
+		id: 773,
+		word: "giant",
+		equal: "Gigante",
+		defination:
+			"Enorme en tamaño; también, una figura mitológica o ficticia de gran tamaño.",
+		phrases: [
+			"The ancient forest was home to giant trees that reached incredible heights.",
+			"Scientists discovered the fossilized bones of a giant prehistoric creature.",
+			"A giant statue of a historical leader dominated the city square.",
+			"The company became a giant in the tech industry due to its innovative products.",
+			"Legends often feature giants as powerful and formidable beings.",
+		],
+	},
+	{
+		id: 774,
+		word: "pack",
+		equal: "Empacar",
+		defination:
+			"Llenar un recipiente o espacio con objetos; también, un grupo organizado de personas o animales.",
+		phrases: [
+			"She needed to pack her belongings before moving to a new city.",
+			"The hikers decided to pack light for the long trek in the mountains.",
+			"A pack of wolves roamed the wilderness in search of prey.",
+			"The suitcase was too small to pack all the souvenirs they bought.",
+			"A pack of cards is shuffled before the start of a card game.",
+		],
+	},
+	{
+		id: 775,
+		word: "prefer",
+		equal: "Preferir",
+		defination:
+			"Tener una preferencia o inclinación por algo; elegir una opción sobre otra.",
+		phrases: [
+			"Some people prefer coffee over tea for their morning caffeine boost.",
+			"He would prefer a quiet evening at home rather than a crowded party.",
+			"When traveling, she tends to prefer local cuisine to international fast food.",
+			"Students may prefer different learning styles based on their preferences.",
+			"I prefer to take the scenic route when driving through the countryside.",
+		],
+	},
+	{
+		id: 776,
+		word: "rent",
+		equal: "Alquilar",
+		defination:
+			"Obtener el uso o posesión de algo a cambio de un pago periódico; también, el costo del arrendamiento.",
+		phrases: [
+			"They decided to rent a beach house for their summer vacation.",
+			"The company chose to rent office space in the city center.",
+			"Renting a car can be a convenient option for travelers exploring a new city.",
+			"The monthly rent includes utilities such as water and electricity.",
+			"Landlords typically require tenants to sign a lease agreement before renting a property.",
+		],
+	},
+	{
+		id: 777,
+		word: "respect",
+		equal: "Respeto",
+		defination:
+			"Sentimiento de consideración y deferencia hacia los demás; también, mostrar consideración por normas o principios.",
+		phrases: [
+			"Respect for diversity is crucial for building inclusive communities.",
+			"Children learn the value of respect through positive role models.",
+			"In a healthy relationship, mutual respect is the foundation of communication.",
+			"Respecting nature involves practicing sustainable and responsible behaviors.",
+			"Cultural exchange promotes understanding and respect between different societies.",
+		],
+	},
+	{
+		id: 778,
+		word: "view",
+		equal: "Vista",
+		defination:
+			"La capacidad de ver o la escena visible desde un lugar específico; también, una opinión o punto de vista.",
+		phrases: [
+			"The mountain peak offers a breathtaking view of the surrounding landscape.",
+			"The hotel room had a balcony with a stunning view of the ocean.",
+			"She holds a different view on the matter, contributing to diverse discussions.",
+			"A panoramic view of the city skyline greeted visitors from the observation deck.",
+			"Photographers often seek elevated locations for the best views of the sunset.",
+		],
+	},
+	{
+		id: 779,
+		word: "wave",
+		equal: "Ola",
+		defination:
+			"Una elevación temporal de agua, aire u otra sustancia; también, saludar con la mano en un movimiento repetitivo.",
+		phrases: [
+			"Surfers eagerly awaited the next big wave to catch a thrilling ride.",
+			"A gentle wave of the hand greeted the arriving guests.",
+			"The ocean's waves lulled them into a sense of tranquility.",
+			"During the concert, the crowd enthusiastically responded with waves of applause.",
+			"Wheat fields swayed in unison, resembling golden waves in the breeze.",
+		],
+	},
+	{
+		id: 780,
+		word: "base",
+		equal: "Base",
+		defination:
+			"La parte inferior o soporte de algo; también, una ubicación principal de operaciones.",
+		phrases: [
+			"The vase stood on a sturdy base to prevent tipping over.",
+			"The army set up a temporary base in the strategic location.",
+			"A strong moral base serves as a foundation for ethical decision-making.",
+			"The sculptor carefully crafted the intricate details of the statue's base.",
+			"Scientific theories are built upon a base of empirical evidence and research.",
+		],
+	},
+	{
+		id: 781,
+		word: "character",
+		equal: "Personaje",
+		defination:
+			"Una persona en una obra literaria o dramática; también, la combinación de rasgos distintivos que define a alguien.",
+		phrases: [
+			"The novel introduced a compelling character with a complex backstory.",
+			"In the play, each character contributed to the development of the storyline.",
+			"Integrity is a key character trait that is highly valued in leadership.",
+			"The actor skillfully portrayed the nuances of the character's emotions.",
+			"Children's books often feature lovable characters with valuable life lessons.",
+		],
+	},
+	{
+		id: 782,
+		word: "clever",
+		equal: "Astuto",
+		defination:
+			"Inteligente y astuto; también, mostrar ingenio o habilidad mental.",
+		phrases: [
+			"The clever detective solved the mystery using deductive reasoning.",
+			"Her clever use of language added humor to the conversation.",
+			"Inventors often come up with clever solutions to everyday problems.",
+			"A clever strategy allowed the team to outsmart their opponents.",
+			"The clever design of the puzzle challenged players to think critically.",
+		],
+	},
+	{
+		id: 783,
+		word: "enemy",
+		equal: "Enemigo",
+		defination:
+			"Una persona, grupo u objeto que es adversario o está en contra; también, algo perjudicial o dañino.",
+		phrases: [
+			"During wartime, soldiers may consider the opposing forces as the enemy.",
+			"Overcoming internal fears and doubts is essential in facing one's inner enemy.",
+			"The detective realized that the true enemy was hidden within the organization.",
+			"Working together can turn a challenging situation into a shared victory over the common enemy.",
+			"In the battle against disease, medical researchers strive to understand the tactics of the invisible enemy.",
+		],
+	},
+	{
+		id: 784,
+		word: "length",
+		equal: "Longitud",
+		defination:
+			"La medida de la extensión de algo desde un extremo hasta el otro; también, la duración de algo.",
+		phrases: [
+			"The length of the bridge spans the river, connecting two shores.",
+			"The length of a movie depends on the director's creative choices.",
+			"Measurements indicated the length of the room for accurate furniture placement.",
+			"The length of the novel allowed for in-depth exploration of complex themes.",
+			"Understanding the length of a project helps in planning and resource allocation.",
+		],
+	},
+	{
+		id: 785,
+		word: "promise",
+		equal: "Promesa",
+		defination:
+			"Una declaración o compromiso de hacer algo en el futuro; también, indicio o garantía de algo que ocurrirá.",
+		phrases: [
+			"He made a promise to always support his friends in times of need.",
+			"The colorful sunrise was a promise of a beautiful day ahead.",
+			"Fulfilling a promise demonstrates reliability and integrity.",
+			"Parents often teach children the importance of keeping their promises.",
+			"The company's commitment to quality is a promise to its customers.",
+		],
+	},
+	{
+		id: 786,
+		word: "quality",
+		equal: "Calidad",
+		defination:
+			"El grado de excelencia o la naturaleza de algo; también, una característica distintiva.",
+		phrases: [
+			"The chef emphasized the importance of using high-quality ingredients in the recipe.",
+			"Consumers are willing to pay more for products known for their superior quality.",
+			"Quality control measures ensure that each product meets the established standards.",
+			"Artisans take pride in creating items with exceptional quality and craftsmanship.",
+			"A good leader values the quality of relationships within the team.",
+		],
+	},
+	{
+		id: 787,
+		word: "regularly",
+		equal: "Regularmente",
+		defination:
+			"Con frecuencia y de manera consistente; según un horario o patrón preestablecido.",
+		phrases: [
+			"Exercising regularly is key to maintaining good physical health.",
+			"The team meets regularly to discuss progress and address any challenges.",
+			"The author releases new content regularly to keep readers engaged.",
+			"Cleaning and maintaining the equipment regularly prolongs its lifespan.",
+			"Students benefit from studying regularly rather than cramming before exams.",
+		],
+	},
+	{
+		id: 788,
+		word: "survive",
+		equal: "Sobrevivir",
+		defination:
+			"Permanecer vivo o existir a pesar de circunstancias difíciles; también, continuar en funcionamiento o vigencia.",
+		phrases: [
+			"Certain species have adapted unique traits to survive in extreme environments.",
+			"After the earthquake, the community worked together to survive and rebuild.",
+			"In challenging times, resilience is crucial for individuals to survive adversity.",
+			"Entrepreneurs must navigate obstacles to ensure their businesses survive and thrive.",
+			"Learning essential survival skills can increase one's ability to survive in the wilderness.",
+		],
+	},
+	{
+		id: 789,
+		word: "title",
+		equal: "Título",
+		defination:
+			"Un nombre o designación que indica la posición o función de algo; también, un honorífico que indica un estatus o logro.",
+		phrases: [
+			"The book's title reflects the central theme explored by the author.",
+			"In sports, winning a championship earns a team the title of champion.",
+			"The movie received critical acclaim and won the prestigious title of Best Picture.",
+			"The title of CEO comes with significant responsibilities and decision-making power.",
+			"The document requires a clear and descriptive title to convey its purpose.",
+		],
+	},
+	{
+		id: 790,
+		word: "adult",
+		equal: "Adulto",
+		defination:
+			"Una persona que ha alcanzado la madurez física y, en muchos casos, la legal; también, algo que está completamente desarrollado.",
+		phrases: [
+			"Becoming an adult involves taking on responsibilities and making independent decisions.",
+			"The amusement park offers discounted tickets for children and full-priced tickets for adults.",
+			"In many cultures, turning 18 is considered the age of legal adulthood.",
+			"The butterfly emerged from its cocoon as a beautiful adult with vibrant wings.",
+			"Adult education programs cater to individuals seeking to enhance their skills later in life.",
+		],
+	},
+	{
+		id: 791,
+		word: "classic",
+		equal: "Clásico",
+		defination:
+			"Algo que ha resistido la prueba del tiempo y se considera de alta calidad y valor; también, un ejemplo representativo de su tipo.",
+		phrases: [
+			"Shakespeare's plays are considered classics of English literature.",
+			"The classic design of the car has retained its elegance over the decades.",
+			"A black dress is a classic choice for a formal evening event.",
+			"Classic novels continue to captivate readers with their timeless themes.",
+			"The film is celebrated as a classic in the history of cinema.",
+		],
+	},
+	{
+		id: 792,
+		word: "desert",
+		equal: "Desierto",
+		defination:
+			"Una región árida y deshabitada con escasa vegetación; también, abandonar a alguien o algo.",
+		phrases: [
+			"Camels are well-adapted to survive in the harsh conditions of the desert.",
+			"Explorers faced immense challenges while crossing the vast desert on foot.",
+			"The nomadic tribe thrived in the desert, relying on traditional survival skills.",
+			"To desert a friend in times of need goes against principles of loyalty.",
+			"Plants in the desert have evolved unique mechanisms to conserve water.",
+		],
+	},
+	{
+		id: 793,
+		word: "discover",
+		equal: "Descubrir",
+		defination:
+			"Encontrar algo previamente desconocido o invisible; también, llegar a conocer algo nuevo.",
+		phrases: [
+			"Scientists discovered a new species of marine life in the depths of the ocean.",
+			"Explorers set out to discover uncharted territories and document their findings.",
+			"The detective's keen observation skills helped him discover crucial evidence.",
+			"Teachers aim to inspire students to discover a passion for learning.",
+			"Innovators often discover breakthrough solutions through experimentation.",
+		],
+	},
+	{
+		id: 794,
+		word: "female",
+		equal: "Femenino",
+		defination:
+			"Relativo al sexo femenino o a las características asociadas con las mujeres; también, un organismo o ser vivo de género femenino.",
+		phrases: [
+			"Gender equality advocates work towards empowering both males and females.",
+			"The female bird displayed vibrant plumage to attract a mate.",
+			"Female athletes have excelled in various sports, breaking records and barriers.",
+			"In many species, the female plays a crucial role in nurturing and raising offspring.",
+			"The company is committed to promoting diversity, including the hiring of female leaders.",
+		],
+	},
+	{
+		id: 795,
+		word: "flow",
+		equal: "Fluir",
+		defination:
+			"El movimiento continuo y suave de un líquido, gas o sustancia; también, la secuencia natural de eventos o ideas.",
+		phrases: [
+			"Rivers demonstrate the constant flow of water from higher to lower elevations.",
+			"A well-designed garden allows for the natural flow of foot traffic.",
+			"Creative writing benefits from a seamless flow of ideas and expressions.",
+			"Meditation teaches individuals to observe the flow of thoughts without attachment.",
+			"The artist captured the dynamic flow of dancers in a series of paintings.",
+		],
+	},
+	{
+		id: 796,
+		word: "mystery",
+		equal: "Misterio",
+		defination:
+			"Algo que es difícil de entender o explicar; también, un género literario o cinematográfico que involucra la resolución de un enigma.",
+		phrases: [
+			"The ancient manuscript holds the key to a centuries-old mystery.",
+			"Detectives were determined to solve the mystery of the missing artifacts.",
+			"The night sky is filled with the allure of stars, holding an eternal mystery.",
+			"Many great works of literature are centered around a compelling mystery.",
+			"Curiosity drives individuals to explore the mysteries of the universe.",
+		],
+	},
+	{
+		id: 797,
+		word: "opinion",
+		equal: "Opinión",
+		defination:
+			"Una creencia personal o juicio sobre algo; también, la evaluación de expertos sobre un tema.",
+		phrases: [
+			"In a democracy, citizens have the right to express their political opinions.",
+			"Public opinion can influence decisions made by policymakers.",
+			"Experts were invited to share their opinion on the economic outlook.",
+			"Respecting diverse opinions is crucial for fostering open and inclusive discussions.",
+			"Constructive criticism encourages individuals to reconsider their opinions.",
+		],
+	},
+	{
+		id: 798,
+		word: "pleasure",
+		equal: "Placer",
+		defination:
+			"Una sensación de felicidad, satisfacción o disfrute; también, algo que brinda gozo o satisfacción.",
+		phrases: [
+			"Taking a leisurely walk in nature brings a sense of pleasure and tranquility.",
+			"The chef crafted a menu designed to delight diners and evoke pleasure.",
+			"Reading a good book can provide hours of intellectual pleasure.",
+			"Cultural experiences often bring a deep sense of pleasure and connection.",
+			"Creating art can be a source of pleasure and self-expression for many individuals.",
+		],
+	},
+	{
+		id: 799,
+		word: "publish",
+		equal: "Publicar",
+		defination:
+			"Hacer que algo esté disponible para el público, especialmente a través de medios impresos o digitales; también, divulgar información oficialmente.",
+		phrases: [
+			"Authors work with publishers to publish their novels and reach a wider audience.",
+			"The newspaper decided to publish the breaking news online for immediate access.",
+			"Scientific journals play a crucial role in publishing research findings.",
+			"Poets often face the challenge of finding a publisher willing to publish their work.",
+			"Government agencies publish reports to inform the public about policies and initiatives.",
+		],
+	},
+	{
+		id: 800,
+		word: "cough",
+		equal: "Tos",
+		defination:
+			"Una expulsión súbita y ruidosa de aire desde los pulmones, a menudo debido a irritación o enfermedad; también, el sonido producido por esta acción.",
+		phrases: [
+			"A persistent cough may be a symptom of an underlying respiratory condition.",
+			"During the cold season, many people experience a cough as a common symptom.",
+			"The doctor advised the patient to cover their mouth when coughing to prevent the spread of germs.",
+			"Certain medications can help alleviate a persistent and bothersome cough.",
+			"The sound of a child's cough in the quiet night prompted parental concern.",
+		],
+	},
+	{
+		id: 801,
+		word: "crowd",
+		equal: "Multitud",
+		defination:
+			"Un grupo grande de personas reunidas en un lugar; también, la acción de empujar o presionar juntos en un espacio limitado.",
+		phrases: [
+			"The stadium was filled with a cheering crowd eager to watch the game.",
+			"In crowded urban areas, people learn to navigate the busy streets with efficiency.",
+			"The rock concert drew a massive crowd of enthusiastic fans.",
+			"During major events, organizers implement crowd control measures to ensure safety.",
+			"The lively market bustled with a diverse crowd of shoppers and vendors.",
+		],
+	},
+	{
+		id: 802,
+		word: "curious",
+		equal: "Curioso",
+		defination:
+			"Mostrar interés o deseo de conocer algo; también, extraño o inusual de una manera que provoca preguntas.",
+		phrases: [
+			"Children are naturally curious and eager to explore the world around them.",
+			"The curious explorer ventured into uncharted territories to satisfy his curiosity.",
+			"The mysterious artifact piqued the curious minds of archaeologists.",
+			"A curious phenomenon in nature captured the attention of scientists.",
+			"The cat sat in a curious pose, observing the unfamiliar visitor with interest.",
+		],
+	},
+	{
+		id: 803,
+		word: "disappear",
+		equal: "Desaparecer",
+		defination:
+			"Dejar de ser visible o estar presente; también, volverse inexistente o difícil de encontrar.",
+		phrases: [
+			"The magician performed a trick causing the object to disappear before the audience's eyes.",
+			"As the sun set, the city lights began to disappear against the darkening sky.",
+			"In challenging times, one's problems may seem overwhelming, but they will disappear with time.",
+			"Certain species have adapted the ability to disappear into their surroundings for protection.",
+			"The mist slowly lifted, causing the distant mountains to appear and disappear in a mystical dance.",
+		],
+	},
+	{
+		id: 804,
+		word: "edge",
+		equal: "Borde",
+		defination:
+			"La parte externa o límite de algo; también, una ventaja competitiva o posición superior.",
+		phrases: [
+			"She carefully walked along the edge of the cliff, enjoying the breathtaking view.",
+			"The city park is located on the edge of the bustling downtown area.",
+			"In competitive sports, athletes seek to gain an edge over their opponents.",
+			"The knife's sharp edge made it effective for precision cutting.",
+			"The team's innovative approach gave them the edge in the rapidly changing market.",
+		],
+	},
+	{
+		id: 805,
+		word: "guide",
+		equal: "Guía",
+		defination:
+			"Una persona o cosa que ayuda a dirigir o orientar; también, un documento que proporciona información o instrucciones.",
+		phrases: [
+			"Tour guides share interesting facts and stories about historical landmarks.",
+			"A compass can serve as a reliable guide when navigating unfamiliar terrain.",
+			"The teacher acts as a guide, leading students through the learning process.",
+			"Travel guides offer valuable insights for planning memorable vacations.",
+			"The step-by-step guide provided clear instructions for assembling the furniture.",
+		],
+	},
+	{
+		id: 806,
+		word: "local",
+		equal: "Local",
+		defination:
+			"Relativo a un lugar específico o limitado en alcance; también, una persona originaria de un área particular.",
+		phrases: [
+			"Supporting local businesses contributes to the economic growth of the community.",
+			"The local cuisine reflects the unique flavors and ingredients of the region.",
+			"Residents gathered at the local park to celebrate a community event.",
+			"A local artist gained recognition for capturing the essence of the town in their paintings.",
+			"Local traditions add richness and diversity to the cultural fabric of a region.",
+		],
+	},
+	{
+		id: 807,
+		word: "machine",
+		equal: "Máquina",
+		defination:
+			"Un dispositivo mecánico con partes móviles diseñado para realizar tareas específicas; también, un sistema complejo o una organización eficiente.",
+		phrases: [
+			"Factories use machines to automate the production of goods and increase efficiency.",
+			"The invention of the printing machine revolutionized the dissemination of information.",
+			"A well-maintained sewing machine can create intricate patterns with precision.",
+			"Modern agriculture relies on machines for planting, harvesting, and processing crops.",
+			"The human body is often described as a complex machine with intricate systems.",
+		],
+	},
+	{
+		id: 808,
+		word: "native",
+		equal: "Nativo",
+		defination:
+			"Relativo a la región o lugar de origen; también, una persona que nace en un lugar específico.",
+		phrases: [
+			"The native flora and fauna of the island are unique and diverse.",
+			"Learning about native traditions helps preserve cultural heritage.",
+			"The indigenous people have a deep connection to their native land.",
+			"Native languages often carry the history and stories of a community.",
+			"The artist drew inspiration from the colors and textures of her native environment.",
+		],
+	},
+	{
+		id: 809,
+		word: "smoke",
+		equal: "Humo",
+		defination:
+			"El gas y las partículas producidas por la combustión o el tabaco; también, la acción de inhalar o exhalar humo.",
+		phrases: [
+			"The chimney released a steady stream of smoke into the crisp winter air.",
+			"Forest fires filled the sky with thick smoke, impacting air quality.",
+			"Smoking is linked to various health risks, including respiratory diseases.",
+			"The chef used wood chips to infuse a subtle smoky flavor into the dish.",
+			"Inhaling secondhand smoke can be harmful to nonsmokers' health.",
+		],
+	},
+	{
+		id: 810,
+		word: "avenue",
+		equal: "Avenida",
+		defination:
+			"Una calle ancha o vía de acceso; también, un medio o enfoque para lograr un objetivo.",
+		phrases: [
+			"The grand avenue was lined with towering trees, creating a picturesque scene.",
+			"Urban planners designed the avenue to accommodate both pedestrians and vehicles.",
+			"Exploring different avenues of creativity can lead to unexpected breakthroughs.",
+			"The business pursued a new avenue of expansion to reach a broader market.",
+			"The diplomatic avenue was explored to peacefully resolve international conflicts.",
+		],
+	},
+	{
+		id: 811,
+		word: "expect",
+		equal: "Esperar",
+		defination:
+			"Anticipar que algo sucederá o será de cierta manera; también, considerar algo probable o necesario.",
+		phrases: [
+			"Before the performance, the audience could expect a night of captivating entertainment.",
+			"Parents often expect their children to follow certain values and principles.",
+			"Setting realistic goals helps manage expectations and avoid disappointment.",
+			"Employees can expect fair treatment and a supportive work environment.",
+			"In negotiations, it's essential to clarify expectations to ensure mutual understanding.",
+		],
+	},
+	{
+		id: 812,
+		word: "explain",
+		equal: "Explicar",
+		defination:
+			"Hacer comprensible o claro mediante palabras, ejemplos o demostraciones; también, dar razones o justificaciones.",
+		phrases: [
+			"The teacher took time to explain complex concepts to the students.",
+			"Scientists work tirelessly to explain the mysteries of the universe.",
+			"Clear communication is crucial to explain expectations in a team setting.",
+			"The expert was invited to explain the findings of the groundbreaking research.",
+			"Parents often find themselves needing to explain complex topics to curious children.",
+		],
+	},
+	{
+		id: 813,
+		word: "rub",
+		equal: "Frotar",
+		defination:
+			"Mover la mano o un objeto contra una superficie con fricción; también, aplicar presión en un área del cuerpo para aliviar molestias.",
+		phrases: [
+			"She used a soft cloth to gently rub away the dust from the antique furniture.",
+			"Applying a soothing balm, the masseuse began to rub the tension from the client's shoulders.",
+			"In cold weather, people often rub their hands together to generate warmth.",
+			"The athlete took a moment to rub the sore muscles after an intense workout.",
+			"To bring out the shine, carefully rub the surface with a polishing cloth.",
+		],
+	},
+	{
+		id: 814,
+		word: "shine",
+		equal: "Brillar",
+		defination:
+			"Emitir luz de manera intensa; también, destacar por su excelencia o desempeño destacado.",
+		phrases: [
+			"The sun began to rise, causing the ocean to shine with a golden glow.",
+			"Polishing the silverware made it gleam and shine for the special occasion.",
+			"Her talent as a singer made her shine among the contestants in the competition.",
+			"The city lights started to shine as darkness fell over the skyline.",
+			"Achieving a personal goal can make someone's confidence and inner light shine.",
+		],
+	},
+	{
+		id: 815,
+		word: "strength",
+		equal: "Fuerza",
+		defination:
+			"La capacidad física o mental para realizar tareas o resistir desafíos; también, la calidad de ser fuerte o poderoso.",
+		phrases: [
+			"Weightlifting exercises help build muscle strength and endurance.",
+			"During difficult times, individuals often discover their inner strength.",
+			"The unity of a community can be a source of great strength in overcoming challenges.",
+			"Mental strength is essential for navigating the complexities of life.",
+			"Teamwork is a key factor in leveraging the collective strengths of a group.",
+		],
+	},
+	{
+		id: 816,
+		word: "suggest",
+		equal: "Sugerir",
+		defination:
+			"Presentar una idea o posibilidad para consideración; también, indicar indirectamente.",
+		phrases: [
+			"The architect will suggest design options based on the client's preferences.",
+			"His thoughtful gesture seemed to suggest a genuine desire to help.",
+			"The data collected from surveys may suggest areas for improvement.",
+			"The choice of colors in the painting can suggest different emotions to viewers.",
+			"During the meeting, participants are encouraged to suggest innovative solutions.",
+		],
+	},
+	{
+		id: 817,
+		word: "tour",
+		equal: "Gira",
+		defination:
+			"Un viaje organizado que incluye visitas a varios lugares; también, realizar una serie de presentaciones o actuaciones en diferentes lugares.",
+		phrases: [
+			"The band embarked on a world tour, performing in cities across continents.",
+			"A guided tour of historical landmarks provided insight into the city's rich history.",
+			"The author went on a book tour to promote the release of the new novel.",
+			"During the summer, many families go on a road tour to explore national parks.",
+			"The museum offers a virtual tour for those unable to visit in person.",
+		],
+	},
+	{
+		id: 818,
+		word: "western",
+		equal: "Occidental",
+		defination:
+			"Relativo a la región occidental o características asociadas con la cultura occidental; también, un género de películas, libros o arte ambientado en el Viejo Oeste.",
+		phrases: [
+			"Western countries often have different cultural norms compared to those in the East.",
+			"The cowboy hat is a symbol associated with the western style of dress.",
+			"Many classic western films depict the challenges and adventures of pioneers.",
+			"Globalization has led to the spread of western influences in various parts of the world.",
+			"The art exhibition showcased a diverse range of western and indigenous artistic styles.",
+		],
+	},
+	{
+		id: 819,
+		word: "wheel",
+		equal: "Rueda",
+		defination:
+			"Un disco circular que gira alrededor de un eje central; también, un objeto similar utilizado para facilitar el movimiento.",
+		phrases: [
+			"The bicycle's wheel rotated smoothly as the rider pedaled along the path.",
+			"Steam engines revolutionized transportation by powering trains with rotating wheels.",
+			"A steering wheel allows the driver to control the direction of the vehicle.",
+			"The invention of the wheel was a significant milestone in human history.",
+			"Casters on furniture provide the ability to move heavy items with ease.",
+		],
+	},
+	{
+		id: 820,
+		word: "cloth",
+		equal: "Tela",
+		defination:
+			"Material textil flexible; también, una pieza de tela utilizada para un propósito específico.",
+		phrases: [
+			"Silk is known for its luxurious feel and sheen as a fabric.",
+			"The tailor carefully measured and cut the cloth to create a custom suit.",
+			"A tablecloth adds an elegant touch to the dining experience.",
+			"Cultural traditions often involve the use of specific types of cloth for clothing.",
+			"Microfiber cloth is effective for cleaning surfaces without leaving lint.",
+		],
+	},
+	{
+		id: 821,
+		word: "equal",
+		equal: "Igual",
+		defination:
+			"La misma en cantidad, tamaño, valor o calidad; también, tratando a todos de manera justa y sin discriminación.",
+		phrases: [
+			"Each participant received an equal share of the prize money.",
+			"In a fair society, everyone is treated with equal dignity and respect.",
+			"The equation aims to balance both sides, making them equal.",
+			"Equal opportunities in education are essential for societal progress.",
+			"The team worked together to achieve a common goal, recognizing the importance of equal contribution.",
+		],
+	},
+	{
+		id: 822,
+		word: "fail",
+		equal: "Fallar",
+		defination:
+			"No tener éxito en una tarea o esfuerzo; también, no cumplir con las expectativas o estándares.",
+		phrases: [
+			"Despite their best efforts, the team experienced a temporary fail in communication.",
+			"Fear of failure should not deter individuals from pursuing their goals.",
+			"The experiment could fail if the variables are not carefully controlled.",
+			"Failure can be a valuable learning experience, leading to improvement and growth.",
+			"The company implemented new strategies to address areas where they previously faced failings.",
+		],
+	},
+	{
+		id: 823,
+		word: "false",
+		equal: "Falso",
+		defination:
+			"Incorrecto o inexacto; también, engañoso o que no es auténtico.",
+		phrases: [
+			"Fact-checking is essential to identify false information in news articles.",
+			"The witness provided false testimony, leading to a miscarriage of justice.",
+			"False alarms can create unnecessary panic and disrupt normal activities.",
+			"A false sense of security can be more dangerous than acknowledging potential risks.",
+			"The counterfeit painting was identified as false when examined by experts.",
+		],
+	},
+	{
+		id: 824,
+		word: "goods",
+		equal: "Bienes",
+		defination:
+			"Productos materiales que se pueden comprar o vender; también, posesiones o propiedades.",
+		phrases: [
+			"Trade agreements facilitate the movement of goods between countries.",
+			"The store specializes in selling electronic goods and gadgets.",
+			"Donating unused goods to charity helps those in need.",
+			"The insurance policy covers the loss or damage of goods during transportation.",
+			"The transportation of perishable goods requires specialized storage and handling.",
+		],
+	},
+	{
+		id: 825,
+		word: "increase",
+		equal: "Aumentar",
+		defination:
+			"Hacer o volverse más grande en cantidad, tamaño o intensidad; también, el acto de crecer o mejorar.",
+		phrases: [
+			"Regular exercise can help increase overall physical fitness and well-being.",
+			"Efforts to increase efficiency led to significant improvements in productivity.",
+			"The company implemented a marketing strategy to increase brand awareness.",
+			"Investing in education is a key factor in promoting the increase of knowledge.",
+			"Environmental conservation is essential to prevent the increase of pollution.",
+		],
+	},
+	{
+		id: 826,
+		word: "penny",
+		equal: "Centavo",
+		defination:
+			"Una moneda de bajo valor, especialmente la centésima parte de una unidad monetaria.",
+		phrases: [
+			"He saved every penny he earned in a piggy bank to buy a special toy.",
+			"The cost of living has increased, and every penny counts for budget-conscious individuals.",
+			"Finding a lucky penny on the ground is considered a symbol of good fortune.",
+			"The child eagerly counted each penny to see if there was enough for an ice cream cone.",
+			"In challenging times, people learn to budget and make every penny count.",
+		],
+	},
+	{
+		id: 827,
+		word: "separate",
+		equal: "Separar",
+		defination:
+			"Mantener o poner cosas o personas aparte; también, distinguir o diferenciar.",
+		phrases: [
+			"The teacher asked the students to separate into small groups for a collaborative project.",
+			"A room divider was used to separate the living and dining areas in the open-concept space.",
+			"It's important to separate recyclables from non-recyclables to promote eco-friendly practices.",
+			"The ability to separate emotions from logical decision-making is crucial in leadership.",
+			"In legal matters, it's essential to separate fact from speculation for a fair judgment.",
+		],
+	},
+	{
+		id: 828,
+		word: "total",
+		equal: "Total",
+		defination:
+			"La cantidad completa o la suma de partes individuales; también, completo o absoluto.",
+		phrases: [
+			"The cashier quickly calculated the total amount of the purchase at the checkout.",
+			"Adding up all the expenses will give you the total cost of the project.",
+			"The athlete focused on achieving a total transformation in physical fitness.",
+			"The total number of participants in the event exceeded expectations.",
+			"After counting the votes, they announced the total votes cast in the election.",
+		],
+	},
+	{
+		id: 829,
+		word: "wrap",
+		equal: "Envolver",
+		defination:
+			"Cubrir o rodear algo con papel u otro material; también, concluir o completar.",
+		phrases: [
+			"The gift was carefully wrapped in colorful paper and adorned with a bow.",
+			"To keep the sandwich fresh, it's essential to wrap it tightly in plastic wrap.",
+			"The film crew worked quickly to wrap scenes before the onset of bad weather.",
+			"The artist planned to wrap up the project by adding final touches to the masterpiece.",
+			"A warm scarf is perfect to wrap around yourself on a chilly winter day.",
+		],
+	},
+	{
+		id: 830,
+		word: "appreciate",
+		equal: "Apreciar",
+		defination:
+			"Reconocer el valor o la importancia de algo o alguien; también, expresar gratitud o admiración.",
+		phrases: [
+			"It's essential to take a moment and appreciate the beauty of nature.",
+			"Employees often appreciate acknowledgment for their hard work and dedication.",
+			"People tend to appreciate genuine gestures of kindness and generosity.",
+			"In times of difficulty, it's crucial to appreciate the support of friends and family.",
+			"Art enthusiasts can deeply appreciate the skill and creativity behind a masterpiece.",
+		],
+	},
+	{
+		id: 831,
+		word: "avoid",
+		equal: "Evitar",
+		defination:
+			"Mantenerse alejado de algo o alguien; también, tomar medidas para prevenir o eludir una situación.",
+		phrases: [
+			"To maintain good health, it's important to avoid unhealthy eating habits.",
+			"Drivers should be vigilant to avoid accidents on the road.",
+			"It's wise to avoid procrastination and address tasks promptly.",
+			"To avoid conflicts, effective communication and understanding are essential.",
+			"People often set boundaries to avoid unnecessary stress and negativity.",
+		],
+	},
+	{
+		id: 832,
+		word: "convenient",
+		equal: "Conveniente",
+		defination:
+			"Fácil de usar, accesible o adecuado para una situación particular; también, que ahorra tiempo o es cómodo.",
+		phrases: [
+			"Having a grocery store nearby is convenient for quick and easy shopping.",
+			"Online banking offers a convenient way to manage finances from the comfort of home.",
+			"The location of the hotel was convenient for both business and leisure travelers.",
+			"Using a smartphone for navigation is convenient when exploring a new city.",
+			"A well-designed kitchen layout can make cooking and meal preparation more convenient.",
+		],
+	},
+	{
+		id: 833,
+		word: "customer",
+		equal: "Cliente",
+		defination:
+			"Una persona que compra bienes o servicios de un negocio o comerciante; también, alguien a quien se presta atención o servicio.",
+		phrases: [
+			"Businesses strive to provide excellent service to satisfy their customers' needs.",
+			"The customer carefully examined the product before making a purchase decision.",
+			"Customer feedback is valuable for businesses seeking to improve their products.",
+			"The restaurant staff is trained to ensure a positive experience for every customer.",
+			"In the era of online shopping, customer reviews play a significant role in decision-making.",
+		],
+	},
+	{
+		id: 834,
+		word: "destroy",
+		equal: "Destruir",
+		defination:
+			"Causar daño significativo o llevar a la aniquilación completa de algo; también, poner fin a la existencia de algo.",
+		phrases: [
+			"Natural disasters such as hurricanes can destroy entire communities.",
+			"The old building had to be demolished to make way for new construction.",
+			"War and conflict have the potential to destroy historical landmarks and cultural heritage.",
+			"It's crucial to take action to prevent pollution that can destroy ecosystems.",
+			"Careless handling of sensitive information can lead to attempts to destroy reputations.",
+		],
+	},
+	{
+		id: 835,
+		word: "disappointed",
+		equal: "Decepcionado",
+		defination:
+			"Sentir tristeza o insatisfacción debido a expectativas no cumplidas; también, fallar en cumplir las expectativas de alguien.",
+		phrases: [
+			"She was disappointed when her favorite team lost the championship game.",
+			"The author was disappointed with the initial reviews of the new book.",
+			"It's essential to communicate openly if someone feels disappointed in a relationship.",
+			"Disappointed fans hoped for a better outcome in the next season.",
+			"The student worked hard to avoid disappointing the teacher with the final project.",
+		],
+	},
+	{
+		id: 836,
+		word: "medium",
+		equal: "Medio",
+		defination:
+			"Un medio de comunicación, como la radio, la televisión, los periódicos, etc.; también, de tamaño intermedio o cantidad.",
+		phrases: [
+			"The internet has become a powerful medium for sharing information globally.",
+			"Artists often choose a specific medium, such as oil paint or charcoal, for their creations.",
+			"The newspaper is a traditional medium for delivering news to the community.",
+			"In cooking, olive oil is a versatile and commonly used medium.",
+			"The author used the novel as a medium to explore complex social issues.",
+		],
+	},
+	{
+		id: 837,
+		word: "pattern",
+		equal: "Patrón",
+		defination:
+			"Una forma o diseño repetitivo; también, una tendencia o modelo de comportamiento.",
+		phrases: [
+			"The rug had a beautiful floral pattern that added elegance to the room.",
+			"Scientists observed a consistent pattern in the migration of certain bird species.",
+			"Understanding weather patterns is essential for predicting changes in climate.",
+			"The detective analyzed the crime scene to identify any discernible patterns.",
+			"Recognizing patterns in data can lead to valuable insights in various fields.",
+		],
+	},
+	{
+		id: 838,
+		word: "trick",
+		equal: "Truco",
+		defination:
+			"Una acción astuta o ingeniosa destinada a engañar o confundir; también, una habilidad especial o técnica.",
+		phrases: [
+			"Magicians often use sleight of hand as part of their trick to amaze the audience.",
+			"Being aware of common scams can help individuals avoid falling for a trick.",
+			"The detective analyzed the crime scene to uncover the perpetrator's trick.",
+			"A well-executed trick play in sports can catch the opposing team off guard.",
+			"Problem-solving often involves finding clever tricks to overcome challenges.",
+		],
+	},
+	{
+		id: 839,
+		word: "value",
+		equal: "Valor",
+		defination:
+			"La importancia o utilidad de algo; también, el precio estimado de un objeto o servicio.",
+		phrases: [
+			"Integrity and honesty are values that contribute to a person's moral character.",
+			"Appreciating the value of time encourages productivity and efficiency.",
+			"The antique vase has both sentimental and monetary value to the family.",
+			"When making decisions, it's essential to consider the long-term value of choices.",
+			"Companies strive to provide products that deliver high value to customers.",
+		],
+	},
+	{
+		id: 840,
+		word: "beat",
+		equal: "Vencer",
+		defination:
+			"Ganar en una competición o superar a alguien; también, el ritmo regular de una música.",
+		phrases: [
+			"The underdog team managed to beat the reigning champions in a surprising victory.",
+			"To beat a video game, players must overcome challenges and obstacles.",
+			"The drummer set the beat for the band, establishing the rhythm of the song.",
+			"Athletes often use mental strategies to stay focused and beat performance records.",
+			"In chess, strategic thinking is crucial to beat opponents and achieve checkmate.",
+		],
+	},
+	{
+		id: 841,
+		word: "conduct",
+		equal: "Conducir",
+		defination:
+			"Guiar o dirigir; también, comportamiento o acción, especialmente en términos de ética o normas.",
+		phrases: [
+			"The tour guide will conduct the group through the historical landmarks of the city.",
+			"Scientists conduct experiments to gather data and test hypotheses.",
+			"Business leaders are expected to conduct themselves with integrity and professionalism.",
+			"Teachers play a crucial role in guiding and conducting classroom activities.",
+			"The orchestra conductor skillfully conducted the musicians during the performance.",
+		],
+	},
+	{
+		id: 842,
+		word: "confident",
+		equal: "Confidente",
+		defination:
+			"Sentir seguridad en uno mismo; también, expresar certeza o convicción.",
+		phrases: [
+			"A confident speaker captivates the audience with a strong and assured presence.",
+			"Building skills and knowledge can contribute to feeling more confident in one's abilities.",
+			"Confident individuals are more likely to take on challenges and pursue their goals.",
+			"In negotiations, a confident demeanor can positively influence the outcome.",
+			"The student felt confident about the exam after thorough preparation.",
+		],
+	},
+	{
+		id: 843,
+		word: "lead",
+		equal: "Dirigir",
+		defination:
+			"Guiar o estar al frente; también, tener una posición de autoridad o influencia.",
+		phrases: [
+			"The captain will lead the team onto the field for the championship game.",
+			"Effective leaders inspire and motivate others to follow their lead.",
+			"In a dance performance, the lead dancer takes center stage with grace and precision.",
+			"Scientists strive to lead the way in groundbreaking discoveries and innovations.",
+			"A good manager knows how to lead a team to achieve common goals.",
+		],
+	},
+	{
+		id: 844,
+		word: "lift",
+		equal: "Levantar",
+		defination:
+			"Elevar o levantar hacia arriba; también, una plataforma mecánica que transporta personas o carga.",
+		phrases: [
+			"Weightlifters train to build strength and lift increasingly heavier weights.",
+			"A forklift is a useful machine for efficiently lifting and moving heavy objects.",
+			"The crane was used to lift construction materials to the upper floors of the building.",
+			"In a moment of teamwork, friends joined forces to lift a fallen tree off the road.",
+			"A well-designed bra provides support and lift for comfort and aesthetics.",
+		],
+	},
+	{
+		id: 845,
+		word: "male",
+		equal: "Masculino",
+		defination:
+			"Relativo al sexo masculino; también, un organismo o ser humano de género masculino.",
+		phrases: [
+			"In many species, the male is responsible for mating and reproducing.",
+			"Male and female characteristics may vary within different animal species.",
+			"The male lion is known for its majestic mane and distinctive roar.",
+			"Some cultures have traditional roles and expectations associated with being male.",
+			"In human development, the male reproductive system plays a key role in fertility.",
+		],
+	},
+	{
+		id: 846,
+		word: "muscle",
+		equal: "Músculo",
+		defination:
+			"Tejido del cuerpo que puede contraerse y producir movimiento; también, tener fuerza física.",
+		phrases: [
+			"Regular exercise helps strengthen and tone the muscles, promoting overall health.",
+			"Athletes focus on specific muscle groups to enhance performance in their sport.",
+			"Injury rehabilitation often involves exercises to rebuild and strengthen weakened muscles.",
+			"Bodybuilders engage in strength training to develop well-defined and sculpted muscles.",
+			"The heart is a powerful muscle that pumps blood throughout the circulatory system.",
+		],
+	},
+	{
+		id: 847,
+		word: "speed",
+		equal: "Velocidad",
+		defination:
+			"La rapidez con la que algo se mueve o realiza una acción; también, exceso de velocidad.",
+		phrases: [
+			"The cheetah is known for its incredible speed, making it the fastest land animal.",
+			"Drivers should adhere to posted speed limits to ensure road safety.",
+			"The development of high-speed trains has revolutionized long-distance transportation.",
+			"In sports, sprinters train to maximize their speed for short bursts of activity.",
+			"Advancements in technology have led to an increase in the speed of data transfer.",
+		],
+	},
+	{
+		id: 848,
+		word: "stretch",
+		equal: "Estirar",
+		defination:
+			"Alargar o extender; también, un período continuo de tiempo o una distancia considerable.",
+		phrases: [
+			"Before exercising, it's essential to stretch to prevent muscle strain and injury.",
+			"The cat woke up from its nap and proceeded to stretch its limbs.",
+			"A long stretch of highway led us through picturesque landscapes.",
+			"During yoga practice, participants engage in various stretches to improve flexibility.",
+			"In challenging times, individuals may need to stretch their resources to meet demands.",
+		],
+	},
+	{
+		id: 849,
+		word: "trouble",
+		equal: "Problema",
+		defination:
+			"Dificultad o situación problemática; también, causar molestia o inquietud.",
+		phrases: [
+			"The car broke down, causing trouble on the road trip.",
+			"Avoiding procrastination can help prevent trouble with meeting deadlines.",
+			"It's essential to communicate openly to resolve any trouble in relationships.",
+			"Financial planning can minimize potential trouble in managing expenses.",
+			"Taking on more than one can handle may lead to trouble and burnout.",
+		],
+	},
+	{
+		id: 850,
+		word: "captain",
+		equal: "Capitán",
+		defination:
+			"Líder o comandante de un barco, equipo deportivo, etc.; también, un rango militar.",
+		phrases: [
+			"The captain skillfully navigated the ship through challenging waters.",
+			"In team sports, the captain often serves as a leader and motivator.",
+			"The airline captain communicated with passengers about the flight's progress.",
+			"Being appointed captain comes with responsibilities and decision-making authority.",
+			"In the military, a captain may lead a company of soldiers or a similar unit.",
+		],
+	},
+	{
+		id: 851,
+		word: "challenge",
+		equal: "Desafío",
+		defination:
+			"Una tarea difícil que requiere esfuerzo y habilidad para superar; también, cuestionar o poner a prueba.",
+		phrases: [
+			"Climbing a mountain can be a challenging yet rewarding adventure.",
+			"Overcoming adversity often involves facing and conquering personal challenges.",
+			"The chess grandmaster enjoys a challenge from formidable opponents.",
+			"Innovation arises when individuals embrace the challenge of solving complex problems.",
+			"A positive mindset can turn challenges into opportunities for growth.",
+		],
+	},
+	{
+		id: 852,
+		word: "complete",
+		equal: "Completar",
+		defination:
+			"Terminar o llevar a cabo hasta el final; también, tener todas las partes o elementos.",
+		phrases: [
+			"The student worked diligently to complete the assignment before the deadline.",
+			"A puzzle enthusiast strives to complete intricate puzzles for enjoyment.",
+			"The construction team aims to complete the building project ahead of schedule.",
+			"To achieve success, it's crucial to stay focused and complete tasks with dedication.",
+			"The orchestra will perform the entire symphony to complete the musical experience.",
+		],
+	},
+	{
+		id: 853,
+		word: "encourage",
+		equal: "Animar",
+		defination:
+			"Inspirar confianza o dar apoyo; también, estimular o motivar.",
+		phrases: [
+			"Parents often encourage their children to pursue their passions and dreams.",
+			"Positive feedback and recognition can encourage employees to excel in their work.",
+			"Teachers play a vital role in encouraging students to believe in their abilities.",
+			"Supportive friends can encourage individuals during challenging times.",
+			"Leadership involves the ability to encourage and empower team members.",
+		],
+	},
+	{
+		id: 854,
+		word: "noon",
+		equal: "Mediodía",
+		defination:
+			"El punto del día en que el sol está en su punto más alto en el cielo; también, el tiempo aproximado de las 12:00 p.m.",
+		phrases: [
+			"The sun reaches its zenith at noon, casting minimal shadows.",
+			"Lunchtime is typically around noon for many working professionals.",
+			"In some cultures, midday prayers are observed at noon.",
+			"The outdoor event is scheduled to start precisely at noon.",
+			"The temperature peaks around noon during hot summer days.",
+		],
+	},
+	{
+		id: 855,
+		word: "position",
+		equal: "Posición",
+		defination:
+			"La ubicación de algo o alguien en relación con otros; también, una actitud o punto de vista.",
+		phrases: [
+			"The chess player carefully considered the position of each piece before making a move.",
+			"In sports, the right body position is crucial for optimal performance.",
+			"The company's market position is a key factor in its competitive strategy.",
+			"Political leaders often articulate their position on key issues to gain support.",
+			"A well-chosen position in a negotiation can lead to favorable outcomes.",
+		],
+	},
+	{
+		id: 856,
+		word: "race",
+		equal: "Carrera",
+		defination:
+			"Una competición de velocidad; también, la categorización de personas basada en características físicas.",
+		phrases: [
+			"Runners from around the world participated in the marathon race.",
+			"The horse race drew a large crowd eager to witness the thrilling competition.",
+			"In the automotive world, the race for innovation drives technological advancements.",
+			"It's essential to avoid making assumptions based on a person's race or ethnicity.",
+			"The swimmer trained rigorously to compete at the highest level in the upcoming race.",
+		],
+	},
+	{
+		id: 857,
+		word: "record",
+		equal: "Registro",
+		defination:
+			"Una documentación escrita o grabación de información; también, establecer el mejor rendimiento en una actividad.",
+		phrases: [
+			"The historian carefully examined the ancient record of events to uncover the past.",
+			"Artists use record albums to share their music with a wider audience.",
+			"Breaking a world record requires exceptional skill and dedication.",
+			"It's crucial to keep an accurate record of financial transactions for business success.",
+			"The athlete aimed to set a new record in the upcoming competition.",
+		],
+	},
+	{
+		id: 858,
+		word: "skill",
+		equal: "Habilidad",
+		defination:
+			"La capacidad de realizar una tarea con destreza y maestría; también, una destreza adquirida a través de la práctica.",
+		phrases: [
+			"Mastering a musical instrument requires time, dedication, and skill.",
+			"Culinary artists showcase their skill in creating exquisite dishes.",
+			"Problem-solving is a valuable skill in navigating challenges in various fields.",
+			"Athletes hone their skill through rigorous training and continuous improvement.",
+			"Effective communication is a skill that enhances personal and professional relationships.",
+		],
+	},
+	{
+		id: 859,
+		word: "wing",
+		equal: "Ala",
+		defination:
+			"Una extremidad estructural que permite el vuelo en aves y otros animales; también, una sección lateral de un edificio.",
+		phrases: [
+			"Birds use their wings to soar through the sky in search of food.",
+			"The airplane's wings generate lift, allowing it to stay airborne during flight.",
+			"Architects designed the building with a modern wing that houses additional offices.",
+			"In dance, the choreography often includes movements that mimic the fluttering of wings.",
+			"The butterfly gracefully unfolded its vibrant wings, captivating onlookers.",
+		],
+	},
+	{
+		id: 860,
+		word: "certain",
+		equal: "Cierta",
+		defination: "Definido o conocido; también, seguro o indudable.",
+		phrases: [
+			"She had a certain glow about her when she spoke about her passion for art.",
+			"In uncertain times, having a certain routine can provide a sense of stability.",
+			"There was a certain charm in the way he told stories about his travels.",
+			"The scientist conducted experiments to determine with a certain degree of accuracy.",
+			"Certain events in history have shaped the course of civilizations.",
+		],
+	},
+	{
+		id: 861,
+		word: "discuss",
+		equal: "Discutir",
+		defination:
+			"Hablar sobre un tema con otras personas; también, considerar en detalle o intercambiar opiniones.",
+		phrases: [
+			"The team gathered to discuss the upcoming project and share ideas.",
+			"In academic settings, students are encouraged to discuss diverse perspectives.",
+			"The book club meets regularly to discuss literature and share insights.",
+			"It's important for partners in a relationship to openly discuss their feelings.",
+			"The committee will convene to discuss potential changes to the policy.",
+		],
+	},
+	{
+		id: 862,
+		word: "edit",
+		equal: "Editar",
+		defination:
+			"Revisar y corregir un texto para mejorar su calidad; también, realizar cambios en contenido multimedia.",
+		phrases: [
+			"Writers often collaborate with editors to refine and edit their manuscripts.",
+			"The film director worked closely with the editor to ensure a seamless final cut.",
+			"Editors play a crucial role in ensuring accuracy and coherence in journalism.",
+			"Before submitting the report, it's advisable to carefully edit for grammar and clarity.",
+			"Photographers use editing software to enhance and refine their captured images.",
+		],
+	},
+	{
+		id: 863,
+		word: "gather",
+		equal: "Reunir",
+		defination:
+			"Recoger o juntar en un solo lugar; también, reunirse con otras personas.",
+		phrases: [
+			"The family would gather around the fireplace during the winter holidays.",
+			"Volunteers gathered donations to support those affected by the natural disaster.",
+			"Scientists gather data through experiments and observations.",
+			"The town square is a popular place for people to gather and socialize.",
+			"To make a delicious soup, gather fresh vegetables and herbs from the garden.",
+		],
+	},
+	{
+		id: 864,
+		word: "image",
+		equal: "Imagen",
+		defination:
+			"Una representación visual de algo; también, la percepción que otros tienen de una persona o cosa.",
+		phrases: [
+			"Photographers aim to capture the essence of a moment through compelling images.",
+			"In the age of social media, one's online image can impact personal and professional life.",
+			"The artist created a powerful image that conveyed a message of resilience.",
+			"A positive self-image contributes to mental well-being and confidence.",
+			"Brands invest in creating a distinct and appealing image to attract customers.",
+		],
+	},
+	{
+		id: 865,
+		word: "material",
+		equal: "Material",
+		defination:
+			"Sustancias o elementos utilizados para construir o hacer algo; también, relevante o importante.",
+		phrases: [
+			"Builders sourced durable materials to ensure the longevity of the structure.",
+			"The fashion designer chose luxurious materials to create a stunning gown.",
+			"In a court case, lawyers present material evidence to support their arguments.",
+			"Environmental conservation involves using sustainable materials to reduce impact.",
+			"Teachers provide students with material that enhances their understanding of the subject.",
+		],
+	},
+	{
+		id: 866,
+		word: "positive",
+		equal: "Positivo",
+		defination:
+			"Caracterizado por la afirmación o la optimismo; también, un resultado favorable.",
+		phrases: [
+			"Maintaining a positive attitude can contribute to overall well-being.",
+			"Positive reinforcement is an effective strategy in behavior management.",
+			"The team received positive feedback for their collaborative efforts.",
+			"Positive changes in lifestyle can lead to improved health and happiness.",
+			"Despite challenges, finding positive aspects in a situation can foster resilience.",
+		],
+	},
+	{
+		id: 867,
+		word: "role",
+		equal: "Rol",
+		defination:
+			"El papel o función desempeñada por una persona o cosa; también, un personaje en una obra teatral.",
+		phrases: [
+			"In a team, each member has a unique role that contributes to the overall success.",
+			"Parents play a crucial role in shaping the values and development of their children.",
+			"Actors prepare extensively to embody the role assigned to them in a production.",
+			"Effective communication is essential in clarifying roles and responsibilities.",
+			"Leadership involves understanding and embracing one's role in guiding a team.",
+		],
+	},
+	{
+		id: 868,
+		word: "screen",
+		equal: "Pantalla",
+		defination:
+			"Una superficie donde se proyectan imágenes; también, examinar o seleccionar cuidadosamente.",
+		phrases: [
+			"Moviegoers eagerly awaited the opening credits on the big screen.",
+			"Doctors use a screen to display medical images for diagnosis and analysis.",
+			"To protect against insects, homeowners install screens on windows and doors.",
+			"Employers screen job applicants to identify the most qualified candidates.",
+			"Parents should screen the content their children access on electronic devices.",
+		],
+	},
+	{
+		id: 869,
+		word: "technology",
+		equal: "Tecnología",
+		defination:
+			"El conjunto de conocimientos y técnicas aplicadas para lograr objetivos prácticos; también, el estudio de herramientas y procesos.",
+		phrases: [
+			"Advancements in technology have transformed how we live and work.",
+			"Technology plays a key role in communication, connecting people globally.",
+			"The field of information technology is dynamic and constantly evolving.",
+			"Educational institutions integrate technology to enhance the learning experience.",
+			"Understanding the ethical implications of technology is crucial in its development.",
+		],
+	},
+	{
+		id: 870,
+		word: "attack",
+		equal: "Ataque",
+		defination:
+			"Un acto de agresión o intento de causar daño; también, abordar o abalanzarse sobre algo.",
+		phrases: [
+			"The military devised a strategy to repel the enemy's attack.",
+			"In sports, a well-coordinated attack can lead to scoring opportunities.",
+			"Criminals attempted to launch a cyber attack on the company's database.",
+			"The immune system defends the body against viruses and bacterial attacks.",
+			"It's important to remain vigilant to prevent surprise attacks in certain situations.",
+		],
+	},
+	{
+		id: 871,
+		word: "available",
+		equal: "Disponible",
+		defination:
+			"Listo para ser utilizado o accesible; también, que se puede obtener o adquirir.",
+		phrases: [
+			"The latest software update is now available for download.",
+			"Is the manager available for a brief meeting this afternoon?",
+			"Online platforms make a vast amount of information readily available to users.",
+			"Certain products may have limited quantities available due to high demand.",
+			"It's advisable to check the available options before making a decision.",
+		],
+	},
+	{
+		id: 872,
+		word: "career",
+		equal: "Carrera",
+		defination:
+			"La progresión a largo plazo de una persona en una ocupación o profesión; también, un camino profesional.",
+		phrases: [
+			"Choosing a career requires careful consideration of one's interests and skills.",
+			"Continuous learning is essential for success in a rapidly evolving career.",
+			"The athlete had a successful career spanning over a decade.",
+			"Mentorship can provide valuable guidance to individuals starting their careers.",
+			"Exploring different career paths helps individuals find a fulfilling professional journey.",
+		],
+	},
+	{
+		id: 873,
+		word: "connect",
+		equal: "Conectar",
+		defination:
+			"Unir o vincular; también, establecer una relación o comunicación.",
+		phrases: [
+			"The bridge was built to connect the two sides of the river.",
+			"Social media platforms allow people to connect with friends and family worldwide.",
+			"Networking events provide opportunities for professionals to connect and collaborate.",
+			"In technology, devices use cables or wireless signals to connect to a network.",
+			"Shared experiences often help people connect on a deeper level.",
+		],
+	},
+	{
+		id: 874,
+		word: "dictionary",
+		equal: "Diccionario",
+		defination:
+			"Una obra de referencia que proporciona definiciones de palabras; también, un recurso para comprender un idioma.",
+		phrases: [
+			"When in doubt about a word's meaning, consult a dictionary for clarification.",
+			"Language learners often use bilingual dictionaries to expand their vocabulary.",
+			"Modern dictionaries include not only definitions but also pronunciation guides.",
+			"Writers and editors rely on dictionaries to ensure accurate word usage.",
+			"Digital dictionaries offer quick access to definitions through online platforms.",
+		],
+	},
+	{
+		id: 875,
+		word: "handle",
+		equal: "Manejar",
+		defination:
+			"Agarrar o manipular con las manos; también, gestionar o tratar con una situación.",
+		phrases: [
+			"Carefully handle fragile items to prevent breakage during transport.",
+			"The manager must skillfully handle challenging situations in the workplace.",
+			"Parents teach children how to handle responsibilities as they grow.",
+			"Learning how to handle stress is an important aspect of mental well-being.",
+			"The chef demonstrated how to handle kitchen tools for safe and efficient cooking.",
+		],
+	},
+	{
+		id: 876,
+		word: "major",
+		equal: "Importante",
+		defination:
+			"De gran importancia o alcance; también, el campo principal de estudio en la educación universitaria.",
+		phrases: [
+			"The discovery of a new species was a major breakthrough in biology.",
+			"Major decisions often require careful consideration and analysis.",
+			"In college, students choose a major based on their academic interests.",
+			"The company announced a major investment in renewable energy projects.",
+			"A major event in history can shape the course of societies and civilizations.",
+		],
+	},
+	{
+		id: 877,
+		word: "provide",
+		equal: "Proporcionar",
+		defination:
+			"Suministrar o ofrecer; también, hacer que algo esté disponible.",
+		phrases: [
+			"Parents provide love and support to help children thrive.",
+			"The organization aims to provide essential resources to underserved communities.",
+			"Teachers provide guidance to students in their educational journey.",
+			"Companies often provide training programs to enhance employees' skills.",
+			"Efforts to reduce poverty involve policies that provide economic opportunities.",
+		],
+	},
+	{
+		id: 878,
+		word: "section",
+		equal: "Sección",
+		defination:
+			"Parte o división de algo más grande; también, un área específica o categoría.",
+		phrases: [
+			"The bookstore has a dedicated section for best-selling novels.",
+			"In a newspaper, the sports section covers the latest athletic events.",
+			"The furniture store offers a wide variety of sofas in the living room section.",
+			"The report includes a section detailing the research methodology.",
+			"Students gathered in the quiet section of the library to study.",
+		],
+	},
+	{
+		id: 879,
+		word: "site",
+		equal: "Sitio",
+		defination: "Lugar específico; también, un lugar en internet.",
+		phrases: [
+			"The construction crew prepared the site for the new building.",
+			"Camping enthusiasts selected a picturesque site near the lake.",
+			"The website provides information about the historical site's significance.",
+			"Archaeologists carefully excavated the site to uncover ancient artifacts.",
+			"An e-commerce site offers a convenient platform for online shopping.",
+		],
+	},
+	{
+		id: 880,
+		word: "accept",
+		equal: "Aceptar",
+		defination:
+			"Recibir con agrado o estar de acuerdo con algo; también, admitir o aprobar.",
+		phrases: [
+			"It's important to accept diversity and appreciate different perspectives.",
+			"The team captain graciously accepted the championship trophy on behalf of the players.",
+			"Job applicants eagerly await the employer's decision to accept their candidacy.",
+			"The school board will accept public input on proposed changes to the curriculum.",
+			"In a negotiation, finding common ground is key for both parties to accept the terms.",
+		],
+	},
+	{
+		id: 881,
+		word: "consider",
+		equal: "Considerar",
+		defination:
+			"Reflexionar sobre algo o tener en cuenta; también, tratar con respeto o cortesía.",
+		phrases: [
+			"Before making a decision, it's important to carefully consider all options.",
+			"The committee will consider the feedback received from stakeholders.",
+			"Parents consider the safety of their children when choosing a neighborhood.",
+			"In a debate, it's essential to consider opposing viewpoints for a comprehensive discussion.",
+			"Good leaders consider the well-being and development of their team members.",
+		],
+	},
+	{
+		id: 882,
+		word: "exist",
+		equal: "Existir",
+		defination:
+			"Estar presente o tener realidad; también, vivir o permanecer en un estado particular.",
+		phrases: [
+			"Scientists explore the possibility of extraterrestrial life existing in the universe.",
+			"The ancient ruins are a testament to civilizations that used to exist.",
+			"To exist peacefully, communities must work together to address common challenges.",
+			"The concept of time travel raises intriguing questions about alternate existences.",
+			"In philosophy, the question of why anything exists is a topic of contemplation.",
+		],
+	},
+	{
+		id: 883,
+		word: "familiar",
+		equal: "Familiar",
+		defination: "Conocido o reconocido; también, cercano en relación.",
+		phrases: [
+			"The song sounded familiar, bringing back memories of a special moment.",
+			"In a foreign country, finding familiar landmarks provides a sense of comfort.",
+			"The professor made the complex topic more familiar through relatable examples.",
+			"Close friends often become like family, creating a sense of familiar connection.",
+			"A familiar face in a crowd can make a new place feel more welcoming.",
+		],
+	},
+	{
+		id: 884,
+		word: "joy",
+		equal: "Alegría",
+		defination:
+			"Un sentimiento de felicidad intensa; también, algo que causa placer o satisfacción.",
+		phrases: [
+			"The unexpected visit from a friend brought immense joy to her day.",
+			"The laughter of children playing in the park filled the air with joy.",
+			"The accomplishment of a long-term goal brought tears of joy to her eyes.",
+			"Finding joy in simple moments contributes to overall well-being.",
+			"Acts of kindness have the power to spread joy and positivity in the community.",
+		],
+	},
+	{
+		id: 885,
+		word: "married",
+		equal: "Casado",
+		defination:
+			"Estar unido en matrimonio; también, relacionado con el estado civil de casado.",
+		phrases: [
+			"After years of dating, they decided to get married and start a life together.",
+			"Being happily married is often associated with emotional and social well-being.",
+			"The wedding ceremony celebrated the union of two individuals getting married.",
+			"Married couples often navigate life's challenges through mutual support.",
+			"In some cultures, the status of being married is highly valued and respected.",
+		],
+	},
+	{
+		id: 886,
+		word: "rather",
+		equal: "Más bien",
+		defination: "En lugar de; también, preferiblemente o más bien.",
+		phrases: [
+			"I would rather stay home and relax than go out to a crowded event.",
+			"He chose the healthier option rather than indulging in unhealthy snacks.",
+			"Would you prefer tea or coffee? I'd rather have a cup of tea.",
+			"She decided to speak up rather than remaining silent about the issue.",
+			"Some people enjoy a quiet night in rather than a night out on the town.",
+		],
+	},
+	{
+		id: 887,
+		word: "represent",
+		equal: "Representar",
+		defination:
+			"Ser un símbolo o imagen de algo; también, actuar en nombre de alguien o algo.",
+		phrases: [
+			"The national flag represents the unity and identity of the country.",
+			"Art can represent complex emotions and concepts through visual expression.",
+			"Elected officials represent the interests and concerns of their constituents.",
+			"In negotiations, lawyers work to represent the best interests of their clients.",
+			"Symbols in literature often represent broader themes and ideas.",
+		],
+	},
+	{
+		id: 888,
+		word: "root",
+		equal: "Raíz",
+		defination:
+			"La parte de una planta que usualmente está bajo tierra y que absorbe nutrientes; también, la causa o origen de algo.",
+		phrases: [
+			"Healthy plants have strong roots that anchor them in the soil.",
+			"Understanding the cultural roots of a community fosters appreciation and respect.",
+			"The investigation aimed to uncover the root causes of the recurring issue.",
+			"To solve a problem, it's important to address it at its root rather than superficially.",
+			"Language enthusiasts often explore the etymology of words to trace their roots.",
+		],
+	},
+	{
+		id: 889,
+		word: "society",
+		equal: "Sociedad",
+		defination:
+			"Un grupo de individuos que comparten una cultura, normas y organización; también, el conjunto de relaciones sociales.",
+		phrases: [
+			"In a just society, equal opportunities and rights are extended to all members.",
+			"The study of sociology examines the structures and dynamics of human society.",
+			"Civic engagement is essential for positive change within a society.",
+			"Cultural diversity enriches society by bringing together various perspectives.",
+			"Social media has transformed the way people connect and interact in modern society.",
+		],
+	},
+	{
+		id: 890,
+		word: "band",
+		equal: "Banda",
+		defination:
+			"Un grupo de músicos que tocan juntos; también, una tira estrecha de material.",
+		phrases: [
+			"The local band entertained the crowd with a lively performance at the festival.",
+			"A rubber band is a flexible loop commonly used to bind objects together.",
+			"Musicians often form a band to collaborate and create music together.",
+			"The marching band added a festive atmosphere to the parade.",
+			"In geology, a band of rock layers may indicate specific geological events.",
+		],
+	},
+	{
+		id: 891,
+		word: "fortune",
+		equal: "Fortuna",
+		defination:
+			"La suerte o destino, especialmente en términos de éxito material; también, una gran cantidad de riqueza.",
+		phrases: [
+			"Some believe in fortune-telling as a way to glimpse into the future.",
+			"Despite challenges, he considered himself fortunate to have a loving family.",
+			"Winning the lottery brought an unexpected fortune to the lucky ticket holder.",
+			"In ancient cultures, the alignment of celestial bodies was often linked to fortune.",
+			"Fortune can be fleeting, and it's important to appreciate moments of abundance.",
+		],
+	},
+	{
+		id: 892,
+		word: "guest",
+		equal: "Invitado",
+		defination:
+			"Una persona que es invitada a una ocasión o a la casa de alguien; también, un participante en un programa o evento.",
+		phrases: [
+			"The host warmly welcomed each guest to the dinner party.",
+			"As a guest at the wedding, he enjoyed the celebration and festivities.",
+			"Hotels strive to provide a comfortable and welcoming experience for their guests.",
+			"Television shows often feature celebrity guests who share insights and stories.",
+			"A good host ensures that every guest feels valued and at ease.",
+		],
+	},
+	{
+		id: 893,
+		word: "host",
+		equal: "Anfitrión",
+		defination:
+			"La persona que organiza y recibe a invitados; también, un organismo que alberga a otro organismo.",
+		phrases: [
+			"The host went above and beyond to create a memorable event for the guests.",
+			"Being a gracious host involves anticipating the needs of those you are hosting.",
+			"In biology, a host organism provides a habitat for another organism.",
+			"The talk show host skillfully guided the conversation with the guest.",
+			"As a host city, preparations were underway to welcome international visitors.",
+		],
+	},
+	{
+		id: 894,
+		word: "original",
+		equal: "Original",
+		defination:
+			"La primera instancia de algo; también, creativo y no derivado de otras fuentes.",
+		phrases: [
+			"The artist proudly displayed the original painting in the gallery.",
+			"In literature, scholars study the original manuscripts to understand the author's intent.",
+			"Original ideas often spark innovation and contribute to progress.",
+			"The director wanted to capture the raw emotion in the original performance.",
+			"Preserving the original architecture of historic buildings is a priority for conservation.",
+		],
+	},
+	{
+		id: 895,
+		word: "peace",
+		equal: "Paz",
+		defination:
+			"Un estado de tranquilidad y ausencia de conflicto; también, la ausencia de disturbios o disturbios.",
+		phrases: [
+			"Diplomacy plays a crucial role in achieving and maintaining global peace.",
+			"The meditation retreat provided a serene environment for inner peace.",
+			"Communities work together to create a sense of peace and harmony.",
+			"In times of conflict, negotiations aim to restore peace and stability.",
+			"Nature has a calming effect, contributing to a sense of peace and well-being.",
+		],
+	},
+	{
+		id: 896,
+		word: "poem",
+		equal: "Poema",
+		defination:
+			"Una composición literaria que utiliza lenguaje artístico y métrica para expresar sentimientos o ideas.",
+		phrases: [
+			"The poet recited a heartfelt poem at the open mic night.",
+			"Studying classic poems allows readers to appreciate the beauty of language.",
+			"The anthology featured a diverse collection of poems from various poets.",
+			"Writing a poem can be a therapeutic and expressive form of self-expression.",
+			"Poems often capture the essence of emotions and experiences in a condensed form.",
+		],
+	},
+	{
+		id: 897,
+		word: "sense",
+		equal: "Sentido",
+		defination:
+			"La capacidad de percibir o comprender; también, un juicio o comprensión práctica.",
+		phrases: [
+			"The five senses—sight, hearing, touch, taste, and smell—allow us to experience the world.",
+			"Common sense guides individuals in making practical and rational decisions.",
+			"A sense of humor can lighten difficult situations and foster connections.",
+			"Intuition often provides a sense of direction in the absence of concrete evidence.",
+			"The novel conveyed a deep sense of nostalgia for a bygone era.",
+		],
+	},
+	{
+		id: 898,
+		word: "trust",
+		equal: "Confianza",
+		defination:
+			"La creencia en la confiabilidad o honestidad de alguien o algo; también, encomendar algo a alguien.",
+		phrases: [
+			"Building trust is fundamental in forming strong interpersonal relationships.",
+			"The company's transparency contributes to the trust of its customers.",
+			"In a team, trust among members is essential for collaboration and success.",
+			"Parents trust teachers to provide a safe and nurturing environment for their children.",
+			"Earning trust requires consistent honesty, integrity, and reliability.",
+		],
+	},
+	{
+		id: 899,
+		word: "wealthy",
+		equal: "Adinerado",
+		defination:
+			"Poseer una gran cantidad de riqueza o recursos financieros.",
+		phrases: [
+			"The wealthy entrepreneur donated a significant amount to charitable causes.",
+			"Being wealthy affords individuals the ability to enjoy a comfortable lifestyle.",
+			"The neighborhood is known for its luxurious homes, housing many wealthy residents.",
+			"Some wealthy families prioritize philanthropy to contribute positively to society.",
+			"Becoming wealthy often requires a combination of hard work, smart investments, and opportunity.",
+		],
+	},
+	{
+		id: 900,
+		word: "blood",
+		equal: "Sangre",
+		defination:
+			"El líquido rojo que circula por las venas y arterias del cuerpo; también, la relación familiar.",
+		phrases: [
+			"A blood test is commonly used to assess overall health and detect medical conditions.",
+			"Blood donation is a selfless act that can save lives in emergency situations.",
+			"Family ties are often referred to as blood relationships, emphasizing shared genetics.",
+			"In literature, the theme of blood can symbolize both life and sacrifice.",
+			"The heart pumps blood to deliver oxygen and nutrients to various parts of the body.",
+		],
+	},
+	{
+		id: 901,
+		word: "business",
+		equal: "Negocio",
+		defination:
+			"Una organización o actividad que se dedica a la producción o venta de bienes y servicios con fines de lucro.",
+		phrases: [
+			"Starting a small business requires careful planning and determination.",
+			"Globalization has transformed the way business is conducted across borders.",
+			"Ethical business practices contribute to the long-term success and reputation of a company.",
+			"In the business world, innovation is often a key driver of competitiveness.",
+			"Business owners must adapt to changing market conditions to stay competitive.",
+		],
+	},
+	{
+		id: 902,
+		word: "electronic",
+		equal: "Electrónico",
+		defination:
+			"Relacionado con la tecnología que utiliza corriente eléctrica para controlar y transmitir información.",
+		phrases: [
+			"Electronic devices such as smartphones and laptops have become essential in daily life.",
+			"The electronic voting system streamlined the election process and improved accuracy.",
+			"Electronic music relies on synthesizers and digital technology for composition.",
+			"Advancements in electronic communication have facilitated instant global connectivity.",
+			"Electronic signatures are widely used for secure and efficient document verification.",
+		],
+	},
+	{
+		id: 903,
+		word: "influence",
+		equal: "Influencia",
+		defination:
+			"El poder de afectar o cambiar las acciones, opiniones o decisiones de otros.",
+		phrases: [
+			"Leaders have the ability to exert influence and inspire positive change.",
+			"Social media influencers can shape public opinion and trends.",
+			"Parents have a significant influence on the values and beliefs of their children.",
+			"Artists and creators often use their work to reflect and challenge societal influences.",
+			"The mentor's guidance had a lasting influence on the professional development of the mentee.",
+		],
+	},
+	{
+		id: 904,
+		word: "master",
+		equal: "Maestro",
+		defination:
+			"Una persona que ha alcanzado un alto nivel de habilidad o conocimiento en una disciplina; también, tener control total sobre algo.",
+		phrases: [
+			"The pianist is a master of classical music, captivating audiences with skillful performances.",
+			"In martial arts, achieving the rank of master requires years of dedicated practice.",
+			"A master craftsman creates exquisite pieces with precision and artistry.",
+			"The chef is a master of culinary techniques, creating dishes that delight the palate.",
+			"Becoming a master of a language involves fluency and cultural understanding.",
+		],
+	},
+	{
+		id: 905,
+		word: "pity",
+		equal: "Lástima",
+		defination:
+			"Sentimiento de compasión o tristeza hacia el sufrimiento de otros; también, una situación digna de compasión.",
+		phrases: [
+			"She felt a sense of pity for the stray dog shivering in the cold.",
+			"Expressing pity without offering practical help may not address the root of the problem.",
+			"It's important to approach those in need with empathy and genuine pity.",
+			"In literature, a character's plight may evoke pity from readers.",
+			"Rather than pity, some individuals prefer practical solutions to improve their circumstances.",
+		],
+	},
+	{
+		id: 906,
+		word: "press",
+		equal: "Prensa",
+		defination:
+			"Los medios de comunicación, especialmente los periódicos y revistas; también, aplicar presión física.",
+		phrases: [
+			"The press plays a crucial role in informing the public and holding those in power accountable.",
+			"Freedom of the press is a fundamental pillar of democratic societies.",
+			"To create a smooth surface, carpenters use a press to flatten and smooth wood.",
+			"The artist used a printing press to produce multiple copies of the artwork.",
+			"The press conference provided journalists with an opportunity to ask questions and gather information.",
+		],
+	},
+	{
+		id: 907,
+		word: "shoot",
+		equal: "Disparar",
+		defination:
+			"Proyectar o expulsar con fuerza; también, disparar un arma de fuego.",
+		phrases: [
+			"The photographer waited for the perfect moment to shoot the breathtaking sunset.",
+			"In sports, players aim to shoot the ball into the goal for a scoring opportunity.",
+			"Film directors carefully plan each scene before deciding when to shoot.",
+			"He learned how to responsibly handle and shoot a firearm during his military training.",
+			"Wildlife photographers use telephoto lenses to shoot animals from a safe distance.",
+		],
+	},
+	{
+		id: 908,
+		word: "signal",
+		equal: "Señal",
+		defination:
+			"Un signo o indicación que transmite información; también, transmitir una señal.",
+		phrases: [
+			"Traffic lights provide clear signals to drivers, regulating the flow of vehicles.",
+			"A raised hand can be a signal for silence or attention in a classroom.",
+			"In communication, non-verbal cues often serve as important signals.",
+			"Radio towers are used to transmit signals for broadcasting.",
+			"The lighthouse's beam serves as a navigational signal for ships at sea.",
+		],
+	},
+	{
+		id: 909,
+		word: "teenager",
+		equal: "Adolescente",
+		defination:
+			"Una persona que tiene entre 13 y 19 años de edad; también, relacionado con la etapa de la adolescencia.",
+		phrases: [
+			"Teenagers often experience rapid physical and emotional changes during puberty.",
+			"Parenting a teenager requires understanding and effective communication.",
+			"Teenagers engage in various activities to explore their interests and identity.",
+			"During the teenage years, individuals begin to navigate more complex social relationships.",
+			"Educational institutions design programs to address the unique needs of teenagers.",
+		],
+	},
+	{
+		id: 910,
+		word: "achieve",
+		equal: "Lograr",
+		defination:
+			"Alcanzar un objetivo o resultado mediante esfuerzo y perseverancia.",
+		phrases: [
+			"With dedication and hard work, she was able to achieve her dream of becoming a doctor.",
+			"Setting realistic goals is crucial to successfully achieve them over time.",
+			"The team collaborated effectively to achieve a common objective.",
+			"Education empowers individuals to achieve personal and professional aspirations.",
+			"Celebrating small victories along the way can boost motivation to achieve larger goals.",
+		],
+	},
+	{
+		id: 911,
+		word: "beg",
+		equal: "Rogar",
+		defination:
+			"Pedir algo con insistencia o humildad; también, hacer una súplica.",
+		phrases: [
+			"The homeless man had to beg for food on the streets.",
+			"Children may beg their parents for a new toy they desire.",
+			"In times of desperation, people may beg for mercy or assistance.",
+			"The dog would beg for treats by sitting on its hind legs and looking up with hopeful eyes.",
+			"The character in the novel had to beg for forgiveness after a misunderstanding.",
+		],
+	},
+	{
+		id: 912,
+		word: "control",
+		equal: "Controlar",
+		defination:
+			"Tener el poder de dirigir, regular o gestionar; también, mantener la autoridad sobre algo.",
+		phrases: [
+			"Effective leaders possess the ability to control and guide their teams toward success.",
+			"Learning to control one's emotions is a key aspect of emotional intelligence.",
+			"Parents aim to teach their children how to control impulsive behavior.",
+			"Remote control devices simplify the operation and management of electronic devices.",
+			"Traffic signals are designed to control the flow of vehicles and ensure safety.",
+		],
+	},
+	{
+		id: 913,
+		word: "debate",
+		equal: "Debate",
+		defination:
+			"Una discusión formal en la que se presentan y se argumentan puntos de vista opuestos; también, considerar un tema detalladamente.",
+		phrases: [
+			"The presidential candidates engaged in a lively debate on national television.",
+			"Debating helps individuals develop critical thinking and communication skills.",
+			"In academic settings, students participate in debates to explore different perspectives.",
+			"The debate over environmental policies continues to be a topic of global concern.",
+			"Society benefits from open and respectful debates on complex issues.",
+		],
+	},
+	{
+		id: 914,
+		word: "improve",
+		equal: "Mejorar",
+		defination:
+			"Hacer algo mejor o más efectivo; también, experimentar un aumento en calidad o valor.",
+		phrases: [
+			"Continuous learning and practice are essential to improve skills over time.",
+			"Feedback from others can provide valuable insights to help improve performance.",
+			"Technology advancements contribute to the constant effort to improve efficiency.",
+			"Personal development involves setting goals to improve various aspects of one's life.",
+			"Collaborative efforts often lead to innovative solutions that improve overall outcomes.",
+		],
+	},
+	{
+		id: 915,
+		word: "similar",
+		equal: "Similar",
+		defination:
+			"Semejante en algunos aspectos pero no idéntico; también, comparar semejanzas entre cosas.",
+		phrases: [
+			"The two paintings are similar in style, yet each has its unique characteristics.",
+			"Identifying similar patterns in data is crucial for drawing meaningful conclusions.",
+			"In a job interview, candidates may be asked to highlight experiences that are similar to the role.",
+			"Certain species exhibit similar behaviors as a means of adaptation.",
+			"The detective noticed a similar modus operandi in the recent series of crimes.",
+		],
+	},
+	{
+		id: 916,
+		word: "soldier",
+		equal: "Soldado",
+		defination:
+			"Un miembro de las fuerzas armadas; también, alguien que muestra resistencia o valentía frente a desafíos.",
+		phrases: [
+			"Soldiers undergo rigorous training to prepare for their duties in the military.",
+			"Throughout history, soldiers have played a pivotal role in defending their nations.",
+			"The wounded soldier received medical care and support on the battlefield.",
+			"Facing adversity, she demonstrated the resilience of a true soldier.",
+			"Soldiers often form strong bonds with their comrades in arms.",
+		],
+	},
+	{
+		id: 917,
+		word: "system",
+		equal: "Sistema",
+		defination:
+			"Un conjunto de elementos interrelacionados que trabajan juntos para lograr un objetivo común; también, una organización o estructura.",
+		phrases: [
+			"The human body is a complex system with various organs working in harmony.",
+			"An efficient transportation system is essential for the functioning of a city.",
+			"Computer operating systems provide the framework for software applications to run.",
+			"The legal system is designed to ensure justice and uphold the rule of law.",
+			"In ecology, ecosystems consist of living organisms interacting within a specific environment.",
+		],
+	},
+	{
+		id: 918,
+		word: "war",
+		equal: "Guerra",
+		defination:
+			"Un conflicto armado entre naciones o grupos; también, una lucha o conflicto intenso.",
+		phrases: [
+			"The aftermath of war often involves efforts to rebuild and promote peace.",
+			"Wars throughout history have shaped the geopolitical landscape of nations.",
+			"The soldier reflected on the human cost of war and the importance of diplomacy.",
+			"Artists and writers often depict the impact of war on individuals and societies.",
+			"Efforts toward global cooperation aim to prevent the outbreak of war.",
+		],
+	},
+	{
+		id: 919,
+		word: "warn",
+		equal: "Advertir",
+		defination:
+			"Informar con antelación sobre un peligro o riesgo; también, expresar una señal de precaución.",
+		phrases: [
+			"Weather forecasts help warn communities about approaching storms or severe conditions.",
+			"Parents warn their children about the potential dangers of certain activities.",
+			"Signs on the road warn drivers of upcoming hazards and changes in traffic conditions.",
+			"Experts warn of the environmental impact of certain human activities.",
+			"Heed warnings and take necessary precautions to ensure safety in hazardous situations.",
+		],
+	},
+	{
+		id: 920,
+		word: "announce",
+		equal: "Anunciar",
+		defination:
+			"Hacer una declaración pública o formal; también, dar a conocer información de manera oficial.",
+		phrases: [
+			"The mayor will announce the new community initiative during the press conference.",
+			"Companies often use social media to announce product launches and updates.",
+			"Parents joyfully announce the arrival of a new baby to friends and family.",
+			"Public figures use press conferences to announce major decisions or policy changes.",
+			"The teacher gathered the students to announce the winners of the academic competition.",
+		],
+	},
+	{
+		id: 921,
+		word: "bottom",
+		equal: "Fondo",
+		defination:
+			"La parte más baja o inferior de algo; también, el final o la parte posterior.",
+		phrases: [
+			"The treasure was hidden at the bottom of the ocean, requiring a deep-sea expedition.",
+			"She reached into the bag to retrieve an item from the bottom.",
+			"At the bottom of the staircase, there was a hidden door leading to a secret room.",
+			"The bottom of the page contained additional notes and references.",
+			"The hiker looked down from the mountain's bottom, marveling at the ascent accomplished.",
+		],
+	},
+	{
+		id: 922,
+		word: "compete",
+		equal: "Competir",
+		defination:
+			"Participar en una competición o enfrentarse a otros en la búsqueda de un objetivo; también, estar en conflicto por recursos o atención.",
+		phrases: [
+			"Athletes from around the world compete in the Olympic Games to showcase their skills.",
+			"Companies often compete for market share by offering innovative products and services.",
+			"Students may compete in academic competitions to demonstrate their knowledge.",
+			"Nature demonstrates how species compete for limited resources in an ecosystem.",
+			"Teams compete fiercely for the championship title in the annual tournament.",
+		],
+	},
+	{
+		id: 923,
+		word: "copy",
+		equal: "Copia",
+		defination:
+			"Una reproducción idéntica o similar de algo; también, imitar o replicar.",
+		phrases: [
+			"The author signed copies of the book for enthusiastic readers at the bookstore.",
+			"Artists create limited edition prints as copies of their original artwork.",
+			"In business, it's essential to keep a copy of important documents for record-keeping.",
+			"Students are reminded not to submit identical copies of assignments.",
+			"The museum displayed a copy of the famous painting alongside the original masterpiece.",
+		],
+	},
+	{
+		id: 924,
+		word: "exhibit",
+		equal: "Exhibir",
+		defination:
+			"Mostrar algo de manera pública, especialmente en una exhibición o presentación; también, mostrar características o comportamientos.",
+		phrases: [
+			"Artists often exhibit their works in galleries to share them with a wider audience.",
+			"The museum will exhibit rare artifacts from ancient civilizations.",
+			"Trade shows provide companies with opportunities to exhibit their latest products.",
+			"Zoos aim to exhibit animals in environments that mimic their natural habitats.",
+			"The child's behavior began to exhibit signs of excitement as the event approached.",
+		],
+	},
+	{
+		id: 925,
+		word: "print",
+		equal: "Imprimir",
+		defination:
+			"Producir una copia impresa de un documento, imagen o texto; también, la versión impresa de un periódico o revista.",
+		phrases: [
+			"The office printer is used to print documents and reports for daily operations.",
+			"Authors work closely with publishers to ensure the quality of the print version of their books.",
+			"Newspapers face the challenge of adapting to digital platforms while maintaining print circulation.",
+			"Artists may hand-carve linoleum blocks to create unique prints of their designs.",
+			"Printing technology has evolved, allowing for faster and more efficient production.",
+		],
+	},
+	{
+		id: 926,
+		word: "project",
+		equal: "Proyecto",
+		defination:
+			"Una tarea planificada o trabajo que requiere esfuerzo y está dirigido hacia un objetivo específico; también, proyectar imágenes o información en una superficie.",
+		phrases: [
+			"The team collaborated on a research project to explore innovative solutions.",
+			"Architects present blueprints and models to illustrate their vision for a construction project.",
+			"Movie theaters use projectors to project films onto large screens for audiences.",
+			"Completing a project ahead of schedule requires effective planning and execution.",
+			"Students are assigned a project to apply their knowledge and creativity in a practical way.",
+		],
+	},
+	{
+		id: 927,
+		word: "proper",
+		equal: "Adecuado",
+		defination:
+			"Conforme a las normas o requisitos apropiados; también, correcto en términos de comportamiento o etiqueta.",
+		phrases: [
+			"It's important to follow proper safety procedures when conducting experiments in the laboratory.",
+			"Wearing the proper attire is essential for specific activities such as hiking or cycling.",
+			"Maintaining proper hygiene is crucial for preventing the spread of infectious diseases.",
+			"Children are taught to use proper manners and show respect to elders.",
+			"In academic writing, citing sources is a proper practice to avoid plagiarism.",
+		],
+	},
+	{
+		id: 928,
+		word: "select",
+		equal: "Seleccionar",
+		defination:
+			"Elegir cuidadosamente entre varias opciones; también, un grupo de personas o cosas escogidas.",
+		phrases: [
+			"Customers can select from a variety of options on the menu to customize their order.",
+			"The coach will carefully select the players for the starting lineup based on their skills.",
+			"The store features a select collection of artisanal products from local producers.",
+			"It's important to select the appropriate tools for a specific task to ensure efficiency.",
+			"A select group of students was chosen to represent the school in the competition.",
+		],
+	},
+	{
+		id: 929,
+		word: "sheet",
+		equal: "Hoja",
+		defination:
+			"Una delgada pieza plana de material, como papel o tela; también, una sábana que cubre la cama.",
+		phrases: [
+			"She wrote her thoughts on a sheet of paper and placed it in an envelope.",
+			"Musicians read sheet music to perform compositions accurately during a concert.",
+			"The bed was neatly made with clean sheets and comfortable pillows.",
+			"A sheet of ice covered the pond, creating a picturesque winter scene.",
+			"After painting, artists often cover their work with a protective sheet to prevent damage.",
+		],
+	},
+	{
+		id: 930,
+		word: "concentrate",
+		equal: "Concentrarse",
+		defination:
+			"Enfocar la atención o esfuerzos en algo específico; también, aumentar la cantidad de una sustancia en una solución.",
+		phrases: [
+			"To perform well on exams, it's important to concentrate and avoid distractions.",
+			"Athletes often use mental techniques to concentrate on their performance during competitions.",
+			"Concentrate the cleaning solution for a more effective removal of stains.",
+			"In meditation, individuals concentrate on their breath to achieve a state of mindfulness.",
+			"The ability to concentrate on complex tasks is a valuable skill in the workplace.",
+		],
+	},
+	{
+		id: 931,
+		word: "maximum",
+		equal: "Máximo",
+		defination:
+			"La cantidad o grado más alto posible; también, el límite superior permitido.",
+		phrases: [
+			"The roller coaster reaches its maximum speed during the thrilling descent.",
+			"To achieve maximum efficiency, it's important to optimize workflows.",
+			"The teacher set a maximum word count for the research paper to ensure conciseness.",
+			"The thermostat can be set to maintain the room at the maximum comfortable temperature.",
+			"Drivers should be aware of the posted maximum speed limit on the highway.",
+		],
+	},
+	{
+		id: 932,
+		word: "prize",
+		equal: "Premio",
+		defination:
+			"Un objeto o reconocimiento otorgado como resultado de un logro o victoria; también, valorar algo altamente.",
+		phrases: [
+			"Winning the championship trophy was the ultimate prize for the dedicated team.",
+			"In literary competitions, authors vie for the coveted prize of publication and recognition.",
+			"The Nobel Prize is awarded to individuals who have made significant contributions to humanity.",
+			"Personal growth and development can be considered a priceless internal prize.",
+			"Some people prize authenticity and honesty above all other qualities in relationships.",
+		],
+	},
+	{
+		id: 933,
+		word: "require",
+		equal: "Requerir",
+		defination:
+			"Necesitar algo como condición necesaria; también, ordenar o exigir.",
+		phrases: [
+			"Certain jobs require specific qualifications and experience from applicants.",
+			"To succeed in the experiment, researchers may require precise measurements and controls.",
+			"School policies may require students to wear uniforms for a sense of unity.",
+			"Projects with tight deadlines often require a high level of coordination and efficiency.",
+			"The software update may require users to restart their devices for the changes to take effect.",
+		],
+	},
+	{
+		id: 934,
+		word: "research",
+		equal: "Investigación",
+		defination:
+			"La indagación sistemática y el estudio de un tema para descubrir hechos o principios; también, llevar a cabo dicha indagación.",
+		phrases: [
+			"Scientists conduct extensive research to advance our understanding of the natural world.",
+			"In academic settings, students are encouraged to engage in independent research projects.",
+			"The research team analyzed data to draw meaningful conclusions about the phenomenon.",
+			"Market research helps businesses understand consumer preferences and trends.",
+			"The library is a valuable resource for accessing books and journals for research purposes.",
+		],
+	},
+	{
+		id: 935,
+		word: "respond",
+		equal: "Responder",
+		defination:
+			"Contestar o reaccionar a una pregunta, estímulo o situación; también, satisfacer a una demanda o necesidad.",
+		phrases: [
+			"When asked about her achievements, she took a moment to respond with humility.",
+			"Emergency services must respond promptly to calls for assistance.",
+			"A well-written resume can prompt employers to respond with job offers.",
+			"The company aims to respond to customer feedback and improve its products.",
+			"Children learn to respond to social cues and interact with others from an early age.",
+		],
+	},
+	{
+		id: 936,
+		word: "spell",
+		equal: "Deletrear",
+		defination:
+			"Decir o escribir las letras en el orden correcto para formar una palabra; también, un período de tiempo breve o un encantamiento mágico.",
+		phrases: [
+			"Young students practice how to spell words correctly in their language classes.",
+			"During the spelling bee, participants compete to spell challenging words without errors.",
+			"A brief cold spell brought unexpected snowfall to the region.",
+			"Magicians often use a wand to cast spells and create illusions during performances.",
+			"Learning to spell is an essential skill that contributes to effective written communication.",
+		],
+	},
+	{
+		id: 937,
+		word: "state",
+		equal: "Estado",
+		defination:
+			"La condición o situación de algo en un momento dado; también, un territorio políticamente organizado con un gobierno.",
+		phrases: [
+			"The state of the economy can influence employment rates and consumer spending.",
+			"During the interview, the candidate was asked to state their qualifications and experiences.",
+			"Individuals are encouraged to state their preferences and opinions in democratic societies.",
+			"Each U.S. state has its own laws and regulations governing various aspects of life.",
+			"Scientists aim to understand the state of matter under different temperature and pressure conditions.",
+		],
+	},
+	{
+		id: 938,
+		word: "structure",
+		equal: "Estructura",
+		defination:
+			"La disposición organizada de partes o elementos; también, construir o organizar de manera sistemática.",
+		phrases: [
+			"The architect designed a modern and innovative structure for the new office building.",
+			"Understanding the molecular structure of a substance is crucial in chemistry.",
+			"Effective communication involves organizing thoughts in a clear and logical structure.",
+			"Engineers must consider the structural integrity of a bridge during the design phase.",
+			"To achieve success, organizations need a strong and adaptable structure.",
+		],
+	},
+	{
+		id: 939,
+		word: "tool",
+		equal: "Herramienta",
+		defination:
+			"Un instrumento o implemento utilizado para realizar una tarea específica; también, una persona o cosa que facilita el logro de un objetivo.",
+		phrases: [
+			"A carpenter uses various tools, such as a hammer and saw, to build furniture.",
+			"In gardening, a rake is a useful tool for removing leaves and debris.",
+			"Digital artists rely on specialized software as a primary tool for creating illustrations.",
+			"Effective communication is a valuable tool in building strong relationships.",
+			"Problem-solving skills are an essential tool for navigating challenges in life.",
+		],
+	},
+	{
+		id: 940,
+		word: "flood",
+		equal: "Inundación",
+		defination:
+			"El desbordamiento de agua que cubre una extensión de tierra; también, una gran cantidad o abundancia de algo.",
+		phrases: [
+			"Heavy rainfall can lead to a flood, causing damage to homes and infrastructure.",
+			"In some regions, people build levees to prevent rivers from causing flooding.",
+			"During the spring thaw, melting snow can contribute to river and stream flooding.",
+			"The market experienced a flood of new products after the product launch.",
+			"Emergency responders work tirelessly to assist communities affected by floods.",
+		],
+	},
+	{
+		id: 941,
+		word: "gentle",
+		equal: "Suave",
+		defination:
+			"De naturaleza delicada o agradable; también, mostrar amabilidad y cuidado hacia los demás.",
+		phrases: [
+			"The gentle breeze rustled the leaves, creating a soothing sound in the forest.",
+			"Parents use a gentle touch to comfort their newborns and create a sense of security.",
+			"A gentle smile can convey warmth and friendliness in social interactions.",
+			"In conflict resolution, using a gentle tone can help de-escalate tense situations.",
+			"Gentle yoga exercises focus on slow and controlled movements for relaxation.",
+		],
+	},
+	{
+		id: 942,
+		word: "melt",
+		equal: "Derretir",
+		defination:
+			"Cambiar de un estado sólido a líquido debido al calor; también, causar que algo sólido se vuelva líquido.",
+		phrases: [
+			"Ice cream begins to melt quickly on a hot summer day.",
+			"The warmth of the sun caused the snow to melt, revealing the green grass underneath.",
+			"To create a smooth sauce, chefs often melt butter in a pan.",
+			"Global warming can lead to the melting of polar ice caps and rising sea levels.",
+			"Candles gradually melt as they burn, releasing fragrance into the air.",
+		],
+	},
+	{
+		id: 943,
+		word: "operate",
+		equal: "Operar",
+		defination:
+			"Controlar o manejar una máquina, dispositivo o sistema; también, llevar a cabo una acción o actividad.",
+		phrases: [
+			"Surgeons carefully operate on patients to address medical conditions and injuries.",
+			"Engineers must be trained to operate complex machinery in manufacturing plants.",
+			"Pilots undergo extensive training to operate aircraft safely and efficiently.",
+			"Individuals can learn to operate new software through user-friendly interfaces.",
+			"To operate a successful business, entrepreneurs must understand market dynamics.",
+		],
+	},
+	{
+		id: 944,
+		word: "recognize",
+		equal: "Reconocer",
+		defination:
+			"Identificar o recordar algo o alguien debido a la familiaridad previa; también, dar mérito o valor a alguien por sus logros.",
+		phrases: [
+			"After years apart, old friends may still recognize each other's faces.",
+			"Employees who demonstrate exceptional performance are often recognized with awards.",
+			"It's important for leaders to recognize the efforts of team members to boost morale.",
+			"Biometric technology can be used to recognize individuals based on unique characteristics.",
+			"Learning to recognize patterns is a key skill in problem-solving and decision-making.",
+		],
+	},
+	{
+		id: 945,
+		word: "remain",
+		equal: "Permanecer",
+		defination:
+			"Continuar existiendo o estar en un lugar o condición particular; también, lo que queda después de que algo ha sido eliminado o consumido.",
+		phrases: [
+			"Despite the challenges, the team remained committed to achieving their goals.",
+			"The ancient ruins are all that remain of a once-thriving civilization.",
+			"In challenging times, it's important to remain resilient and optimistic.",
+			"After the storm, debris and fallen trees were all that remained in the area.",
+			"Even as technology advances, some traditional methods remain relevant and effective.",
+		],
+	},
+	{
+		id: 946,
+		word: "task",
+		equal: "Tarea",
+		defination:
+			"Una acción específica que se realiza como parte de un trabajo o deber; también, asignar una tarea a alguien.",
+		phrases: [
+			"Breaking down a large project into smaller tasks makes it more manageable.",
+			"Completing each task efficiently contributes to the overall success of a project.",
+			"Teachers often assign homework tasks to reinforce classroom learning.",
+			"In project management, creating a task list helps prioritize and organize activities.",
+			"Effective time management involves prioritizing tasks based on importance and deadlines.",
+		],
+	},
+	{
+		id: 947,
+		word: "various",
+		equal: "Varios",
+		defination:
+			"De diferentes tipos, formas o aspectos; también, que involucra una variedad de elementos.",
+		phrases: [
+			"The store offers products in various colors, sizes, and styles to cater to diverse preferences.",
+			"Various factors contribute to the success or failure of a business venture.",
+			"The conference attracted participants from various industries and backgrounds.",
+			"In a diverse ecosystem, various species play unique roles in maintaining balance.",
+			"The chef prepared a gourmet tasting menu featuring various culinary delights.",
+		],
+	},
+	{
+		id: 948,
+		word: "waste",
+		equal: "Desperdicio",
+		defination:
+			"Usar algo de manera ineficiente o descuidada; también, material o sustancia que no tiene valor o utilidad.",
+		phrases: [
+			"Efforts to reduce waste and promote recycling contribute to environmental sustainability.",
+			"Leaving lights on when not needed is a common form of energy waste.",
+			"Minimizing food waste is essential to address global issues of hunger and resource depletion.",
+			"Recycling programs encourage citizens to dispose of waste responsibly.",
+			"Time management helps prevent the waste of valuable time on unproductive activities.",
+		],
+	},
+	{
+		id: 949,
+		word: "worth",
+		equal: "Valor",
+		defination:
+			"La importancia o valía de algo; también, la cantidad de dinero que algo o alguien es considerado digno de recibir o poseer.",
+		phrases: [
+			"The sentimental worth of the family heirloom far exceeds its monetary value.",
+			"Investing time in personal development is often considered an activity of great worth.",
+			"Appraisers assess the worth of art pieces based on factors like artist reputation and historical significance.",
+			"To determine the worth of a property, real estate professionals consider location, size, and condition.",
+			"The antique book had both historical and monetary worth to collectors.",
+		],
+	},
+	{
+		id: 950,
+		word: "climate",
+		equal: "Clima",
+		defination:
+			"Las condiciones meteorológicas predominantes en una región a lo largo del tiempo, incluidos factores como la temperatura, la humedad y la precipitación.",
+		phrases: [
+			"The tropical climate of the region supports a diverse range of plant and animal species.",
+			"Climate scientists study long-term patterns to understand the impact of climate change.",
+			"Certain plants thrive in a Mediterranean climate characterized by warm, dry summers.",
+			"Climate zones are defined based on average temperature and precipitation levels.",
+			"Efforts to address climate issues involve reducing carbon emissions and promoting sustainable practices.",
+		],
+	},
+	{
+		id: 951,
+		word: "emergency",
+		equal: "Emergencia",
+		defination:
+			"Una situación repentina y crítica que requiere una acción inmediata; también, servicios o medidas preparadas para hacer frente a tales situaciones.",
+		phrases: [
+			"In case of a medical emergency, dialing 911 is the fastest way to seek assistance.",
+			"Emergency evacuation plans are crucial for ensuring the safety of residents during natural disasters.",
+			"First responders are trained to handle emergencies and provide immediate aid to those in need.",
+			"Emergency preparedness involves having essential supplies and a communication plan in place.",
+			"The hospital has a dedicated department equipped to handle various medical emergencies.",
+		],
+	},
+	{
+		id: 952,
+		word: "factory",
+		equal: "Fábrica",
+		defination:
+			"Un lugar donde se produce en masa y se fabrican bienes o productos, generalmente utilizando maquinaria y mano de obra.",
+		phrases: [
+			"The automobile factory produces thousands of cars each month for distribution worldwide.",
+			"Modern factories often use automated systems to enhance efficiency and productivity.",
+			"Factory workers play a crucial role in assembling and quality checking products.",
+			"Environmental regulations aim to ensure that factories operate in an eco-friendly manner.",
+			"In the industrial revolution, the factory system transformed the production of goods.",
+		],
+	},
+	{
+		id: 953,
+		word: "freeze",
+		equal: "Congelar",
+		defination:
+			"Cambiar de estado de líquido a sólido debido a la baja temperatura; también, detener o hacer que algo deje de funcionar.",
+		phrases: [
+			"During winter, lakes and rivers may freeze, creating a surface for ice skating.",
+			"To preserve food, some people choose to freeze it for later consumption.",
+			"Cold temperatures can cause water pipes to freeze, leading to potential damage.",
+			"When facing danger, individuals may experience a moment of fear causing them to freeze.",
+			"Computer screens may freeze temporarily if there is a software or hardware issue.",
+		],
+	},
+	{
+		id: 954,
+		word: "population",
+		equal: "Población",
+		defination:
+			"El conjunto de personas que habitan una región o país en un momento determinado; también, el número total de individuos de una especie en un área específica.",
+		phrases: [
+			"The population of the city has grown significantly over the past decade.",
+			"Ecologists study the population dynamics of species to understand their interactions.",
+			"Population density is a measure of how crowded or sparse an area is with residents.",
+			"Census data provides valuable insights into the demographics of a nation's population.",
+			"Efforts to control disease often involve measures to reduce the mosquito population.",
+		],
+	},
+	{
+		id: 955,
+		word: "recently",
+		equal: "Recientemente",
+		defination:
+			"En un período de tiempo cercano al presente; también, algo que ha ocurrido o sido adquirido en un pasado inmediato.",
+		phrases: [
+			"I recently read an interesting article about advancements in technology.",
+			"The company recently launched a new product to meet the evolving needs of customers.",
+			"Having recently moved to a new city, the individual is still exploring local attractions.",
+			"Scientists have made significant discoveries in the field of astronomy recently.",
+			"The art gallery features works of both established and recently discovered artists.",
+		],
+	},
+	{
+		id: 956,
+		word: "responsible",
+		equal: "Responsable",
+		defination:
+			"Ser confiable y capaz de tomar decisiones y acciones adecuadas; también, tener la obligación de cumplir con ciertas tareas o deberes.",
+		phrases: [
+			"A responsible pet owner ensures their pets receive proper care and attention.",
+			"In leadership roles, being responsible involves making decisions that benefit the team.",
+			"Individuals are responsible for managing their personal finances and budgeting.",
+			"Companies are increasingly adopting responsible business practices to support sustainability.",
+			"Parents teach their children to be responsible by instilling values of honesty and accountability.",
+		],
+	},
+	{
+		id: 957,
+		word: "storm",
+		equal: "Tormenta",
+		defination:
+			"Una perturbación atmosférica caracterizada por fuertes vientos, lluvia, nieve o truenos; también, un período de agitación o dificultad.",
+		phrases: [
+			"The coastal town prepared for the incoming storm by securing windows and evacuating low-lying areas.",
+			"Thunderstorms can bring intense lightning, thunder, and heavy rainfall.",
+			"Metaphorically, individuals may face personal storms that test their resilience.",
+			"Pilots navigate through stormy weather using advanced instruments and technology.",
+			"After the storm passed, the community worked together to restore damaged infrastructure.",
+		],
+	},
+	{
+		id: 958,
+		word: "stream",
+		equal: "Arroyo",
+		defination:
+			"Un flujo continuo de agua que fluye en un curso definido, como un arroyo o un río pequeño; también, la transmisión de datos multimedia a través de internet.",
+		phrases: [
+			"Children enjoy playing by the stream, skipping stones and observing aquatic life.",
+			"Ecologists study the health of stream ecosystems to assess water quality.",
+			"The popularity of online platforms has led to a constant stream of new content.",
+			"Fishermen often seek quiet streams for a peaceful day of angling.",
+			"Streaming services provide on-demand access to a diverse stream of entertainment.",
+		],
+	},
+	{
+		id: 959,
+		word: "temperature",
+		equal: "Temperatura",
+		defination:
+			"La medida del calor o frío de un objeto o ambiente; también, la elevación o descenso de la temperatura corporal en respuesta a enfermedades o condiciones ambientales.",
+		phrases: [
+			"A thermometer is used to measure the temperature of liquids, solids, and the air.",
+			"During a fever, the body's temperature may rise as a response to illness.",
+			"Climate scientists analyze temperature trends to understand global warming patterns.",
+			"Cooking requires precise control of temperature to achieve the desired result.",
+			"Extreme temperatures can have an impact on the behavior of various materials.",
+		],
+	},
+	{
+		id: 960,
+		word: "dedicate",
+		equal: "Dedicar",
+		defination:
+			"Comprometer tiempo, esfuerzo o recursos a una causa o actividad en particular.",
+		phrases: [
+			"Successful individuals often dedicate themselves to continuous learning and improvement.",
+			"Volunteers dedicate their weekends to helping those in need.",
+			"To excel in a skill, it's essential to dedicate focused practice regularly.",
+		],
+	},
+	{
+		id: 961,
+		word: "enthusiastic",
+		equal: "Entusiasta",
+		defination:
+			"Demostrar un interés y emoción intensos por algo; estar lleno de entusiasmo.",
+		phrases: [
+			"The enthusiastic audience applauded the performers with great energy.",
+			"An enthusiastic approach to challenges often leads to creative solutions.",
+			"She is always enthusiastic about taking on new and exciting projects.",
+		],
+	},
+	{
+		id: 962,
+		word: "advocate",
+		equal: "Abogar",
+		defination: "Apoyar, promover o defender una causa, idea o política.",
+		phrases: [
+			"Many environmentalists advocate for sustainable practices to protect the planet.",
+			"He has become a strong advocate for equal educational opportunities.",
+			"The organization advocates for the rights of marginalized communities.",
+		],
+	},
+	{
+		id: 963,
+		word: "empower",
+		equal: "Empoderar",
+		defination:
+			"Conceder poder, autoridad o recursos a alguien; fortalecer y habilitar.",
+		phrases: [
+			"Education has the potential to empower individuals and uplift communities.",
+			"Leadership should strive to empower team members and foster growth.",
+			"Efforts to empower women in the workplace have gained significant momentum.",
+		],
+	},
+	{
+		id: 964,
+		word: "campaign",
+		equal: "Campaña",
+		defination:
+			"Una serie coordinada de actividades para lograr un objetivo, especialmente en el ámbito político o social.",
+		phrases: [
+			"The political campaign focused on addressing key issues affecting the community.",
+			"Nonprofit organizations often launch campaigns to raise awareness and funds.",
+			"A successful advertising campaign can significantly impact product sales.",
+		],
+	},
+	{
+		id: 965,
+		word: "balance",
+		equal: "Equilibrio",
+		defination:
+			"Mantener una distribución armoniosa de elementos; un estado en el que las fuerzas opuestas se compensan.",
+		phrases: [
+			"Work-life balance is crucial for overall well-being and productivity.",
+			"The key to a healthy diet is achieving a balance of different food groups.",
+			"In design, achieving balance is essential for creating visually appealing compositions.",
+		],
+	},
+	{
+		id: 966,
+		word: "simplify",
+		equal: "Simplificar",
+		defination:
+			"Hacer algo más fácil de entender o realizar; reducir la complejidad.",
+		phrases: [
+			"Effective communication often involves the ability to simplify complex ideas.",
+			"To increase efficiency, it's important to simplify processes and workflows.",
+			"The teacher used analogies to simplify challenging concepts for the students.",
+		],
+	},
+	{
+		id: 967,
+		word: "optimism",
+		equal: "Optimismo",
+		defination:
+			"La creencia o actitud de esperar lo mejor en todas las circunstancias; ver el lado positivo.",
+		phrases: [
+			"Maintaining optimism in challenging times can contribute to resilience.",
+			"Optimism can be a driving force for overcoming obstacles and achieving goals.",
+			"A culture of optimism can positively impact the morale of a team or community.",
+		],
+	},
+	{
+		id: 968,
+		word: "vibrant",
+		equal: "Vibrante",
+		defination: "Lleno de vida, energía y vitalidad; brillante y colorido.",
+		phrases: [
+			"The city's vibrant arts scene attracts visitors from around the world.",
+			"A vibrant community is characterized by diverse cultural expressions.",
+			"Her vibrant personality and enthusiasm brighten up any room.",
+		],
+	},
+	{
+		id: 969,
+		word: "prosper",
+		equal: "Prosperar",
+		defination:
+			"Tener éxito, crecer y florecer en diversos aspectos, como la carrera o la vida financiera.",
+		phrases: [
+			"Countries with stable economies often prosper and provide a high quality of life.",
+			"Entrepreneurs seek to create businesses that will prosper in the long term.",
+			"Personal development is a key factor in the ability to prosper in one's endeavors.",
+		],
+	},
+	{
+		id: 970,
+		word: "fascinate",
+		equal: "Fascinar",
+		defination:
+			"Atraer y capturar la atención de alguien de manera intensa; causar un gran interés o asombro.",
+		phrases: [
+			"The mysteries of the universe continue to fascinate scientists and researchers.",
+			"Great storytellers have the ability to fascinate audiences with their narratives.",
+			"Exploring new cultures can be a fascinating and enriching experience.",
+		],
+	},
+	{
+		id: 971,
+		word: "astonish",
+		equal: "Asombrar",
+		defination: "Causar asombro, sorpresa o admiración extrema.",
+		phrases: [
+			"The magician's performance never failed to astonish and amaze the audience.",
+			"Scientific discoveries can astonish the world with their groundbreaking nature.",
+			"Her talent for music never ceased to astonish those who heard her play.",
+		],
+	},
+	{
+		id: 972,
+		word: "fortitude",
+		equal: "Fortaleza",
+		defination:
+			"Fuerza mental y emocional en momentos de dificultad; valentía y resistencia.",
+		phrases: [
+			"Facing adversity with fortitude is a testament to one's inner strength.",
+			"Individuals with fortitude can navigate challenges with grace and determination.",
+			"Building fortitude is essential for overcoming life's inevitable obstacles.",
+		],
+	},
+	{
+		id: 973,
+		word: "collaborate",
+		equal: "Colaborar",
+		defination:
+			"Trabajar en conjunto con otros para lograr un objetivo común; cooperar.",
+		phrases: [
+			"Innovation often results from individuals who collaborate and share ideas.",
+			"Teams that collaborate effectively tend to achieve greater success.",
+			"The ability to collaborate is a valuable skill in both professional and personal settings.",
+		],
+	},
+	{
+		id: 974,
+		word: "ambitious",
+		equal: "Ambicioso",
+		defination:
+			"Tener un fuerte deseo de lograr éxito, poder o reconocimiento; mostrar determinación y esfuerzo.",
+		phrases: [
+			"Ambitious entrepreneurs are willing to take risks to achieve their vision.",
+			"Setting ambitious goals can drive personal and professional growth.",
+			"She has an ambitious plan to make a positive impact on the community.",
+		],
+	},
+	{
+		id: 975,
+		word: "criticize",
+		equal: "Criticar",
+		defination:
+			"Evaluar y expresar opiniones negativas sobre algo o alguien; señalar defectos o fallos.",
+		phrases: [
+			"Constructive feedback is more helpful than simply choosing to criticize.",
+			"It's essential to criticize ideas without demeaning the individuals presenting them.",
+			"Artists often face the challenge of dealing with both praise and criticism.",
+		],
+	},
+	{
+		id: 976,
+		word: "resilient",
+		equal: "Resiliente",
+		defination:
+			"Capaz de recuperarse rápidamente de dificultades, traumas o cambios; resistente.",
+		phrases: [
+			"Resilient communities come together to rebuild after natural disasters.",
+			"A resilient mindset is crucial for navigating the ups and downs of life.",
+			"Organizations with resilient leaders can adapt to unexpected challenges.",
+		],
+	},
+	{
+		id: 977,
+		word: "charm",
+		equal: "Encanto",
+		defination:
+			"Atracción o magia que cautiva y deleita; un rasgo agradable o atractivo.",
+		phrases: [
+			"Her genuine kindness and warm personality add to her natural charm.",
+			"The old bookstore had a certain charm that attracted book lovers.",
+			"A person's charm can have a positive impact on social interactions.",
+		],
+	},
+	{
+		id: 978,
+		word: "unleash",
+		equal: "Desatar",
+		defination:
+			"Liberar o dejar salir con fuerza; permitir que algo se manifieste con intensidad.",
+		phrases: [
+			"The team was determined to unleash their full potential in the competition.",
+			"Innovation can be unleashed through a culture that encourages creativity.",
+			"Sometimes, a simple idea has the power to unleash significant change.",
+		],
+	},
+	{
+		id: 979,
+		word: "elevate",
+		equal: "Elevar",
+		defination:
+			"Elevar algo a una posición más alta; mejorar o exaltar en términos de calidad o estatus.",
+		phrases: [
+			"The goal is to elevate the standards of education for all students.",
+			"Acts of kindness and generosity can elevate the human experience.",
+			"Leadership is about inspiring and elevating those around you.",
+		],
+	},
+	{
+		id: 980,
+		word: "gratitude",
+		equal: "Gratitud",
+		defination:
+			"Sentimiento de agradecimiento y aprecio hacia algo o alguien.",
+		phrases: [
+			"Expressing gratitude for small gestures can create a positive atmosphere.",
+			"Practicing gratitude is associated with improved mental well-being.",
+			"Cultivating a sense of gratitude can enhance overall life satisfaction.",
+		],
+	},
+	{
+		id: 981,
+		word: "persevere",
+		equal: "Perseverar",
+		defination:
+			"Persistir en un esfuerzo a pesar de las dificultades, obstáculos o desafíos.",
+		phrases: [
+			"Those who persevere through challenges often emerge stronger and wiser.",
+			"Perseverance is a key factor in achieving long-term goals and success.",
+			"The ability to persevere is a valuable trait in both personal and professional pursuits.",
+		],
+	},
+	{
+		id: 982,
+		word: "careful",
+		equal: "Cuidadoso",
+		defination:
+			"Tomar precauciones y actuar con atención para evitar errores o problemas.",
+		phrases: [
+			"Being careful in decision-making reduces the likelihood of regret.",
+			"A careful approach to experiments is crucial in scientific research.",
+			"Drivers should be extra careful when navigating unfamiliar roads.",
+		],
+	},
+	{
+		id: 983,
+		word: "adapt",
+		equal: "Adaptar",
+		defination:
+			"Ajustarse y cambiar para sobrevivir o prosperar en nuevas condiciones o entornos.",
+		phrases: [
+			"Creativity often involves the ability to adapt to unexpected challenges.",
+			"Species that can adapt to environmental changes have a higher chance of survival.",
+			"In the business world, the ability to adapt is crucial for long-term success.",
+		],
+	},
+	{
+		id: 984,
+		word: "endeavor",
+		equal: "Esfuerzo",
+		defination:
+			"Un esfuerzo serio y sostenido hacia un objetivo; empeño o intento.",
+		phrases: [
+			"The scientific endeavor to understand the universe is ongoing and fascinating.",
+			"Embarking on a new endeavor often involves overcoming initial challenges.",
+			"Success in any endeavor requires a combination of skill, effort, and perseverance.",
+		],
+	},
+	{
+		id: 985,
+		word: "brilliant",
+		equal: "Brillante",
+		defination:
+			"Excepcionalmente inteligente o talentoso; resplandeciente con luz.",
+		phrases: [
+			"His brilliant mind allowed him to solve complex problems with ease.",
+			"Artists often create brilliant works that leave a lasting impact on society.",
+			"A brilliant performance captivates the audience and earns admiration.",
+		],
+	},
+	{
+		id: 986,
+		word: "burst",
+		equal: "Estallido",
+		defination:
+			"Romper repentinamente con fuerza; una explosión o liberación súbita.",
+		phrases: [
+			"The burst of laughter echoed through the room, creating a joyful atmosphere.",
+			"A burst of creativity can lead to innovative solutions and ideas.",
+			"In spring, flowers burst into bloom, filling the landscape with color.",
+		],
+	},
+	{
+		id: 987,
+		word: "comfort",
+		equal: "Confort",
+		defination:
+			"Sentimiento de bienestar y comodidad; alivio y tranquilidad.",
+		phrases: [
+			"A cozy blanket and a warm cup of tea provide a sense of comfort.",
+			"Creating a comfortable environment at home promotes relaxation.",
+			"In times of distress, the presence of loved ones brings comfort.",
+		],
+	},
+	{
+		id: 988,
+		word: "discovery",
+		equal: "Descubrimiento",
+		defination:
+			"El acto de encontrar algo nuevo o revelador; el proceso de hacer un hallazgo.",
+		phrases: [
+			"Scientific discoveries often reshape our understanding of the world.",
+			"Traveling to new places can lead to exciting discoveries and experiences.",
+			"The joy of discovery fuels curiosity and a thirst for knowledge.",
+		],
+	},
+	{
+		id: 989,
+		word: "innovate",
+		equal: "Innovar",
+		defination:
+			"Introducir algo nuevo o implementar cambios creativos para mejorar.",
+		phrases: [
+			"Companies that continually innovate are more likely to stay competitive.",
+			"Innovation in technology has transformed the way we live and work.",
+			"Creative minds are always seeking ways to innovate and push boundaries.",
+		],
+	},
+	{
+		id: 990,
+		word: "illuminate",
+		equal: "Iluminar",
+		defination:
+			"Proporcionar luz; hacer que algo sea claro y comprensible.",
+		phrases: [
+			"Streetlights illuminate the city streets, providing a sense of security.",
+			"Education has the power to illuminate the minds of individuals.",
+			"Clear explanations can illuminate complex concepts for better understanding.",
+		],
+	},
+	{
+		id: 991,
+		word: "motivate",
+		equal: "Motivar",
+		defination:
+			"Estimular el interés o la acción; proporcionar incentivos para lograr un objetivo.",
+		phrases: [
+			"Positive feedback can motivate individuals to excel in their work.",
+			"Setting meaningful goals is essential to staying motivated.",
+			"Effective leaders find ways to motivate and inspire their teams.",
+		],
+	},
+	{
+		id: 992,
+		word: "integrity",
+		equal: "Integridad",
+		defination:
+			"La calidad de ser honesto y tener principios morales sólidos; la coherencia de acciones y valores.",
+		phrases: [
+			"Leaders with integrity earn the trust and respect of their followers.",
+			"Maintaining integrity in the face of challenges is a mark of character.",
+			"Integrity is the foundation of strong and enduring relationships.",
+		],
+	},
+	{
+		id: 993,
+		word: "revitalize",
+		equal: "Revitalizar",
+		defination:
+			"Renovar y dar nueva vida o energía a algo; restaurar la vitalidad.",
+		phrases: [
+			"Urban renewal projects aim to revitalize neglected areas of the city.",
+			"A good night's sleep can revitalize both the body and mind.",
+			"Innovation is often a key factor in efforts to revitalize industries.",
+		],
+	},
+	{
+		id: 994,
+		word: "danger",
+		equal: "Peligro",
+		defination:
+			"La posibilidad de sufrir daño, lesión o pérdida; la presencia de amenazas.",
+		phrases: [
+			"Warning signs are placed in areas where there is a danger to the public.",
+			"Awareness of potential dangers is crucial for personal safety.",
+			"Addressing environmental dangers is essential for long-term well-being.",
+		],
+	},
+	{
+		id: 995,
+		word: "thrive",
+		equal: "Prosperar",
+		defination:
+			"Crecer y prosperar en condiciones óptimas; tener éxito y florecer.",
+		phrases: [
+			"Communities with strong social connections tend to thrive and prosper.",
+			"Plants and animals thrive in ecosystems with a balanced environment.",
+			"Individuals who embrace challenges often thrive in their personal and professional lives.",
+		],
+	},
+	{
+		id: 996,
+		word: "inspire",
+		equal: "Inspirar",
+		defination:
+			"Estimular o influenciar de manera profunda y positiva; infundir creatividad o entusiasmo.",
+		phrases: [
+			"Great leaders inspire others to believe in their own potential.",
+			"Art and music have the power to inspire and evoke strong emotions.",
+			"Overcoming adversity can inspire individuals to pursue their dreams.",
+		],
+	},
+	{
+		id: 997,
+		word: "demand",
+		equal: "Demandar",
+		defination:
+			"Solicitar con firmeza; requerir como necesario o esencial.",
+		phrases: [
+			"Consumers increasingly demand sustainable and ethically sourced products.",
+			"A challenging project may demand creative problem-solving skills.",
+			"Leadership roles often demand a combination of skills and strategic thinking.",
+		],
+	},
+	{
+		id: 998,
+		word: "discipline",
+		equal: "Disciplina",
+		defination:
+			"La capacidad de controlar y regular comportamientos; el entrenamiento y la autodisciplina.",
+		phrases: [
+			"Athletes rely on discipline to maintain rigorous training schedules.",
+			"Discipline in time management is crucial for productivity and success.",
+			"Children benefit from a balance of love and discipline in their upbringing.",
+		],
+	},
+	{
+		id: 999,
+		word: "triumph",
+		equal: "Triunfo",
+		defination:
+			"Un éxito notable o victoria lograda a través de esfuerzo y superación.",
+		phrases: [
+			"The team celebrated their triumph after winning the championship.",
+			"Personal triumphs often involve overcoming significant challenges.",
+			"The journey to triumph is marked by perseverance and determination.",
+		],
+	},
 ];
