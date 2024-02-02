@@ -4,3 +4,4 @@ export * from "./header";
 export * from "./modalStudyWords";
 export * from "./modalWord";
 export * from "./words";
+export * from './userManual'

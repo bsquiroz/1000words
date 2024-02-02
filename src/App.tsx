@@ -1,50 +1,25 @@
-import { useEffect } from "react";
-import { words as wordsData } from "./data/words";
-
 import {
-	Container,
-	ContentButton,
-	Header,
-	ModalStudyWords,
-	ModalWord,
-	Words,
+    Container,
+    ContentButton,
+    Header,
+    ModalStudyWords,
+    ModalWord,
+    UserManual,
+    Words,
 } from "./components";
-
-import { useStore } from "./store";
+import { useApp } from "./hooks/useApp";
 
 export const App = () => {
-	const { words, valuesIndexWord, setWordsCurrent, setWords } = useStore(
-		(state) => state
-	);
+    useApp();
 
-	useEffect(() => {
-		const { endWord, initWord } = valuesIndexWord;
-
-		if (initWord !== 0 && endWord > 10) {
-			const wordAux = words.slice(initWord, endWord);
-			setWordsCurrent(wordAux);
-		} else {
-			const wordAux = words.slice(0, 10);
-			setWordsCurrent(wordAux);
-		}
-	}, [valuesIndexWord]);
-
-	useEffect(() => {
-		if (
-			wordsData.length !==
-			JSON.parse(localStorage.getItem("1000words")!).state.words.length
-		) {
-			setWords(wordsData);
-		}
-	}, []);
-
-	return (
-		<Container>
-			<Header />
-			<ContentButton />
-			<Words />
-			<ModalWord />
-			<ModalStudyWords />
-		</Container>
-	);
+    return (
+        <Container>
+            <Header />
+            <ContentButton />
+            <Words />
+            <ModalWord />
+            <ModalStudyWords />
+            <UserManual />
+        </Container>
+    );
 };
