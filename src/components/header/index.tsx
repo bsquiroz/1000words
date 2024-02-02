@@ -8,7 +8,7 @@ export const Header = () => {
     const setIsShowUserModal = useStore((state) => state.setIsShowUserManual);
 
     return (
-        <section className="flex gap-5 justify-end items-center">
+        <section className="flex flex-wrap gap-5 justify-center sm:justify-end items-center">
             <h2 className={cn("font-bold text-center")}>
                 Cantidad de palabras: {words.length} palabras
             </h2>

@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { useStore } from "../../store";
 import { cn } from "../../utils/cn.utility";
 
@@ -8,6 +9,17 @@ export const UserManual = () => {
     const handleClick = () => {
         setIsShowUserManual(false);
     };
+
+    useEffect(() => {
+        const isWatchUserManual = JSON.parse(
+            localStorage.getItem("isWatchUserManual")!
+        );
+
+        if (!isWatchUserManual) {
+            setIsShowUserManual(true);
+            localStorage.setItem("isWatchUserManual", JSON.stringify(true));
+        }
+    }, []);
 
     return (
         <section
